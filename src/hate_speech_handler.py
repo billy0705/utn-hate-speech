@@ -1,4 +1,16 @@
+import os
 from models import LanguageModel, ChatGPTModel, LlamaModel
+
+def load_env_vars(env_path=".env"):
+    env_vars = {}
+    if os.path.exists(env_path):
+        with open(env_path, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    key, value = line.split('=', 1)
+                    env_vars[key] = value.strip('\'"')
+    return env_vars
 
 class HateSpeechHandler:
     """
@@ -40,14 +52,16 @@ class HateSpeechHandler:
         return self.model.classify_response(hate_speech_text, response_text)
 
 if __name__ == '__main__':
-    # Example usage:
-    # You would need to provide your actual API key for ChatGPT
-    # chatgpt_model = ChatGPTModel(api_key="YOUR_API_KEY")
-    # handler = HateSpeechHandler(model=chatgpt_model)
+    env_vars = load_env_vars()
+    openai_api_key = env_vars.get("OPENAI_API_KEY")
+
+    # Example usage with ChatGPT
+    chatgpt_model = ChatGPTModel(api_key=openai_api_key, language="english")
+    handler = HateSpeechHandler(model=chatgpt_model)
     
     # Example with Llama (no API key needed for local models)
-    llama_model = LlamaModel()
-    handler = HateSpeechHandler(model=llama_model)
+    # llama_model = LlamaModel(language="english")
+    # handler = HateSpeechHandler(model=llama_model)
 
     hate_speech = "This is a hateful comment."
     
