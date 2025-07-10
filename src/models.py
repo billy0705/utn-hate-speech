@@ -1,9 +1,27 @@
+import os
+import json
+from openai import OpenAI
 from abc import ABC, abstractmethod
 
 class LanguageModel(ABC):
     """
     Abstract base class for language models.
     """
+    def __init__(self, language: str = "english"):
+        self.language = language
+        self._load_prompts()
+
+    def _load_prompts(self):
+        script_dir = os.path.dirname(__file__)
+        prompts_file_path = os.path.join(script_dir, "prompt_templates.json")
+        with open(prompts_file_path, 'r') as f:
+            prompts = json.load(f)
+
+        if self.language not in prompts:
+            raise ValueError(f"Language '{self.language}' not found in prompt templates.")
+        else:
+            self.prompt_templates = prompts[self.language]
+
     @abstractmethod
     def generate_response(self, hate_speech_text: str) -> str:
         """
@@ -18,43 +36,36 @@ class LanguageModel(ABC):
         """
         pass
 
-import os
-from openai import OpenAI
-
 class ChatGPTModel(LanguageModel):
     """
     Wrapper for the ChatGPT model.
     """
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, language: str = "english"):
+        super().__init__(language)
         if not api_key:
             raise ValueError("API key is required for ChatGPT.")
         self.api_key = api_key
         self.client = OpenAI(api_key=self.api_key)
 
     def generate_response(self, hate_speech_text: str) -> str:
-        prompt = f"Generate a constructive and respectful response to the following text: '{hate_speech_text}'"
+        template = self.prompt_templates["response_generation"]
+        prompt = template["prompt"].format(hate_speech_text=hate_speech_text)
+        role = template["role"]
+
         response = self.client.chat.completions.create(
             model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}]
+            messages=[{"role": role, "content": prompt}]
         )
         return response.choices[0].message.content
 
     def classify_response(self, hate_speech_text: str, response_text: str) -> str:
-        prompt = f"""
-        Given the following hate speech text and the response to it, classify the response into one of the following categories:
-        - Constructive
-        - Neutral
-        - Unhelpful
-        - Escalating
+        template = self.prompt_templates["classification"]
+        prompt = template["prompt"].format(hate_speech_text=hate_speech_text, response_text=response_text)
+        role = template["role"]
 
-        Hate Speech: '{hate_speech_text}'
-        Response: '{response_text}'
-
-        Classification:
-        """
         response = self.client.chat.completions.create(
             model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}]
+            messages=[{"role": role, "content": prompt}]
         )
         return response.choices[0].message.content
 
@@ -62,27 +73,19 @@ class LlamaModel(LanguageModel):
     """
     Wrapper for a local Llama model.
     """
-    def __init__(self):
+    def __init__(self, language: str = "english"):
+        super().__init__(language)
         # In a real implementation, you would load the local Llama model here.
         print("Llama model initialized (placeholder).")
 
     def generate_response(self, hate_speech_text: str) -> str:
-        prompt = f"Generate a constructive and respectful response to the following text: '{hate_speech_text}'"
+        template = self.prompt_templates["response_generation"]
+        prompt = template["prompt"].format(hate_speech_text=hate_speech_text)
         # This is a placeholder for the actual call to the local Llama model.
         return f"This is a placeholder response from Llama to: '{hate_speech_text}'"
 
     def classify_response(self, hate_speech_text: str, response_text: str) -> str:
-        prompt = f"""
-        Given the following hate speech text and the response to it, classify the response into one of the following categories:
-        - Constructive
-        - Neutral
-        - Unhelpful
-        - Escalating
-
-        Hate Speech: '{hate_speech_text}'
-        Response: '{response_text}'
-
-        Classification:
-        """
+        template = self.prompt_templates["classification"]
+        prompt = template["prompt"].format(hate_speech_text=hate_speech_text, response_text=response_text)
         # This is a placeholder for the actual call to the local Llama model.
         return "Constructive" # Placeholder classification
