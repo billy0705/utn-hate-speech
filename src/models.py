@@ -49,23 +49,27 @@ class ChatGPTModel(LanguageModel):
 
     def generate_response(self, hate_speech_text: str) -> str:
         template = self.prompt_templates["response_generation"]
-        prompt = template["prompt"].format(hate_speech_text=hate_speech_text)
-        role = template["role"]
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text)}
+        ]
 
         response = self.client.chat.completions.create(
             model="gpt-4o-mini",
-            messages=[{"role": role, "content": prompt}]
+            messages=messages
         )
         return response.choices[0].message.content
 
     def classify_response(self, hate_speech_text: str, response_text: str) -> str:
         template = self.prompt_templates["classification"]
-        prompt = template["prompt"].format(hate_speech_text=hate_speech_text, response_text=response_text)
-        role = template["role"]
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)}
+        ]
 
         response = self.client.chat.completions.create(
             model="gpt-4o-mini",
-            messages=[{"role": role, "content": prompt}]
+            messages=messages
         )
         return response.choices[0].message.content
 
@@ -80,12 +84,18 @@ class LlamaModel(LanguageModel):
 
     def generate_response(self, hate_speech_text: str) -> str:
         template = self.prompt_templates["response_generation"]
-        prompt = template["prompt"].format(hate_speech_text=hate_speech_text)
+        if "user" in template:
+            prompt = template["user"].format(hate_speech_text=hate_speech_text)
+        else:
+            prompt = template["prompt"].format(hate_speech_text=hate_speech_text)
         # This is a placeholder for the actual call to the local Llama model.
         return f"This is a placeholder response from Llama to: '{hate_speech_text}'"
 
     def classify_response(self, hate_speech_text: str, response_text: str) -> str:
         template = self.prompt_templates["classification"]
-        prompt = template["prompt"].format(hate_speech_text=hate_speech_text, response_text=response_text)
+        if "user" in template:
+            prompt = template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)
+        else:
+            prompt = template["prompt"].format(hate_speech_text=hate_speech_text, response_text=response_text)
         # This is a placeholder for the actual call to the local Llama model.
         return "Constructive" # Placeholder classification

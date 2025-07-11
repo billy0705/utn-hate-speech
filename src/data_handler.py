@@ -67,6 +67,11 @@ class DataHandler:
         # Load existing LLM responses to avoid duplicates.
         llm_responses_df = self.get_llm_responses()
         
+        # Create a set of existing responses for efficient lookup.
+        existing_responses = set()
+        if not llm_responses_df.empty:
+            existing_responses = set(zip(llm_responses_df['Sample_ID'], llm_responses_df['Model_Name']))
+
         # Initialize a list to store new responses.
         new_responses = []
         
@@ -99,7 +104,7 @@ class DataHandler:
                 hate_text = row['Text']
                 
                 # Skip if a response for this sample and model already exists.
-                if not llm_responses_df[(llm_responses_df['Sample_ID'] == sample_id) & (llm_responses_df['Model_Name'] == model_name)].empty:
+                if (sample_id, model_name) in existing_responses:
                     print(f"Skipping Sample_ID {sample_id} for model {model_name} as it already exists.")
                     continue
 
