@@ -1,0 +1,589 @@
+Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
+1,0,Albanian,other,Ndoshta OKB-ja mund të flasë me ato vende aziatike dhe afrikane që janë përgjegjëse për mbi 90% të ndotjes së oqeaneve në vend që të këmbëngulë në këtë budallallëk për ndryshimet klimatike.,CONAN
+2,1,Albanian,JEWS,"‘Lëngu (Hebrenjtë) janë më keq se bombat bërthamore.’ Titulli i një meme që tregon Hiroshimën në 1945 dhe sot, në kontrast me fotografitë e Detroitit në 1945 dhe sot.",CONAN
+3,2,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vitet e fundit me mbi 400 mijë që marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
+4,3,Albanian,JEWS,"Hebrenjtë nuk mund të jenë patriotë, pasi besnikëria e tyre do të jetë gjithmonë ndaj shtetit të Izraelit.",CONAN
+5,4,Albanian,JEWS,"Izraeli, Sionizmi dhe kontrolli supremacist hebre mbi Amerikën janë shkaqet kryesore të terrorizmit, paqëndrueshmërisë dhe konflikteve në botë. Të gjitha teoritë e tjera janë shmangie nga kjo e vërtetë përfundimtare.",CONAN
+6,5,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, të tilla mbeten shumicën e jetës së tyre. Të buta dhe emocionale. Kjo e ka shkatërruar qytetërimin tonë dikur të madh patriarkal.",CONAN
+7,6,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vitet e fundit me mbi 400 mijë që marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
+8,7,Albanian,POC,"Raca është një konstrukt shoqëror, dhe nëse sheh ndonjë ndryshim mes këtyre dy grave, është sepse ke një sëmundje mendore. [imazh që tregon një atlete femër europiane bjonde, krahas një gruaje afrikane me pjatë buzësh]",CONAN
+9,8,Albanian,WOMEN,"Kush dreqin je ti? Jemi të ngopur me Misandristet Vaginale që përpiqen të minojnë meshkujt e fuqishëm të bardhë, ndërsa vetë janë vetëm xheloze, të paafta dhe të padobishme.",CONAN
+10,9,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, të tilla mbeten shumicën e jetës së tyre. Të buta dhe emocionale. Kjo e ka shkatërruar qytetërimin tonë dikur të madh patriarkal.",CONAN
+11,10,Albanian,WOMEN,"Kush dreqin je ti? Jemi të ngopur me Misandristet Vaginale që përpiqen të minojnë meshkujt e bardhë të fuqishëm. Ato janë vetëm xheloze, të paafta dhe të padobishme.",CONAN
+12,11,Albanian,other,"Më bën të qesh me gjithë shpirt, pse të mos jenë të bardhët supremë në një vend kryesisht të bardhë? Pse askush nuk ankohet për supremacinë e zezë në vendet e zeza si Somalia? Apo supremacia meksikane? Apo ajo indiane? Vetëm ne durojmë këtë budallallëk.",CONAN
+13,12,Albanian,JEWS,Cili është ndryshimi mes një lope dhe Holokaustit? Ti ndalon ta mjelësh lopën pas 70 vitesh.,CONAN
+14,13,Albanian,WOMEN,Filluam të shpërbëhemi kur lejuam gratë të votonin/të ndërhynin në qytetërimin që ndërtuam dhe mirëmbajtëm për mijëra vjet. Energjia dhe mënyra e tyre e mendimit është krejtësisht ndryshe. Janë të dobëta dhe e ulin shoqërinë tonë në nivelin e tyre emocional të butë.,CONAN
+15,14,Albanian,JEWS,"Hebrenjtë pëlqejnë të ndajnë zona për vete, ku asnjë hebre tjetër nuk lejohet të shkojë, ndërkohë që gjykatësit e tyre mbushin lagjet e bardha me banesa sociale.",CONAN
+16,15,Albanian,JEWS,Pakicat votojnë për t'u marrë pasurinë dhe fuqinë të bardhëve dhe kjo organizohet nga Hebrenjtë.,CONAN
+17,16,Albanian,JEWS,"Izraeli, Sionizmi dhe kontrolli supremacist hebre mbi Amerikën janë shkaqet kryesore të terrorizmit, paqëndrueshmërisë dhe konflikteve në botë. Të gjitha teoritë e tjera janë shmangie nga kjo e vërtetë përfundimtare.",CONAN
+18,17,Albanian,JEWS,"Hebrenjtë bënë: Sulmin ndaj USS Liberty, sulmin ndaj hotelit King David, New York 9/11, Londër 7/7",CONAN
+19,18,Albanian,JEWS,"Ekstremistët sionistë komplotojnë në Jeruzalem. Qëllimet e tyre janë të shkaktojnë kaos, masakra, vrasje, të krijojnë më shumë refugjatë dhe të shkatërrojnë Europën.",CONAN
+20,19,Albanian,JEWS,Po sikur e gjithë klasa jonë drejtuese të përbëhej nga pedofilë të kontrolluar nga Hebrenjtë? Kjo do të shpjegonte shumë.,CONAN
+21,20,Albanian,JEWS,Hebrenjtë globalë nuk donin Brexit dhe po bëjnë gjithçka për ta sabotuar atë.,CONAN
+22,21,Albanian,JEWS,"Hebrenjtë bënë: Sulmin ndaj USS Liberty, sulmin ndaj hotelit King David, New York 9/11, Londër 7/7",CONAN
+23,22,Albanian,other,"Një hebre amerikan, ashtu si një mysliman, është i huaj, besnik ndaj fisit të tij të lindjes, duke u shtirur si pjesë e grupit për të nënshtruar normat kulturore, politike dhe shoqërore. Nuk kemi pse të zgjedhim, është në rregull t'i urrejmë të dy.",CONAN
+24,23,Albanian,other,"Një hebre amerikan, ashtu si një mysliman, është i huaj, besnik ndaj fisit të tij të lindjes, duke u shtirur si pjesë e grupit për të nënshtruar normat kulturore, politike dhe shoqërore. Nuk kemi pse të zgjedhim, është në rregull t'i urrejmë të dy.",CONAN
+25,24,Albanian,LGBT+,"Sekretari i Arsimit në MB: 'Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme mbi marrëdhëniet e së njëjtës gjini.' – Kjo nuk ka të bëjë me arsimin, por me ngatërrimin dhe indoktrinimin e qëllimshëm të fëmijëve dhe pengimin e zhvillimit të personaliteteve të tyre.",CONAN
+26,25,Albanian,WOMEN,"Kush dreqin je ti? Jemi të ngopur me Misandristet Vaginale që përpiqen të minojnë meshkujt e fuqishëm të bardhë, ndërsa vetë janë vetëm xheloze, të paafta dhe të padobishme.",CONAN
+27,26,Albanian,other,"Qeveria e MB ka publikuar së fundmi një dokument mbi ‘Dëmet Online’ – me fjalë të tjera ata do të punojnë me organizatat hebraike dhe myslimane kundër urrejtjes për të censuruar internetin. (Duke iu referuar Tell Mama, CST dhe Stop Hate UK)",CONAN
+28,27,Albanian,LGBT+,Që kur është bërë përdorimi i anusit si organ seksual një ‘arritje monumentale’? KJO ËSHTË HOMOSEKSUALITET I DETYRUAR NGA SHTETI! Ndoshta duhet ta ndryshojmë moton tonë në ‘Besojmë në kamatë dhe sodomi’ (në përgjigje të dekriminalizimit të homoseksualitetit nga Botsvana),CONAN
+29,28,Albanian,WOMEN,"Ja pse gratë nuk i përkasin politikës, nëse një burrë ankohej si ato, do të quhej frikacak dhe do t’i thuhej të largohej nga puna. Barazia është një gënjeshtër dhe feminizmi është dënimi me vdekje për çdo civilizim.",CONAN
+30,29,Albanian,MIGRANTS,Pakistan: 202 milionë Nigeria: 193 milionë Bangladesh: 165 milionë Etiopi: 107 milionë Kongo: 84 milionë Britania e Madhe: 66 milionë ‘Pakicat etnike’ Mos më bëj të qesh me gjithë shpirt!,CONAN
+31,30,Albanian,LGBT+,"Sekretari i Arsimit në MB: 'Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme mbi marrëdhëniet e së njëjtës gjini.' – Kjo nuk ka të bëjë me arsimin, por me ngatërrimin dhe indoktrinimin e qëllimshëm të fëmijëve dhe pengimin e zhvillimit të personaliteteve të tyre.",CONAN
+32,31,Albanian,MIGRANTS,Pakistan: 202 milionë Nigeria: 193 milionë Bangladesh: 165 milionë Etiopi: 107 milionë Kongo: 84 milionë Britania e Madhe: 66 milionë ‘Pakicat etnike’ Mos më bëj të qesh me gjithë shpirt!,CONAN
+33,32,Albanian,MIGRANTS,Pakistan: 202 milionë Nigeria: 193 milionë Bangladesh: 165 milionë Etiopi: 107 milionë Kongo: 84 milionë Britania e Madhe: 66 milionë ‘Pakicat etnike’ Mos më bëj të qesh me gjithë shpirt!,CONAN
+34,33,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion paund. Lypsarë në rrugën kryesore dhe dikush që fle në stol. Nuk mund t’i strehojmë njerëzit tanë por sjellim miliona të tjerë. Të thuash se të pastrehët janë për shkak të emigracionit të pakontrolluar do të të quajnë ‘racist’. (Titull mbi një foto të një të pastrehu që fle në stol)",CONAN
+35,34,Albanian,WOMEN,"Kur ju kafshët ta keni shkatërruar botën dhe të filloni të hani njëri-tjetrin, sepse për këtë jeni të mirë, ne do të jemi ende këtu, duke mbajtur të pastër gjakun tonë kundër çdo gjase, duke u penduar për ditën kur dëgjuam gratë dhe hoqëm takat nga fytet tuaja.",CONAN
+36,35,Albanian,other,Ndoshta OKB-ja mund të flasë me ato vende aziatike dhe afrikane që janë përgjegjëse për mbi 90% të ndotjes së oqeaneve në vend që të këmbëngulë në këtë budallallëk për ndryshimet klimatike.,CONAN
+37,36,Albanian,JEWS,Fuqia e tyre për të ndaluar filma dhe për të ndëshkuar regjisorë është dëshmi se hebrenjtë kontrollojnë Hollywood-in.,CONAN
+38,37,Albanian,WOMEN,Feministet kanë fituar. Me kaq shumë gra që nuk duan të riprodhojnë do të zëvendësohemi dhe do ta humbasim qytetërimin.,CONAN
+39,38,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, të tilla mbeten shumicën e jetës së tyre. Të buta dhe emocionale. Kjo e ka shkatërruar qytetërimin tonë dikur të madh patriarkal.",CONAN
+40,39,Albanian,JEWS,Nazistët ishin të dobët në vrasjen e hebrenjve… kudo që shikon ka një të mbijetuar të Holokaustit.,CONAN
+41,40,Albanian,JEWS,Nazistët ishin të dobët në vrasjen e hebrenjve… kudo që shikon ka një të mbijetuar të Holokaustit.,CONAN
+42,41,Albanian,JEWS,‘Holokausti’ është një biznes. Ka qenë dhe vazhdon të përdoret për të zhvaturr miliona nga vendet europiane si reparacione dhe për të krijuar një mur paprekshmërie pas të cilit hebrenjtë mund të veprojnë pa kritika.,CONAN
+43,42,Albanian,other,"Qeveria e MB ka publikuar së fundmi një dokument mbi ‘Dëmet Online’ – me fjalë të tjera ata do të punojnë me organizatat hebraike dhe myslimane kundër urrejtjes për të censuruar internetin. (Duke iu referuar Tell Mama, CST dhe Stop Hate UK)",CONAN
+44,43,Albanian,JEWS,Nazistët ishin të dobët në vrasjen e hebrenjve… kudo që shikon ka një të mbijetuar të Holokaustit.,CONAN
+45,44,Albanian,POC,"Raca është një konstrukt shoqëror, dhe nëse sheh ndonjë ndryshim mes këtyre dy grave, është sepse ke një sëmundje mendore. [imazh që tregon një atlete femër europiane bjonde, krahas një gruaje afrikane me pjatë buzësh]",CONAN
+46,45,Albanian,LGBT+,"Sekretari i Arsimit në MB: 'Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme mbi marrëdhëniet e së njëjtës gjini.' – Kjo nuk ka të bëjë me arsimin, por me ngatërrimin dhe indoktrinimin e qëllimshëm të fëmijëve dhe pengimin e zhvillimit të personaliteteve të tyre.",CONAN
+47,46,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, të tilla mbeten shumicën e jetës së tyre. Të buta dhe emocionale. Kjo e ka shkatërruar qytetërimin tonë dikur të madh patriarkal.",CONAN
+48,47,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, të tilla mbeten shumicën e jetës së tyre. Të buta dhe emocionale. Kjo e ka shkatërruar qytetërimin tonë dikur të madh patriarkal.",CONAN
+49,48,Albanian,MIGRANTS,Pakistan: 202 milionë Nigeria: 193 milionë Bangladesh: 165 milionë Etiopi: 107 milionë Kongo: 84 milionë Britania e Madhe: 66 milionë ‘Pakicat etnike’ Mos më bëj të qesh me gjithë shpirt!,CONAN
+50,49,Albanian,LGBT+,"Sekretari i Arsimit në MB: 'Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme mbi marrëdhëniet e së njëjtës gjini.' – Kjo nuk ka të bëjë me arsimin, por me ngatërrimin dhe indoktrinimin e qëllimshëm të fëmijëve dhe pengimin e zhvillimit të personaliteteve të tyre.",CONAN
+51,50,Albanian,other,"Qeveria e MB ka publikuar së fundmi një dokument mbi ‘Dëmet Online’ – me fjalë të tjera ata do të punojnë me organizatat hebraike dhe myslimane kundër urrejtjes për të censuruar internetin. (Duke iu referuar Tell Mama, CST dhe Stop Hate UK)",CONAN
+52,51,Albanian,LGBT+,Që kur është bërë përdorimi i anusit si organ seksual një ‘arritje monumentale’? KJO ËSHTË HOMOSEKSUALITET I DETYRUAR NGA SHTETI! Ndoshta duhet ta ndryshojmë moton tonë në ‘Besojmë në kamatë dhe sodomi’ (në përgjigje të dekriminalizimit të homoseksualitetit nga Botsvana),CONAN
+53,52,Albanian,WOMEN,Feministet kanë fituar. Me kaq shumë gra që nuk duan të riprodhojnë do të zëvendësohemi dhe do ta humbasim qytetërimin.,CONAN
+54,53,Albanian,JEWS,‘Holokausti’ është një biznes. Ka qenë dhe vazhdon të përdoret për të zhvaturr miliona nga vendet europiane si reparacione dhe për të krijuar një mur paprekshmërie pas të cilit hebrenjtë mund të veprojnë pa kritika.,CONAN
+55,54,Albanian,JEWS,‘Holokausti’ është një biznes. Ka qenë dhe vazhdon të përdoret për të zhvaturr miliona nga vendet europiane si reparacione dhe për të krijuar një mur paprekshmërie pas të cilit hebrenjtë mund të veprojnë pa kritika.,CONAN
+56,55,Albanian,JEWS,"‘Lëngu (Hebrenjtë) janë më keq se bombat bërthamore.’ Titulli i një meme që tregon Hiroshimën në 1945 dhe sot, në kontrast me fotografitë e Detroitit në 1945 dhe sot.",CONAN
+57,56,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion paund. Lypsarë në rrugën kryesore dhe dikush që fle në stol. Nuk mund t’i strehojmë njerëzit tanë por sjellim miliona të tjerë. Të thuash se të pastrehët janë për shkak të emigracionit të pakontrolluar do të të quajnë ‘racist’. (Titull mbi një foto të një të pastrehu që fle në stol)",CONAN
+58,57,Albanian,other,"Më bën të qesh me gjithë shpirt, pse të mos jenë të bardhët supremë në një vend kryesisht të bardhë? Pse askush nuk ankohet për supremacinë e zezë në vendet e zeza si Somalia? Apo supremacia meksikane? Apo ajo indiane? Vetëm ne durojmë këtë budallallëk.",CONAN
+59,58,Albanian,JEWS,Pakicat votojnë për t'u marrë pasurinë dhe fuqinë të bardhëve dhe kjo organizohet nga Hebrenjtë.,CONAN
+60,59,Albanian,LGBT+,E kam toleruar krenarinë gay. E kam toleruar që të jenë në TV dhe në çdo shesh qyteti. Por nuk e toleroj që demonët trans të lexojnë libra për fëmijët. (për orën e rrëfimeve nga drag queens),CONAN
+61,60,Albanian,JEWS,"Ekstremistët sionistë komplotojnë në Jeruzalem. Qëllimet e tyre janë të shkaktojnë kaos, masakra, vrasje, të krijojnë më shumë refugjatë dhe të shkatërrojnë Europën.",CONAN
+62,61,Albanian,LGBT+,E kam toleruar krenarinë gay. E kam toleruar që të jenë në TV dhe në çdo shesh qyteti. Por nuk e toleroj që demonët trans të lexojnë libra për fëmijët. (për orën e rrëfimeve nga drag queens),CONAN
+63,62,Albanian,JEWS,"‘Lëngu (Hebrenjtë) janë më keq se bombat bërthamore.’ Titulli i një meme që tregon Hiroshimën në 1945 dhe sot, në kontrast me fotografitë e Detroitit në 1945 dhe sot.",CONAN
+64,63,Albanian,LGBT+,Që kur është bërë përdorimi i anusit si organ seksual një ‘arritje monumentale’? KJO ËSHTË HOMOSEKSUALITET I DETYRUAR NGA SHTETI! Ndoshta duhet ta ndryshojmë moton tonë në ‘Besojmë në kamatë dhe sodomi’ (në përgjigje të dekriminalizimit të homoseksualitetit nga Botsvana),CONAN
+65,64,Albanian,JEWS,Hebrenjtë globalë nuk donin Brexit dhe po bëjnë gjithçka për ta sabotuar atë.,CONAN
+66,65,Albanian,JEWS,"Hebrenjtë nuk mund të jenë patriotë, pasi besnikëria e tyre do të jetë gjithmonë ndaj shtetit të Izraelit.",CONAN
+67,66,Albanian,JEWS,Komb i vetëm që hebrenjtë nuk e urrejnë është i tyre dhe po mbushin Europën me afrikanë dhe myslimanë.,CONAN
+68,67,Albanian,JEWS,Pakicat votojnë për t'u marrë pasurinë dhe fuqinë të bardhëve dhe kjo organizohet nga Hebrenjtë.,CONAN
+69,68,Albanian,JEWS,Cili është ndryshimi mes një lope dhe Holokaustit? Ti ndalon ta mjelësh lopën pas 70 vitesh.,CONAN
+70,69,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vitet e fundit me mbi 400 mijë që marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
+71,70,Albanian,other,"Më bën të qesh me gjithë shpirt, pse të mos jenë të bardhët supremë në një vend kryesisht të bardhë? Pse askush nuk ankohet për supremacinë e zezë në vendet e zeza si Somalia? Apo supremacia meksikane? Apo ajo indiane? Vetëm ne durojmë këtë budallallëk.",CONAN
+72,71,Albanian,other,"Qeveria e MB ka publikuar së fundmi një dokument mbi ‘Dëmet Online’ – me fjalë të tjera ata do të punojnë me organizatat hebraike dhe myslimane kundër urrejtjes për të censuruar internetin. (Duke iu referuar Tell Mama, CST dhe Stop Hate UK)",CONAN
+73,72,Albanian,other,Ndoshta OKB-ja mund të flasë me ato vende aziatike dhe afrikane që janë përgjegjëse për mbi 90% të ndotjes së oqeaneve në vend që të këmbëngulë në këtë budallallëk për ndryshimet klimatike.,CONAN
+74,73,Albanian,JEWS,"Hebrenjtë nuk mund të jenë patriotë, pasi besnikëria e tyre do të jetë gjithmonë ndaj shtetit të Izraelit.",CONAN
+75,74,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vitet e fundit me mbi 400 mijë që marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
+76,75,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion paund. Lypsarë në rrugën kryesore dhe dikush që fle në stol. Nuk mund t’i strehojmë njerëzit tanë por sjellim miliona të tjerë. Të thuash se të pastrehët janë për shkak të emigracionit të pakontrolluar do të të quajnë ‘racist’. (Titull mbi një foto të një të pastrehu që fle në stol)",CONAN
+77,76,Albanian,JEWS,"Hebrenjtë nuk mund të jenë patriotë, pasi besnikëria e tyre do të jetë gjithmonë ndaj shtetit të Izraelit.",CONAN
+78,77,Albanian,JEWS,Fuqia e tyre për të ndaluar filma dhe për të ndëshkuar regjisorë është dëshmi se hebrenjtë kontrollojnë Hollywood-in.,CONAN
+79,78,Albanian,other,"Më bën të qesh me gjithë shpirt, pse të mos jenë të bardhët supremë në një vend kryesisht të bardhë? Pse askush nuk ankohet për supremacinë e zezë në vendet e zeza si Somalia? Apo supremacia meksikane? Apo ajo indiane? Vetëm ne durojmë këtë budallallëk.",CONAN
+80,79,Albanian,JEWS,"Hebrenjtë pëlqejnë të ndajnë zona për vete, ku asnjë hebre tjetër nuk lejohet të shkojë, ndërkohë që gjykatësit e tyre mbushin lagjet e bardha me banesa sociale.",CONAN
+81,80,Albanian,JEWS,Komb i vetëm që hebrenjtë nuk e urrejnë është i tyre dhe po mbushin Europën me afrikanë dhe myslimanë.,CONAN
+82,81,Albanian,LGBT+,Duhet të jetë e vështirë të jesh gay. Ata duhet të bëjnë gjithçka që bëjmë ne por edhe të gjejnë kohë për të ngacmuar fëmijët.,CONAN
+83,82,Albanian,JEWS,Hebrenjtë globalë nuk donin Brexit dhe po bëjnë gjithçka për ta sabotuar atë.,CONAN
+84,83,Albanian,LGBT+,E kam toleruar krenarinë gay. E kam toleruar që të jenë në TV dhe në çdo shesh qyteti. Por nuk e toleroj që demonët trans të lexojnë libra për fëmijët. (për orën e rrëfimeve nga drag queens),CONAN
+85,84,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vitet e fundit me mbi 400 mijë që marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
+86,85,Albanian,JEWS,Komb i vetëm që hebrenjtë nuk e urrejnë është i tyre dhe po mbushin Europën me afrikanë dhe myslimanë.,CONAN
+87,86,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion paund. Lypsarë në rrugën kryesore dhe dikush që fle në stol. Nuk mund t’i strehojmë njerëzit tanë por sjellim miliona të tjerë. Të thuash se të pastrehët janë për shkak të emigracionit të pakontrolluar do të të quajnë ‘racist’. (Titull mbi një foto të një të pastrehu që fle në stol)",CONAN
+88,87,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion paund. Lypsarë në rrugën kryesore dhe dikush që fle në stol. Nuk mund t’i strehojmë njerëzit tanë por sjellim miliona të tjerë. Të thuash se të pastrehët janë për shkak të emigracionit të pakontrolluar do të të quajnë ‘racist’. (Titull mbi një foto të një të pastrehu që fle në stol)",CONAN
+89,88,Albanian,other,"Më bën të qesh me gjithë shpirt, pse të mos jenë të bardhët supremë në një vend kryesisht të bardhë? Pse askush nuk ankohet për supremacinë e zezë në vendet e zeza si Somalia? Apo supremacia meksikane? Apo ajo indiane? Vetëm ne durojmë këtë budallallëk.",CONAN
+90,89,Albanian,WOMEN,"Ja pse gratë nuk i përkasin politikës, nëse një burrë ankohej si ato, do të quhej frikacak dhe do t’i thuhej të largohej nga puna. Barazia është një gënjeshtër dhe feminizmi është dënimi me vdekje për çdo civilizim.",CONAN
+91,90,Albanian,WOMEN,Feministet kanë fituar. Me kaq shumë gra që nuk duan të riprodhojnë do të zëvendësohemi dhe do ta humbasim qytetërimin.,CONAN
+92,91,Albanian,JEWS,Po sikur e gjithë klasa jonë drejtuese të përbëhej nga pedofilë të kontrolluar nga Hebrenjtë? Kjo do të shpjegonte shumë.,CONAN
+93,92,Albanian,other,Ndoshta OKB-ja mund të flasë me ato vende aziatike dhe afrikane që janë përgjegjëse për mbi 90% të ndotjes së oqeaneve në vend që të këmbëngulë në këtë budallallëk për ndryshimet klimatike.,CONAN
+94,93,Albanian,other,Ndoshta OKB-ja mund të flasë me ato vende aziatike dhe afrikane që janë përgjegjëse për mbi 90% të ndotjes së oqeaneve në vend që të këmbëngulë në këtë budallallëk për ndryshimet klimatike.,CONAN
+95,94,Albanian,MIGRANTS,Pakistan: 202 milionë Nigeria: 193 milionë Bangladesh: 165 milionë Etiopi: 107 milionë Kongo: 84 milionë Britania e Madhe: 66 milionë ‘Pakicat etnike’ Mos më bëj të qesh me gjithë shpirt!,CONAN
+96,95,Albanian,WOMEN,"Ja pse gratë nuk i përkasin politikës, nëse një burrë ankohej si ato, do të quhej frikacak dhe do t’i thuhej të largohej nga puna. Barazia është një gënjeshtër dhe feminizmi është dënimi me vdekje për çdo civilizim.",CONAN
+97,96,Albanian,JEWS,"Hebrenjtë bënë: Sulmin ndaj USS Liberty, sulmin ndaj hotelit King David, New York 9/11, Londër 7/7",CONAN
+98,97,Albanian,JEWS,"Hebrenjtë bënë: Sulmin ndaj USS Liberty, sulmin ndaj hotelit King David, New York 9/11, Londër 7/7",CONAN
+99,98,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, të tilla mbeten shumicën e jetës së tyre. Të buta dhe emocionale. Kjo e ka shkatërruar qytetërimin tonë dikur të madh patriarkal.",CONAN
+100,99,Albanian,LGBT+,Duhet të jetë e vështirë të jesh gay. Ata duhet të bëjnë gjithçka që bëjmë ne por edhe të gjejnë kohë për të ngacmuar fëmijët.,CONAN
+101,101,Albanian,JEWS,Hebrenjtë globalë nuk e deshën Brexit-in dhe po bëjnë gjithçka për ta sabotuar.,CONAN
+102,102,Albanian,JEWS,Hebrenjtë globalë nuk e deshën Brexit-in dhe po bëjnë gjithçka për ta sabotuar.,CONAN
+103,103,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
+104,104,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vjet me mbi 400 mijë që tani marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
+105,105,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion £. Lypës në rrugën kryesore dhe dikush që fle në stol. Nuk mund të strehojmë njerëzit tanë, por sjellim miliona të tjerë. Të thuash që pastrehësia vjen nga emigracioni i pakontrolluar të quajnë ‘racist’.",CONAN
+106,106,Albanian,JEWS,Cili është ndryshimi mes një lope dhe Holokaustit? Ti ndalon së mjeluri lopën pas 70 vitesh.,CONAN
+107,107,Albanian,other,"Më bën të qesh, pse të mos jenë të bardhët supremë në një vend kryesisht të bardhë? Pse askush nuk ankohet për supremacinë e zezakëve në vendet e tyre si Somalia? Apo supremacia meksikane? Apo ajo indiane? Vetëm ne duam të durojmë këtë budallallëk.",CONAN
+108,108,Albanian,other,"Qeveria britanike publikoi së fundmi një dokument për ‘Dëmet Online’ – me fjalë të tjera do të punojnë me organizata hebraike dhe myslimane kundër urrejtjes për të censuruar internetin. (Duke iu referuar Tell Mama, CST dhe Stop Hate UK)",CONAN
+109,109,Albanian,JEWS,Cili është ndryshimi mes një lope dhe Holokaustit? Ti ndalon së mjeluri lopën pas 70 vitesh.,CONAN
+110,110,Albanian,JEWS,Lëngu (hebrejtë) janë arsyeja pse Amerika detyrohet të pranojë çdo mbeturinë që troket në derë. Ata duan që ky vend të përzihet dhe të bëhet budalla që të mund ta sundojnë unanimisht me pëlqimin e heshtur dhe të bindur të skllevërve të tyre të rinj.,CONAN
+111,111,Albanian,WOMEN,"Kjo është arsyeja pse gratë nuk i përkasin politikës, nëse një burrë do të ankohej si ato, do ta quanin frikacak dhe do t’i thoshin të largohej. Barazia është një gënjeshtër dhe feminizmi është një dënim me vdekje për çdo civilizim.",CONAN
+112,112,Albanian,other,Ndoshta OKB mund të flasë me ato vende aziatike dhe afrikane përgjegjëse për mbi 90% të ndotjes së oqeaneve në vend që të insistojë në këtë marrëzi për ndryshimet klimatike.,CONAN
+113,113,Albanian,JEWS,"‘Lëngu (hebrejtë) janë më të këqinj se bombat bërthamore.’ Përshkrim në një meme që tregon Hiroshima 1945 dhe sot, krahasuar me foto të Detroit 1945 dhe sot.",CONAN
+114,114,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vjet me mbi 400 mijë që tani marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
+115,115,Albanian,JEWS,"Hebrenjtë nuk mund të jenë patriotë, pasi besnikëria e tyre do të jetë gjithmonë për Izraelin.",CONAN
+116,116,Albanian,JEWS,"Izraeli, sionizmi dhe kontrolli supremacist hebre mbi Amerikën janë shkaqet kryesore të terrorizmit, paqëndrueshmërisë dhe konflikteve në botë. Të gjitha teoritë e tjera janë shmangie nga kjo e vërtetë e fundit.",CONAN
+117,117,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
+118,118,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vjet me mbi 400 mijë që tani marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
+119,119,Albanian,WOMEN,"Kush dreqin je ti? Na vjen përpjetë nga këto feministe që urrejnë meshkujt e bardhë të fuqishëm, kur vetë janë vetëm xheloze, të paafta dhe të padobishme.",CONAN
+120,120,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
+121,121,Albanian,other,"Më bën të qesh, pse të mos jenë të bardhët supremë në një vend kryesisht të bardhë? Pse askush nuk ankohet për supremacinë e zezakëve në vendet e tyre si Somalia? Apo supremacia meksikane? Apo ajo indiane? Vetëm ne duam të durojmë këtë budallallëk.",CONAN
+122,122,Albanian,WOMEN,Filluam të shpërbëheshim kur lejuam gratë të votonin/të ndërhynin në civilizimet tona që i kishim ndërtuar dhe mbajtur për mijëra vjet. Një energji dhe mendësi krejtësisht tjetër. Ato janë të dobëta dhe e ulën shoqërinë tonë në nivelin e tyre emocional të butë.,CONAN
+123,123,Albanian,JEWS,"Ekstremistët sionistë komplotojnë në Jeruzalem. Objektivat e tyre janë të shkaktojnë kaos, masakra, vrasje, të krijojnë më shumë refugjatë dhe të shkatërrojnë Evropën.",CONAN
+124,124,Albanian,other,"Një hebre amerikan, ashtu si një mysliman, është një i jashtëm, besnik ndaj fisit të tij të lindjes, që sillet si pjesë e grupit për të nënshtruar normat kulturore, politike dhe sociale. Nuk kemi pse të zgjedhim, është në rregull t’i urrejmë të dy.",CONAN
+125,125,Albanian,LGBT+,"Sekretari i Arsimit në MB: ‘Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme për marrëdhëniet e të njëjtit seks.’ – Kjo nuk ka të bëjë me edukimin, ka të bëjë me ngatërrimin dhe indoktrinimin e fëmijëve dhe pengimin e zhvillimit të personalitetit të tyre.",CONAN
+126,126,Albanian,LGBT+,Që kur është bërë abuzimi i anusit si organ seksual një 'arritje monumentale'? KJO ËSHTË HOMOSEKSUALITET I IMPONUAR NGA SHTETI! Ndoshta duhet ta ndryshojmë moton tonë në ‘Besojmë te Kamata dhe Sodomia’ (në përgjigje të dekriminalizimit të homoseksualitetit nga Botsvana).,CONAN
+127,127,Albanian,WOMEN,"Kjo është arsyeja pse gratë nuk i përkasin politikës, nëse një burrë do të ankohej si ato, do ta quanin frikacak dhe do t’i thoshin të largohej. Barazia është një gënjeshtër dhe feminizmi është një dënim me vdekje për çdo civilizim.",CONAN
+128,128,Albanian,MIGRANTS,Pakistan: 202 milion Nigeria: 193 milion Bangladesh: 165 milion Etiopi: 107 milion Kongo: 84 milion Britania e Madhe: 66 milion ‘Pakicat etnike’ Mos më bëj të qesh.,CONAN
+129,129,Albanian,MIGRANTS,Pakistan: 202 milion Nigeria: 193 milion Bangladesh: 165 milion Etiopi: 107 milion Kongo: 84 milion Britania e Madhe: 66 milion ‘Pakicat etnike’ Mos më bëj të qesh.,CONAN
+130,130,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion £. Lypës në rrugën kryesore dhe dikush që fle në stol. Nuk mund të strehojmë njerëzit tanë, por sjellim miliona të tjerë. Të thuash që pastrehësia vjen nga emigracioni i pakontrolluar të quajnë ‘racist’.",CONAN
+131,132,Albanian,other,Ndoshta OKB mund të flasë me ato vende aziatike dhe afrikane përgjegjëse për mbi 90% të ndotjes së oqeaneve në vend që të insistojë në këtë marrëzi për ndryshimet klimatike.,CONAN
+132,134,Albanian,WOMEN,Feministet kanë fituar. Me kaq shumë gra që nuk duan të riprodhojnë ne do të zëvendësohemi dhe do të humbasim civilizimin tonë.,CONAN
+133,135,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
+134,136,Albanian,JEWS,Nazistët ishin të dobët në vrasjen e hebrenjve… kudo që shikon ka të mbijetuar nga Holokausti.,CONAN
+135,137,Albanian,JEWS,‘Holokausti’ është një biznes. Është përdorur dhe ende përdoret për të shtrënguar miliona dëmshpërblime nga vendet evropiane dhe për të krijuar një mur paprekshmërie prapa të cilit hebrenjtë mund të veprojnë lirshëm pa kritika.,CONAN
+136,138,Albanian,JEWS,Nazistët ishin të dobët në vrasjen e hebrenjve… kudo që shikon ka të mbijetuar nga Holokausti.,CONAN
+137,139,Albanian,LGBT+,"Sekretari i Arsimit në MB: ‘Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme për marrëdhëniet e të njëjtit seks.’ – Kjo nuk ka të bëjë me edukimin, ka të bëjë me ngatërrimin dhe indoktrinimin e fëmijëve dhe pengimin e zhvillimit të personalitetit të tyre.",CONAN
+138,140,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
+139,141,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
+140,142,Albanian,LGBT+,"Sekretari i Arsimit në MB: ‘Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme për marrëdhëniet e të njëjtit seks.’ – Kjo nuk ka të bëjë me edukimin, ka të bëjë me ngatërrimin dhe indoktrinimin e fëmijëve dhe pengimin e zhvillimit të personalitetit të tyre.",CONAN
+141,143,Albanian,LGBT+,Që kur është bërë abuzimi i anusit si organ seksual një 'arritje monumentale'? KJO ËSHTË HOMOSEKSUALITET I IMPONUAR NGA SHTETI! Ndoshta duhet ta ndryshojmë moton tonë në ‘Besojmë te Kamata dhe Sodomia’ (në përgjigje të dekriminalizimit të homoseksualitetit nga Botsvana).,CONAN
+142,144,Albanian,JEWS,‘Holokausti’ është një biznes. Është përdorur dhe ende përdoret për të shtrënguar miliona dëmshpërblime nga vendet evropiane dhe për të krijuar një mur paprekshmërie prapa të cilit hebrenjtë mund të veprojnë lirshëm pa kritika.,CONAN
+143,145,Albanian,JEWS,‘Holokausti’ është një biznes. Është përdorur dhe ende përdoret për të shtrënguar miliona dëmshpërblime nga vendet evropiane dhe për të krijuar një mur paprekshmërie prapa të cilit hebrenjtë mund të veprojnë lirshëm pa kritika.,CONAN
+144,146,Albanian,JEWS,‘Holokausti’ është një biznes. Është përdorur dhe ende përdoret për të shtrënguar miliona dëmshpërblime nga vendet evropiane dhe për të krijuar një mur paprekshmërie prapa të cilit hebrenjtë mund të veprojnë lirshëm pa kritika.,CONAN
+145,147,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion £. Lypës në rrugën kryesore dhe dikush që fle në stol. Nuk mund të strehojmë njerëzit tanë, por sjellim miliona të tjerë. Të thuash që pastrehësia vjen nga emigracioni i pakontrolluar të quajnë ‘racist’.",CONAN
+146,148,Albanian,JEWS,Pakicat votojnë për t’u hequr pasurinë dhe pushtetin të bardhëve dhe ato organizohen për ta bërë këtë nga hebrenjtë.,CONAN
+147,149,Albanian,LGBT+,E tolerova krenarinë e homoseksualëve. I tolerova homoseksualët në TV dhe në çdo shesh qyteti. Vijën e kuqe e vë tek demonët trans që u lexojnë libra fëmijëve. (rreth kohës së tregimeve të drag queens),CONAN
+148,0,Arabic,other,ربما يجب على الأمم المتحدة أن تتحدث مع تلك الدول الآسيوية والأفريقية المسؤولة عن أكثر من 90٪ من تلوث المحيطات بدلاً من الإصرار على هذا الهراء حول تغير المناخ.,CONAN
+149,1,Arabic,JEWS,‘العصير (اليهود) أسوأ من القنابل النووية.’ تعليق على ميم يظهر هيروشيما عام 1945 والوقت الحاضر، مقارنة بصور ديترويت عام 1945 والوقت الحاضر.,CONAN
+150,2,Arabic,MIGRANTS,قفز عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة بنسبة 41٪ خلال خمس سنوات مع حصول أكثر من 400 ألف شخص الآن على مدفوعات. يجب أن يتوقف هذا الهراء.,CONAN
+151,3,Arabic,JEWS,لا يمكن لليهود أن يكونوا وطنيين، لأن ولاءهم سيكون دائمًا لدولة إسرائيل.,CONAN
+152,4,Arabic,JEWS,إسرائيل، الصهيونية وسيطرة اليهود المتفوقين على أمريكا هي الأسباب الرئيسية للإرهاب وعدم الاستقرار والصراع في العالم. كل النظريات الأخرى هي تشتيت عن هذه الحقيقة المطلقة.,CONAN
+153,5,Arabic,WOMEN,النساء مثل الأطفال في الأساس، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة.,CONAN
+154,6,Arabic,MIGRANTS,قفز عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة بنسبة 41٪ خلال خمس سنوات مع حصول أكثر من 400 ألف شخص الآن على مدفوعات. يجب أن يتوقف هذا الهراء.,CONAN
+155,7,Arabic,POC,العرق هو بناء اجتماعي، وإذا رأيت أي اختلاف بين هاتين المرأتين، فهذا لأن لديك مرض عقلي. [صورة تظهر رياضية أوروبية شقراء، بجانب صورة لامرأة أفريقية ترتدي صحن شفاه],CONAN
+156,8,Arabic,WOMEN,من أنت بحق الجحيم؟ لقد سئمنا من الكارهات للرجال اللواتي يحاولن تقويض الرجال البيض الأقوياء، بينما هن فقط غيورات وغير كفؤات وعديمات الفائدة.,CONAN
+157,9,Arabic,WOMEN,النساء مثل الأطفال في الأساس، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة.,CONAN
+158,10,Arabic,WOMEN,من أنت بحق الجحيم؟ لقد سئمنا من الكارهات للرجال اللواتي يحاولن تقويض الرجال البيض الأقوياء. إنهن فقط غيورات وغير كفؤات وعديمات الفائدة.,CONAN
+159,11,Arabic,other,يضحكني بحق الجحيم، لماذا لا ينبغي أن يكون البيض متفوقين في بلد أغلبه من البيض؟ لماذا لا يشتكي أحد من تفوق السود في دول السود مثل الصومال؟ أو تفوق المكسيكيين؟ أو الهنود؟ فقط نحن من يتحمل هذا الهراء.,CONAN
+160,12,Arabic,JEWS,ما الفرق بين البقرة والمحرقة؟ تتوقف عن حلب البقرة بعد 70 عامًا.,CONAN
+161,13,Arabic,WOMEN,بدأنا في الانهيار عندما سمحنا للنساء بالتصويت/التدخل في الحضارة التي بنيناها وحافظنا عليها لآلاف السنين. طاقة وأنماط تفكير مختلفة تمامًا. إنهن ضعيفات ويخفضن مجتمعنا إلى مستواهن العاطفي الناعم.,CONAN
+162,14,Arabic,JEWS,اليهود يحبون عزل مناطق لأنفسهم، بينما يملؤون أحياء البيض بالإسكان الاجتماعي من خلال قضاتهم.,CONAN
+163,15,Arabic,JEWS,الأقليات تصوت لتجريد البيض من الثروة والسلطة ويتم تنظيمهم للقيام بذلك من قبل اليهود.,CONAN
+164,16,Arabic,JEWS,إسرائيل، الصهيونية وسيطرة اليهود المتفوقين على أمريكا هي الأسباب الرئيسية للإرهاب وعدم الاستقرار والصراع في العالم. كل النظريات الأخرى هي تشتيت عن هذه الحقيقة المطلقة.,CONAN
+165,17,Arabic,JEWS,اليهود قاموا بهجمات: يو إس إس ليبرتي، فندق الملك داود، نيويورك 9/11، لندن 7/7,CONAN
+166,18,Arabic,JEWS,المتطرفون الصهاينة يتآمرون في القدس. أهدافهم هي إحداث الفوضى والدمار والقتل وخلق المزيد من اللاجئين وتدمير أوروبا.,CONAN
+167,19,Arabic,JEWS,ماذا لو كان جميع حكامنا من المتحرشين بالأطفال الذين يسيطر عليهم اليهود؟ هذا سيفسر الكثير.,CONAN
+168,20,Arabic,JEWS,اليهود حول العالم لم يريدوا خروج بريطانيا من الاتحاد الأوروبي وهم يفعلون كل ما في وسعهم لإفشاله.,CONAN
+169,21,Arabic,JEWS,اليهود قاموا بهجمات: يو إس إس ليبرتي، فندق الملك داود، نيويورك 9/11، لندن 7/7,CONAN
+170,22,Arabic,other,اليهودي الأمريكي، مثل المسلم، غريب، مخلص لقبيلته الأصلية، يتظاهر بأنه عضو في المجموعة من أجل تخريب المعايير الثقافية والسياسية والاجتماعية. لا يجب علينا الاختيار، من الجيد كره كليهما.,CONAN
+171,23,Arabic,other,اليهودي الأمريكي، مثل المسلم، غريب، مخلص لقبيلته الأصلية، يتظاهر بأنه عضو في المجموعة من أجل تخريب المعايير الثقافية والسياسية والاجتماعية. لا يجب علينا الاختيار، من الجيد كره كليهما.,CONAN
+172,24,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيحصلون على دروس إلزامية حول العلاقات المثلية.' – هذا ليس تعليمًا، هذا تلاعب وتلقين للأطفال ومنعهم من تطوير شخصياتهم.,CONAN
+173,25,Arabic,WOMEN,من أنت بحق الجحيم؟ لقد سئمنا من الكارهات للرجال اللواتي يحاولن تقويض الرجال البيض الأقوياء، بينما هن فقط غيورات وغير كفؤات وعديمات الفائدة.,CONAN
+174,26,Arabic,other,نشرت الحكومة البريطانية مؤخرًا ورقة حول 'الأضرار عبر الإنترنت' – بمعنى آخر، سيعملون مع المنظمات اليهودية والإسلامية لمكافحة الكراهية لفرض الرقابة على الإنترنت. (في إشارة إلى Tell Mama و CST و Stop Hate UK),CONAN
+175,27,Arabic,LGBT+,منذ متى أصبح استخدام فتحة الشرج كعضو جنسي 'إنجازًا عظيمًا'؟ هذه هي المثلية المفروضة من الدولة! ربما يجب أن نغير شعارنا إلى 'نثق في الربا واللواط' (ردًا على إلغاء بوتسوانا تجريم المثلية),CONAN
+176,28,Arabic,WOMEN,لهذا السبب لا تنتمي النساء إلى السياسة، إذا اشتكى رجل مثلهن، فسوف يطلق عليه جبان ويطلب منه مغادرة الوظيفة. المساواة كذبة والنسوية حكم بالإعدام لأي حضارة.,CONAN
+177,29,Arabic,MIGRANTS,باكستان: 202 مليون نيجيريا: 193 مليون بنغلاديش: 165 مليون إثيوبيا: 107 مليون الكونغو: 84 مليون بريطانيا العظمى: 66 مليون 'الأقليات العرقية' لا تضحكني بحق الجحيم!,CONAN
+178,30,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيحصلون على دروس إلزامية حول العلاقات المثلية.' – هذا ليس تعليمًا، هذا تلاعب وتلقين للأطفال ومنعهم من تطوير شخصياتهم.,CONAN
+179,31,Arabic,MIGRANTS,باكستان: 202 مليون نيجيريا: 193 مليون بنغلاديش: 165 مليون إثيوبيا: 107 مليون الكونغو: 84 مليون بريطانيا العظمى: 66 مليون 'الأقليات العرقية' لا تضحكني بحق الجحيم!,CONAN
+180,32,Arabic,MIGRANTS,باكستان: 202 مليون نيجيريا: 193 مليون بنغلاديش: 165 مليون إثيوبيا: 107 مليون الكونغو: 84 مليون بريطانيا العظمى: 66 مليون 'الأقليات العرقية' لا تضحكني بحق الجحيم!,CONAN
+181,33,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة بها منازل تزيد قيمتها عن مليون جنيه إسترليني. المتسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ولكننا نجلب ملايين آخرين. الإشارة إلى أن التشرد بسبب الهجرة غير المنضبطة يجعلك توصف بـ 'العنصري'. (تعليق على صورة شخص مشرد ينام على مقعد),CONAN
+182,34,Arabic,WOMEN,عندما تدمرون العالم أيها الحيوانات وتبدؤون بأكل بعضكم البعض، لأن هذا كل ما تجيدونه، سنظل نحن هنا، نحافظ على نقاء سلالتنا ضد كل الصعاب، نندم على اليوم الذي استمعنا فيه للنساء ورفعنا أقدامنا عن حناجركم.,CONAN
+183,35,Arabic,other,ربما يجب على الأمم المتحدة أن تتحدث مع تلك الدول الآسيوية والأفريقية المسؤولة عن أكثر من 90٪ من تلوث المحيطات بدلاً من الإصرار على هذا الهراء حول تغير المناخ.,CONAN
+184,36,Arabic,JEWS,قوتهم في حظر الأفلام ومعاقبة المخرجين دليل على أن اليهود يسيطرون على هوليوود.,CONAN
+185,37,Arabic,WOMEN,لقد انتصر النسويون. مع رفض العديد من النساء الإنجاب، سيتم استبدالنا وسنفقد حضارتنا.,CONAN
+186,38,Arabic,WOMEN,النساء مثل الأطفال في الأساس، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة.,CONAN
+187,39,Arabic,JEWS,النازيون كانوا سيئين جدًا في قتل اليهود… في كل مكان ترى ناجٍ من الهولوكوست.,CONAN
+188,40,Arabic,JEWS,النازيون كانوا سيئين جدًا في قتل اليهود… في كل مكان ترى ناجٍ من الهولوكوست.,CONAN
+189,41,Arabic,JEWS,'الهولوكوست' هي عمل تجاري. لقد استُخدمت وما زالت تُستخدم لابتزاز ملايين الدولارات من الدول الأوروبية كتعويضات ولخلق جدار من الحصانة وراءه يمكن لليهود العمل بحرية دون انتقاد.,CONAN
+190,42,Arabic,other,نشرت الحكومة البريطانية مؤخرًا ورقة حول 'الأضرار عبر الإنترنت' – بمعنى آخر، سيعملون مع المنظمات اليهودية والإسلامية لمكافحة الكراهية لفرض الرقابة على الإنترنت. (في إشارة إلى Tell Mama و CST و Stop Hate UK),CONAN
+191,43,Arabic,JEWS,النازيون كانوا سيئين جدًا في قتل اليهود… في كل مكان ترى ناجٍ من الهولوكوست.,CONAN
+192,44,Arabic,POC,العرق هو بناء اجتماعي، وإذا رأيت أي اختلاف بين هاتين المرأتين، فهذا لأن لديك مرض عقلي. [صورة تظهر رياضية أوروبية شقراء، بجانب صورة لامرأة أفريقية ترتدي صحن شفاه],CONAN
+193,45,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيحصلون على دروس إلزامية حول العلاقات المثلية.' – هذا ليس تعليمًا، هذا تلاعب وتلقين للأطفال ومنعهم من تطوير شخصياتهم.,CONAN
+194,46,Arabic,WOMEN,النساء مثل الأطفال في الأساس، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة.,CONAN
+195,47,Arabic,WOMEN,النساء مثل الأطفال في الأساس، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة.,CONAN
+196,48,Arabic,MIGRANTS,باكستان: 202 مليون نيجيريا: 193 مليون بنغلاديش: 165 مليون إثيوبيا: 107 مليون الكونغو: 84 مليون بريطانيا العظمى: 66 مليون 'الأقليات العرقية' لا تضحكني بحق الجحيم!,CONAN
+197,49,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيحصلون على دروس إلزامية حول العلاقات المثلية.' – هذا ليس تعليمًا، هذا تلاعب وتلقين للأطفال ومنعهم من تطوير شخصياتهم.,CONAN
+198,50,Arabic,other,نشرت الحكومة البريطانية مؤخرًا ورقة حول 'الأضرار عبر الإنترنت' – بمعنى آخر، سيعملون مع المنظمات اليهودية والإسلامية لمكافحة الكراهية لفرض الرقابة على الإنترنت. (في إشارة إلى Tell Mama و CST و Stop Hate UK),CONAN
+199,51,Arabic,LGBT+,منذ متى أصبح استخدام فتحة الشرج كعضو جنسي 'إنجازًا عظيمًا'؟ هذه هي المثلية المفروضة من الدولة! ربما يجب أن نغير شعارنا إلى 'نثق في الربا واللواط' (ردًا على إلغاء بوتسوانا تجريم المثلية),CONAN
+200,52,Arabic,WOMEN,لقد انتصر النسويون. مع رفض العديد من النساء الإنجاب، سيتم استبدالنا وسنفقد حضارتنا.,CONAN
+201,53,Arabic,JEWS,'الهولوكوست' هي عمل تجاري. لقد استُخدمت وما زالت تُستخدم لابتزاز ملايين الدولارات من الدول الأوروبية كتعويضات ولخلق جدار من الحصانة وراءه يمكن لليهود العمل بحرية دون انتقاد.,CONAN
+202,54,Arabic,JEWS,'الهولوكوست' هي عمل تجاري. لقد استُخدمت وما زالت تُستخدم لابتزاز ملايين الدولارات من الدول الأوروبية كتعويضات ولخلق جدار من الحصانة وراءه يمكن لليهود العمل بحرية دون انتقاد.,CONAN
+203,55,Arabic,JEWS,‘العصير (اليهود) أسوأ من القنابل النووية.’ تعليق على ميم يظهر هيروشيما عام 1945 والوقت الحاضر، مقارنة بصور ديترويت عام 1945 والوقت الحاضر.,CONAN
+204,56,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة بها منازل تزيد قيمتها عن مليون جنيه إسترليني. المتسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ولكن نجلب ملايين آخرين. الإشارة إلى أن التشرد بسبب الهجرة غير المنضبطة يجعلك توصف بـ 'العنصري'. (تعليق على صورة شخص مشرد ينام على مقعد),CONAN
+205,57,Arabic,other,يضحكني بحق الجحيم، لماذا لا ينبغي أن يكون البيض متفوقين في بلد أغلبه من البيض؟ لماذا لا يشتكي أحد من تفوق السود في دول السود مثل الصومال؟ أو تفوق المكسيكيين؟ أو الهنود؟ فقط نحن من يتحمل هذا الهراء.,CONAN
+206,58,Arabic,JEWS,الأقليات تصوت لتجريد البيض من الثروة والسلطة ويتم تنظيمهم للقيام بذلك من قبل اليهود.,CONAN
+207,59,Arabic,LGBT+,لقد تحملت فخر المثليين. تحملت المثليين على التلفزيون وفي كل ساحة مدينة. لكني أرسم الخط عند شياطين المتحولين وهم يقرؤون الكتب للأطفال. (عن وقت قصة ملكة الدراغ),CONAN
+208,60,Arabic,JEWS,المتطرفون الصهاينة يتآمرون في القدس. أهدافهم هي إحداث الفوضى والدمار والقتل وخلق المزيد من اللاجئين وتدمير أوروبا.,CONAN
+209,61,Arabic,LGBT+,لقد تحملت فخر المثليين. تحملت المثليين على التلفزيون وفي كل ساحة مدينة. لكني أرسم الخط عند شياطين المتحولين وهم يقرؤون الكتب للأطفال. (عن وقت قصة ملكة الدراغ),CONAN
+210,62,Arabic,JEWS,‘العصير (اليهود) أسوأ من القنابل النووية.’ تعليق على ميم يظهر هيروشيما عام 1945 والوقت الحاضر، مقارنة بصور ديترويت عام 1945 والوقت الحاضر.,CONAN
+211,63,Arabic,LGBT+,منذ متى أصبح استخدام فتحة الشرج كعضو جنسي 'إنجازًا عظيمًا'؟ هذه هي المثلية المفروضة من الدولة! ربما يجب أن نغير شعارنا إلى 'نثق في الربا واللواط' (ردًا على إلغاء بوتسوانا تجريم المثلية),CONAN
+212,64,Arabic,JEWS,اليهود حول العالم لم يريدوا خروج بريطانيا من الاتحاد الأوروبي وهم يفعلون كل ما في وسعهم لإفشاله.,CONAN
+213,65,Arabic,JEWS,لا يمكن لليهود أن يكونوا وطنيين، لأن ولاءهم سيكون دائمًا لدولة إسرائيل.,CONAN
+214,66,Arabic,JEWS,الأمة الوحيدة التي لا يكرهها اليهود هي أمتهم وهم يغمرون أوروبا بالأفارقة والمسلمين.,CONAN
+215,67,Arabic,JEWS,الأقليات تصوت لتجريد البيض من الثروة والسلطة ويتم تنظيمهم للقيام بذلك من قبل اليهود.,CONAN
+216,68,Arabic,JEWS,ما الفرق بين البقرة والمحرقة؟ تتوقف عن حلب البقرة بعد 70 عامًا.,CONAN
+217,69,Arabic,MIGRANTS,قفز عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة بنسبة 41٪ خلال خمس سنوات مع حصول أكثر من 400 ألف شخص الآن على مدفوعات. يجب أن يتوقف هذا الهراء.,CONAN
+218,70,Arabic,other,يضحكني بحق الجحيم، لماذا لا ينبغي أن يكون البيض متفوقين في بلد أغلبه من البيض؟ لماذا لا يشتكي أحد من تفوق السود في دول السود مثل الصومال؟ أو تفوق المكسيكيين؟ أو الهنود؟ فقط نحن من يتحمل هذا الهراء.,CONAN
+219,71,Arabic,other,نشرت الحكومة البريطانية مؤخرًا ورقة حول 'الأضرار عبر الإنترنت' – بمعنى آخر، سيعملون مع المنظمات اليهودية والإسلامية لمكافحة الكراهية لفرض الرقابة على الإنترنت. (في إشارة إلى Tell Mama و CST و Stop Hate UK),CONAN
+220,72,Arabic,other,ربما يجب على الأمم المتحدة أن تتحدث مع تلك الدول الآسيوية والأفريقية المسؤولة عن أكثر من 90٪ من تلوث المحيطات بدلاً من الإصرار على هذا الهراء حول تغير المناخ.,CONAN
+221,73,Arabic,JEWS,لا يمكن لليهود أن يكونوا وطنيين، لأن ولاءهم سيكون دائمًا لدولة إسرائيل.,CONAN
+222,74,Arabic,MIGRANTS,قفز عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة بنسبة 41٪ خلال خمس سنوات مع حصول أكثر من 400 ألف شخص الآن على مدفوعات. يجب أن يتوقف هذا الهراء.,CONAN
+223,75,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة بها منازل تزيد قيمتها عن مليون جنيه إسترليني. المتسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ولكن نجلب ملايين آخرين. الإشارة إلى أن التشرد بسبب الهجرة غير المنضبطة يجعلك توصف بـ 'العنصري'. (تعليق على صورة شخص مشرد ينام على مقعد),CONAN
+224,76,Arabic,JEWS,لا يمكن لليهود أن يكونوا وطنيين، لأن ولاءهم سيكون دائمًا لدولة إسرائيل.,CONAN
+225,77,Arabic,JEWS,قوتهم في حظر الأفلام ومعاقبة المخرجين دليل على أن اليهود يسيطرون على هوليوود.,CONAN
+226,78,Arabic,other,يضحكني بحق الجحيم، لماذا لا ينبغي أن يكون البيض متفوقين في بلد أغلبه من البيض؟ لماذا لا يشتكي أحد من تفوق السود في دول السود مثل الصومال؟ أو تفوق المكسيكيين؟ أو الهنود؟ فقط نحن من يتحمل هذا الهراء.,CONAN
+227,79,Arabic,JEWS,اليهود يحبون عزل مناطق لأنفسهم، بينما يملؤون أحياء البيض بالإسكان الاجتماعي من خلال قضاتهم.,CONAN
+228,80,Arabic,JEWS,الأمة الوحيدة التي لا يكرهها اليهود هي أمتهم وهم يغمرون أوروبا بالأفارقة والمسلمين.,CONAN
+229,81,Arabic,LGBT+,يجب أن يكون الأمر صعبًا لكونك مثليًا. عليهم أن يفعلوا كل ما نفعله نحن وأيضًا يجدون وقتًا للتحرش بالأطفال.,CONAN
+230,82,Arabic,JEWS,اليهود حول العالم لم يريدوا خروج بريطانيا من الاتحاد الأوروبي وهم يفعلون كل ما في وسعهم لإفشاله.,CONAN
+231,83,Arabic,LGBT+,لقد تحملت فخر المثليين. تحملت المثليين على التلفزيون وفي كل ساحة مدينة. لكني أرسم الخط عند شياطين المتحولين وهم يقرؤون الكتب للأطفال. (عن وقت قصة ملكة الدراغ),CONAN
+232,84,Arabic,MIGRANTS,قفز عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة بنسبة 41٪ خلال خمس سنوات مع حصول أكثر من 400 ألف شخص الآن على مدفوعات. يجب أن يتوقف هذا الهراء.,CONAN
+233,85,Arabic,JEWS,الأمة الوحيدة التي لا يكرهها اليهود هي أمتهم وهم يغمرون أوروبا بالأفارقة والمسلمين.,CONAN
+234,86,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة بها منازل تزيد قيمتها عن مليون جنيه إسترليني. المتسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ولكن نجلب ملايين آخرين. الإشارة إلى أن التشرد بسبب الهجرة غير المنضبطة يجعلك توصف بـ 'العنصري'. (تعليق على صورة شخص مشرد ينام على مقعد),CONAN
+235,87,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة بها منازل تزيد قيمتها عن مليون جنيه إسترليني. المتسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ولكن نجلب ملايين آخرين. الإشارة إلى أن التشرد بسبب الهجرة غير المنضبطة يجعلك توصف بـ 'العنصري'. (تعليق على صورة شخص مشرد ينام على مقعد),CONAN
+236,88,Arabic,other,يضحكني بحق الجحيم، لماذا لا ينبغي أن يكون البيض متفوقين في بلد أغلبه من البيض؟ لماذا لا يشتكي أحد من تفوق السود في دول السود مثل الصومال؟ أو تفوق المكسيكيين؟ أو الهنود؟ فقط نحن من يتحمل هذا الهراء.,CONAN
+237,89,Arabic,WOMEN,هذا هو السبب في أن النساء لا ينتمين إلى السياسة، إذا اشتكى رجل مثلهن، فسوف يطلق عليه جبان ويطلب منه مغادرة الوظيفة. المساواة كذبة والنسوية حكم بالإعدام لأي حضارة.,CONAN
+238,90,Arabic,WOMEN,لقد انتصر النسويون. مع رفض العديد من النساء الإنجاب، سيتم استبدالنا وسنفقد حضارتنا.,CONAN
+239,91,Arabic,JEWS,ماذا لو كان جميع حكامنا من المتحرشين بالأطفال الذين يسيطر عليهم اليهود؟ هذا سيفسر الكثير.,CONAN
+240,92,Arabic,other,ربما يجب على الأمم المتحدة أن تتحدث مع تلك الدول الآسيوية والأفريقية المسؤولة عن أكثر من 90٪ من تلوث المحيطات بدلاً من الإصرار على هذا الهراء حول تغير المناخ.,CONAN
+241,93,Arabic,other,ربما يجب على الأمم المتحدة أن تتحدث مع تلك الدول الآسيوية والأفريقية المسؤولة عن أكثر من 90٪ من تلوث المحيطات بدلاً من الإصرار على هذا الهراء حول تغير المناخ.,CONAN
+242,94,Arabic,MIGRANTS,باكستان: 202 مليون نيجيريا: 193 مليون بنغلاديش: 165 مليون إثيوبيا: 107 مليون الكونغو: 84 مليون بريطانيا العظمى: 66 مليون 'الأقليات العرقية' لا تضحكني بحق الجحيم!,CONAN
+243,95,Arabic,WOMEN,هذا هو السبب في أن النساء لا ينتمين إلى السياسة، إذا اشتكى رجل مثلهن، فسوف يطلق عليه جبان ويطلب منه مغادرة الوظيفة. المساواة كذبة والنسوية حكم بالإعدام لأي حضارة.,CONAN
+244,96,Arabic,JEWS,اليهود قاموا بهجمات: يو إس إس ليبرتي، فندق الملك داود، نيويورك 9/11، لندن 7/7,CONAN
+245,97,Arabic,JEWS,اليهود قاموا بهجمات: يو إس إس ليبرتي، فندق الملك داود، نيويورك 9/11، لندن 7/7,CONAN
+246,98,Arabic,WOMEN,النساء مثل الأطفال في الأساس، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة.,CONAN
+247,99,Arabic,LGBT+,يجب أن يكون الأمر صعبًا لكونك مثليًا. عليهم أن يفعلوا كل ما نفعله نحن وأيضًا يجدون وقتًا للتحرش بالأطفال.,CONAN
+249,101,Arabic,JEWS,اليهودية العالمية لم تكن تريد البريكست وهم يفعلون كل ما في وسعهم لتخريبه.,CONAN
+250,102,Arabic,JEWS,اليهودية العالمية لم تكن تريد البريكست وهم يفعلون كل ما في وسعهم لتخريبه.,CONAN
+251,103,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
+252,104,Arabic,MIGRANTS,عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة ارتفع بنسبة 41% خلال 5 سنوات والآن أكثر من 400 ألف يحصلون عليها. يجب أن يتوقف هذا الهراء.,CONAN
+253,105,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة منازلها تتجاوز قيمتها المليون جنيه. متسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ونستقبل ملايين آخرين. الإشارة إلى أن التشرد سببه الهجرة غير المنضبطة تُعتبر عنصرية.,CONAN
+254,106,Arabic,JEWS,ما الفرق بين البقرة والمحرقة؟ تتوقف عن حلب البقرة بعد 70 سنة.,CONAN
+255,107,Arabic,other,يضحكني هذا اللعين، لماذا لا يكون البيض متفوقين في دولة معظمها بيض؟ لماذا لا يشتكي أحد من تفوق السود في دول السود مثل الصومال؟ أو تفوق المكسيكيين؟ أو الهنود؟ فقط نحن من نتحمل هذا الهراء.,CONAN
+256,108,Arabic,other,نشرت الحكومة البريطانية مؤخرًا ورقة حول 'الأضرار عبر الإنترنت' – بمعنى آخر، سيعملون مع منظمات يهودية ومسلمة لمكافحة الكراهية لفرض الرقابة على الإنترنت. (في إشارة إلى Tell Mama وCST وStop Hate UK),CONAN
+257,109,Arabic,JEWS,ما الفرق بين البقرة والمحرقة؟ تتوقف عن حلب البقرة بعد 70 سنة.,CONAN
+258,110,Arabic,JEWS,اليهود هم سبب اضطرار أمريكا لقبول أي قمامة تطرق بابها. يريدون لهذا البلد أن يصبح خليطًا غبيًا ليسهل حكمه بموافقة عبيدهم الجدد الصامتة.,CONAN
+259,111,Arabic,WOMEN,لهذا السبب لا مكان للنساء في السياسة، لو اشتكى رجل مثلهن لوصفوه بالجبان وقالوا له اترك المنصب. المساواة كذبة والنسوية حكم بالإعدام على أي حضارة.,CONAN
+260,112,Arabic,other,ربما يمكن للأمم المتحدة التحدث مع الدول الآسيوية والأفريقية المسؤولة عن أكثر من 90% من تلوث المحيطات بدلاً من الإصرار على هراء تغير المناخ.,CONAN
+261,113,Arabic,JEWS,اليهود أسوأ من القنابل النووية. تعليق على صورة تُظهر هيروشيما 1945 والآن مقابل صور ديترويت 1945 والآن.,CONAN
+262,114,Arabic,MIGRANTS,عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة ارتفع بنسبة 41% خلال 5 سنوات والآن أكثر من 400 ألف يحصلون عليها. يجب أن يتوقف هذا الهراء.,CONAN
+263,115,Arabic,JEWS,لا يمكن لليهود أن يكونوا وطنيين، ولاؤهم دائمًا لدولة إسرائيل.,CONAN
+264,116,Arabic,JEWS,إسرائيل والصهيونية وسيطرة اليهود المتفوقين على أمريكا هي الأسباب الرئيسية للإرهاب وعدم الاستقرار والصراع في العالم. كل النظريات الأخرى انحراف عن هذه الحقيقة المطلقة.,CONAN
+265,117,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
+266,118,Arabic,MIGRANTS,عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة ارتفع بنسبة 41% خلال 5 سنوات والآن أكثر من 400 ألف يحصلون عليها. يجب أن يتوقف هذا الهراء.,CONAN
+267,119,Arabic,WOMEN,من أنت بحق الجحيم؟ سئمنا من كارهات الرجال اللواتي يحاولن تقويض الرجال البيض الأقوياء، وهن فقط غيورات وعاجزات وعديمات الفائدة.,CONAN
+268,120,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
+269,121,Arabic,other,يضحكني هذا اللعين، لماذا لا يكون البيض متفوقين في دولة معظمها بيض؟ لماذا لا يشتكي أحد من تفوق السود في دول السود مثل الصومال؟ أو تفوق المكسيكيين؟ أو الهنود؟ فقط نحن من نتحمل هذا الهراء.,CONAN
+270,122,Arabic,WOMEN,بدأ انهيارنا حين سمحنا للنساء بالتصويت/التدخل في حضارات بنيناها وأبقيناها لآلاف السنين. طاقة ونمط تفكير مختلف تمامًا. هن ضعيفات وجعلن مجتمعنا ينخفض إلى مستواهن العاطفي الناعم.,CONAN
+271,123,Arabic,JEWS,المتطرفون الصهاينة يتآمرون في القدس. أهدافهم خلق الفوضى والدمار والقتل، إنتاج المزيد من اللاجئين وتدمير أوروبا.,CONAN
+272,124,Arabic,other,اليهودي الأمريكي، تمامًا مثل المسلم، غريب، ولاؤه لقبيلته الأصلية، يتظاهر بأنه عضو في المجتمع ليخرب الأعراف الثقافية والسياسية والاجتماعية. لسنا مضطرين للاختيار، من الجيد كرههم معًا.,CONAN
+273,125,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيتلقون دروسًا إجبارية عن العلاقات المثلية.' – هذه ليست تعليمًا، بل تشويشًا وغسيل دماغ للأطفال لمنعهم من تطوير شخصياتهم.,CONAN
+274,126,Arabic,LGBT+,منذ متى أصبح إساءة استخدام الشرج كعضو جنسي إنجازًا عظيمًا؟ هذه هي المثلية المفروضة من الدولة! ربما يجب أن نغير شعارنا إلى 'نثق في الربا واللواط' (ردًا على إلغاء بوتسوانا تجريم المثلية).,CONAN
+275,127,Arabic,WOMEN,لهذا السبب لا مكان للنساء في السياسة، لو اشتكى رجل مثلهن لوصفوه بالجبان وقالوا له اترك المنصب. المساواة كذبة والنسوية حكم بالإعدام على أي حضارة.,CONAN
+276,128,Arabic,MIGRANTS,باكستان: 202 مليون نيجيريا: 193 مليون بنغلاديش: 165 مليون إثيوبيا: 107 مليون الكونغو: 84 مليون بريطانيا: 66 مليون 'الأقليات العرقية' لا تضحكني بحق الجحيم.,CONAN
+277,129,Arabic,MIGRANTS,باكستان: 202 مليون نيجيريا: 193 مليون بنغلاديش: 165 مليون إثيوبيا: 107 مليون الكونغو: 84 مليون بريطانيا: 66 مليون 'الأقليات العرقية' لا تضحكني بحق الجحيم.,CONAN
+278,130,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة منازلها تتجاوز قيمتها المليون جنيه. متسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ونستقبل ملايين آخرين. الإشارة إلى أن التشرد سببه الهجرة غير المنضبطة تُعتبر عنصرية.,CONAN
+280,132,Arabic,other,ربما يمكن للأمم المتحدة التحدث مع الدول الآسيوية والأفريقية المسؤولة عن أكثر من 90% من تلوث المحيطات بدلاً من الإصرار على هراء تغير المناخ.,CONAN
+282,134,Arabic,WOMEN,لقد انتصرت النسويات. مع وجود العديد من النساء غير الراغبات في الإنجاب سنُستبدل ونفقد حضارتنا.,CONAN
+283,135,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
+284,136,Arabic,JEWS,النازيون كانوا سيئين جدًا في قتل اليهود... في كل مكان ترى ناجين من المحرقة.,CONAN
+285,137,Arabic,JEWS,'المحرقة' هي تجارة. استُخدمت ولا تزال تُستخدم لابتزاز ملايين التعويضات من الدول الأوروبية وخلق جدار حصانة يعمل خلفه اليهود دون نقد.,CONAN
+286,138,Arabic,JEWS,النازيون كانوا سيئين جدًا في قتل اليهود... في كل مكان ترى ناجين من المحرقة.,CONAN
+287,139,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيتلقون دروسًا إجبارية عن العلاقات المثلية.' – هذه ليست تعليمًا، بل تشويشًا وغسيل دماغ للأطفال لمنعهم من تطوير شخصياتهم.,CONAN
+288,140,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
+289,141,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
+290,142,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيتلقون دروسًا إجبارية عن العلاقات المثلية.' – هذه ليست تعليمًا، بل تشويشًا وغسيل دماغ للأطفال لمنعهم من تطوير شخصياتهم.,CONAN
+291,143,Arabic,LGBT+,منذ متى أصبح إساءة استخدام الشرج كعضو جنسي إنجازًا عظيمًا؟ هذه هي المثلية المفروضة من الدولة! ربما يجب أن نغير شعارنا إلى 'نثق في الربا واللواط' (ردًا على إلغاء بوتسوانا تجريم المثلية).,CONAN
+292,144,Arabic,JEWS,'المحرقة' هي تجارة. استُخدمت ولا تزال تُستخدم لابتزاز ملايين التعويضات من الدول الأوروبية وخلق جدار حصانة يعمل خلفه اليهود دون نقد.,CONAN
+293,145,Arabic,JEWS,'المحرقة' هي تجارة. استُخدمت ولا تزال تُستخدم لابتزاز ملايين التعويضات من الدول الأوروبية وخلق جدار حصانة يعمل خلفه اليهود دون نقد.,CONAN
+294,146,Arabic,JEWS,'المحرقة' هي تجارة. استُخدمت ولا تزال تُستخدم لابتزاز ملايين التعويضات من الدول الأوروبية وخلق جدار حصانة يعمل خلفه اليهود دون نقد.,CONAN
+295,147,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة منازلها تتجاوز قيمتها المليون جنيه. متسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ونستقبل ملايين آخرين. الإشارة إلى أن التشرد سببه الهجرة غير المنضبطة تُعتبر عنصرية.,CONAN
+296,148,Arabic,JEWS,تصوت الأقليات لتجريد البيض من ثرواتهم وسلطتهم وهم منظمون لفعل ذلك من قبل اليهود.,CONAN
+297,149,Arabic,LGBT+,لقد تحملت مسيرات الفخر للمثليين. تحملت المثليين على التلفاز وفي كل ساحة مدينة. لكني أضع حدًا عند شياطين المتحولين يقرؤون كتبًا للأطفال. (عن وقت قصة ملكة السحب),CONAN
+298,0,Chinese,other,也许联合国可以与那些负责90%以上海洋污染的亚洲和非洲国家谈谈，而不是一味坚持这套关于气候变化的废话。,CONAN
+299,1,Chinese,JEWS,‘果汁（犹太人）比核弹还要糟糕。’ 这是一张 meme 的标题，显示了1945年和现在的广岛，以及1945年和现在的底特律的对比照片。,CONAN
+300,2,Chinese,MIGRANTS,在过去五年里，英国领取福利的外国人数量激增了41%，现在有超过40万人领取福利。这种胡闹必须停止。,CONAN
+301,3,Chinese,JEWS,犹太人不可能成为爱国者，因为他们的效忠永远属于以色列。,CONAN
+302,4,Chinese,JEWS,以色列、犹太复国主义和犹太至上对美国的控制是世界上恐怖主义、不稳定和冲突的主要原因。所有其他理论都是对这个终极真理的转移。,CONAN
+303,5,Chinese,WOMEN,女人基本上像孩子一样，她们大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权制文明。,CONAN
+304,6,Chinese,MIGRANTS,在过去五年里，英国领取福利的外国人数量激增了41%，现在有超过40万人领取福利。这种胡闹必须停止。,CONAN
+305,7,Chinese,POC,种族是社会构建的，如果你能看出这两个女人有什么不同，那是因为你有精神疾病。[图片显示一位金发的欧洲女运动员，与一位戴唇盘的非洲妇女并列],CONAN
+306,8,Chinese,WOMEN,你他妈是谁？我们受够了这些阴道厌男者试图破坏强大的白人男性，而她们自己只是嫉妒、无能和无用的。,CONAN
+307,9,Chinese,WOMEN,女人基本上像孩子一样，她们大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权制文明。,CONAN
+308,10,Chinese,WOMEN,你他妈是谁？我们受够了这些阴道厌男者试图破坏强大的白人男性。她们只是嫉妒、无能和无用的。,CONAN
+309,11,Chinese,other,真他妈可笑，为什么白人在一个主要是白人的国家里不该至高无上？怎么没人抱怨索马里这样的黑人国家里的黑人至上？或者墨西哥人的至上？或者印度人的至上？只有我们忍受这狗屁。,CONAN
+310,12,Chinese,JEWS,奶牛和大屠杀有什么区别？70年后你会停止挤奶。,CONAN
+311,13,Chinese,WOMEN,当我们允许女人投票/干涉我们建立和维持了数千年的文明时，我们开始崩溃。完全不同的能量和思维模式。她们很弱，把我们的社会拉到她们情感柔软的层面。,CONAN
+312,14,Chinese,JEWS,犹太人喜欢为自己圈地，同时让他们的法官把白人社区填满社会住房。,CONAN
+313,15,Chinese,JEWS,少数族裔投票剥夺白人的财富和权力，而这是犹太人组织起来的。,CONAN
+314,16,Chinese,JEWS,以色列、犹太复国主义和犹太至上对美国的控制是世界上恐怖主义、不稳定和冲突的主要原因。所有其他理论都是对这个终极真理的转移。,CONAN
+315,17,Chinese,JEWS,犹太人干的：攻击自由号，炸毁大卫王酒店，纽约9/11，伦敦7/7,CONAN
+316,18,Chinese,JEWS,犹太复国主义极端分子在耶路撒冷密谋。他们的目标是制造混乱、屠杀、谋杀，制造更多难民，摧毁欧洲。,CONAN
+317,19,Chinese,JEWS,如果我们的统治阶级全是受犹太人控制的恋童癖者怎么办？这能解释很多事情。,CONAN
+318,20,Chinese,JEWS,全球犹太人不希望英国脱欧，他们正在尽一切可能破坏它。,CONAN
+319,21,Chinese,JEWS,犹太人干的：攻击自由号，炸毁大卫王酒店，纽约9/11，伦敦7/7,CONAN
+320,22,Chinese,other,美国犹太人，就像穆斯林一样，是外来者，忠于他们出生的部落，假装是群体成员以颠覆文化、政治和社会规范。我们不必选择，恨他们两个都可以。,CONAN
+321,23,Chinese,other,美国犹太人，就像穆斯林一样，是外来者，忠于他们出生的部落，假装是群体成员以颠覆文化、政治和社会规范。我们不必选择，恨他们两个都可以。,CONAN
+322,24,Chinese,LGBT+,英国教育大臣：‘所有4岁以上儿童将接受同性关系的必修课程。’——这不是教育，这是故意混淆和洗脑孩子，阻止他们发展自己的个性。,CONAN
+323,25,Chinese,WOMEN,你他妈是谁？我们受够了这些阴道厌男者试图破坏强大的白人男性，而她们自己只是嫉妒、无能和无用的。,CONAN
+324,26,Chinese,other,英国政府最近发布了一份关于‘网络危害’的文件——换句话说，他们将与犹太人和穆斯林反仇恨组织合作审查互联网。（指 Tell Mama、CST 和 Stop Hate UK）,CONAN
+325,27,Chinese,LGBT+,自什么时候起滥用肛门作为性器官成了‘巨大的成就’？这是国家强制同性恋！也许我们应该把座右铭改成‘我们信仰高利贷和鸡奸’（回复博茨瓦纳将同性恋非刑罪化）,CONAN
+326,28,Chinese,WOMEN,这就是为什么女人不属于政治，如果男人像她们那样抱怨，他会被称为懦夫并被赶出职位。平等是谎言，女权主义是任何文明的死刑。,CONAN
+327,29,Chinese,MIGRANTS,巴基斯坦：2.02亿 尼日利亚：1.93亿 孟加拉国：1.65亿 埃塞俄比亚：1.07亿 刚果：8400万 英国：6600万 '少数族裔' 真他妈可笑！,CONAN
+328,30,Chinese,LGBT+,英国教育大臣：‘所有4岁以上儿童将接受同性关系的必修课程。’——这不是教育，这是故意混淆和洗脑孩子，阻止他们发展自己的个性。,CONAN
+329,31,Chinese,MIGRANTS,巴基斯坦：2.02亿 尼日利亚：1.93亿 孟加拉国：1.65亿 埃塞俄比亚：1.07亿 刚果：8400万 英国：6600万 '少数族裔' 真他妈可笑！,CONAN
+330,32,Chinese,MIGRANTS,巴基斯坦：2.02亿 尼日利亚：1.93亿 孟加拉国：1.65亿 埃塞俄比亚：1.07亿 刚果：8400万 英国：6600万 '少数族裔' 真他妈可笑！,CONAN
+331,33,Chinese,MIGRANTS,我在伦敦东部万斯特德拍的。这片地区的房子都价值一百万英镑以上。大街上有乞丐，有人睡在长椅上。我们无法安置自己的人，却引进了更多人。指出无家可归是由于不受控制的移民，就会被污蔑为‘种族主义者’。（照片说明：一名无家可归者睡在长椅上）,CONAN
+332,34,Chinese,WOMEN,当你们这些动物毁了世界，开始互相吞食，因为这就是你们唯一擅长的事时，我们仍会在这里，竭尽全力保持我们的血统纯正，后悔当初听从女人的话，把脚从你们的喉咙上拿开。,CONAN
+333,35,Chinese,other,也许联合国可以与那些负责90%以上海洋污染的亚洲和非洲国家谈谈，而不是一味坚持这套关于气候变化的废话。,CONAN
+334,36,Chinese,JEWS,他们有权让电影被禁，导演被审查，这证明了犹太人控制了好莱坞。,CONAN
+335,37,Chinese,WOMEN,女权主义者赢了。由于许多女性不愿生育，我们将被取代，失去文明。,CONAN
+336,38,Chinese,WOMEN,女人基本上像孩子一样，她们大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权制文明。,CONAN
+337,39,Chinese,JEWS,纳粹在杀犹太人方面太差劲了……到处都是大屠杀幸存者。,CONAN
+338,40,Chinese,JEWS,纳粹在杀犹太人方面太差劲了……到处都是大屠杀幸存者。,CONAN
+339,41,Chinese,JEWS,‘大屠杀’是一门生意。它曾经并仍在被用来向欧洲国家勒索数百万赔款，并为犹太人创造了一个免于批评、可以为所欲为的挡箭牌。,CONAN
+340,42,Chinese,other,英国政府最近发布了一份关于‘网络危害’的文件——换句话说，他们将与犹太人和穆斯林反仇恨组织合作审查互联网。（指 Tell Mama、CST 和 Stop Hate UK）,CONAN
+341,43,Chinese,JEWS,纳粹在杀犹太人方面太差劲了……到处都是大屠杀幸存者。,CONAN
+342,44,Chinese,POC,种族是社会构建的，如果你能看出这两个女人有什么不同，那是因为你有精神疾病。[图片显示一位金发的欧洲女运动员，与一位戴唇盘的非洲妇女并列],CONAN
+343,45,Chinese,LGBT+,英国教育大臣：‘所有4岁以上儿童将接受同性关系的必修课程。’——这不是教育，这是故意混淆和洗脑孩子，阻止他们发展自己的个性。,CONAN
+344,46,Chinese,WOMEN,女人基本上像孩子一样，她们大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权制文明。,CONAN
+345,47,Chinese,WOMEN,女人基本上像孩子一样，她们大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权制文明。,CONAN
+346,48,Chinese,MIGRANTS,巴基斯坦：2.02亿 尼日利亚：1.93亿 孟加拉国：1.65亿 埃塞俄比亚：1.07亿 刚果：8400万 英国：6600万 '少数族裔' 真他妈可笑！,CONAN
+347,49,Chinese,LGBT+,英国教育大臣：‘所有4岁以上儿童将接受同性关系的必修课程。’——这不是教育，这是故意混淆和洗脑孩子，阻止他们发展自己的个性。,CONAN
+348,50,Chinese,other,英国政府最近发布了一份关于‘网络危害’的文件——换句话说，他们将与犹太人和穆斯林反仇恨组织合作审查互联网。（指 Tell Mama、CST 和 Stop Hate UK）,CONAN
+349,51,Chinese,LGBT+,自什么时候起滥用肛门作为性器官成了‘巨大的成就’？这是国家强制同性恋！也许我们应该把座右铭改成‘我们信仰高利贷和鸡奸’（回复博茨瓦纳将同性恋非刑罪化）,CONAN
+350,52,Chinese,WOMEN,女权主义者赢了。由于许多女性不愿生育，我们将被取代，失去文明。,CONAN
+351,53,Chinese,JEWS,‘大屠杀’是一门生意。它曾经并仍在被用来向欧洲国家勒索数百万赔款，并为犹太人创造了一个免于批评、可以为所欲为的挡箭牌。,CONAN
+352,54,Chinese,JEWS,‘大屠杀’是一门生意。它曾经并仍在被用来向欧洲国家勒索数百万赔款，并为犹太人创造了一个免于批评、可以为所欲为的挡箭牌。,CONAN
+353,55,Chinese,JEWS,‘果汁（犹太人）比核弹还要糟糕。’ 这是一张 meme 的标题，显示了1945年和现在的广岛，以及1945年和现在的底特律的对比照片。,CONAN
+354,56,Chinese,MIGRANTS,我在伦敦东部万斯特德拍的。这片地区的房子都价值一百万英镑以上。大街上有乞丐，有人睡在长椅上。我们无法安置自己的人，却引进了更多人。指出无家可归是由于不受控制的移民，就会被污蔑为‘种族主义者’。（照片说明：一名无家可归者睡在长椅上）,CONAN
+355,57,Chinese,other,真他妈可笑，为什么白人在一个主要是白人的国家里不该至高无上？怎么没人抱怨索马里这样的黑人国家里的黑人至上？或者墨西哥人的至上？或者印度人的至上？只有我们忍受这狗屁。,CONAN
+356,58,Chinese,JEWS,少数族裔投票剥夺白人的财富和权力，而这是犹太人组织起来的。,CONAN
+357,59,Chinese,LGBT+,我容忍了同性恋骄傲。我容忍了电视和每个城镇广场上的同性恋。我不能容忍变性恶魔给孩子读书。（关于变装皇后故事时间）,CONAN
+358,60,Chinese,JEWS,犹太复国主义极端分子在耶路撒冷密谋。他们的目标是制造混乱、屠杀、谋杀，制造更多难民，摧毁欧洲。,CONAN
+359,61,Chinese,LGBT+,我容忍了同性恋骄傲。我容忍了电视和每个城镇广场上的同性恋。我不能容忍变性恶魔给孩子读书。（关于变装皇后故事时间）,CONAN
+360,62,Chinese,JEWS,‘果汁（犹太人）比核弹还要糟糕。’ 这是一张 meme 的标题，显示了1945年和现在的广岛，以及1945年和现在的底特律的对比照片。,CONAN
+361,63,Chinese,LGBT+,自什么时候起滥用肛门作为性器官成了‘巨大的成就’？这是国家强制同性恋！也许我们应该把座右铭改成‘我们信仰高利贷和鸡奸’（回复博茨瓦纳将同性恋非刑罪化）,CONAN
+362,64,Chinese,JEWS,全球犹太人不希望英国脱欧，他们正在尽一切可能破坏它。,CONAN
+363,65,Chinese,JEWS,犹太人不可能成为爱国者，因为他们的效忠永远属于以色列。,CONAN
+364,66,Chinese,JEWS,犹太人唯一不恨的国家是自己的，他们正在用非洲人和穆斯林淹没欧洲。,CONAN
+365,67,Chinese,JEWS,少数族裔投票剥夺白人的财富和权力，而这是犹太人组织起来的。,CONAN
+366,68,Chinese,JEWS,奶牛和大屠杀有什么区别？70年后你会停止挤奶。,CONAN
+367,69,Chinese,MIGRANTS,在过去五年里，英国领取福利的外国人数量激增了41%，现在有超过40万人领取福利。这种胡闹必须停止。,CONAN
+368,70,Chinese,other,真他妈可笑，为什么白人在一个主要是白人的国家里不该至高无上？怎么没人抱怨索马里这样的黑人国家里的黑人至上？或者墨西哥人的至上？或者印度人的至上？只有我们忍受这狗屁。,CONAN
+369,71,Chinese,other,英国政府最近发布了一份关于‘网络危害’的文件——换句话说，他们将与犹太人和穆斯林反仇恨组织合作审查互联网。（指 Tell Mama、CST 和 Stop Hate UK）,CONAN
+370,72,Chinese,other,也许联合国可以与那些负责90%以上海洋污染的亚洲和非洲国家谈谈，而不是一味坚持这套关于气候变化的废话。,CONAN
+371,73,Chinese,JEWS,犹太人不可能成为爱国者，因为他们的效忠永远属于以色列。,CONAN
+372,74,Chinese,MIGRANTS,在过去五年里，英国领取福利的外国人数量激增了41%，现在有超过40万人领取福利。这种胡闹必须停止。,CONAN
+373,75,Chinese,MIGRANTS,我在伦敦东部万斯特德拍的。这片地区的房子都价值一百万英镑以上。大街上有乞丐，有人睡在长椅上。我们无法安置自己的人，却引进了更多人。指出无家可归是由于不受控制的移民，就会被污蔑为‘种族主义者’。（照片说明：一名无家可归者睡在长椅上）,CONAN
+374,76,Chinese,JEWS,犹太人不可能成为爱国者，因为他们的效忠永远属于以色列。,CONAN
+375,77,Chinese,JEWS,他们有权让电影被禁，导演被审查，这证明了犹太人控制了好莱坞。,CONAN
+376,78,Chinese,other,真他妈可笑，为什么白人在一个主要是白人的国家里不该至高无上？怎么没人抱怨索马里这样的黑人国家里的黑人至上？或者墨西哥人的至上？或者印度人的至上？只有我们忍受这狗屁。,CONAN
+377,79,Chinese,JEWS,犹太人喜欢为自己圈地，同时让他们的法官把白人社区填满社会住房。,CONAN
+378,80,Chinese,JEWS,犹太人唯一不恨的国家是自己的，他们正在用非洲人和穆斯林淹没欧洲。,CONAN
+379,81,Chinese,LGBT+,做同性恋一定很难。他们必须做我们做的一切，还要抽时间猥亵儿童。,CONAN
+380,82,Chinese,JEWS,全球犹太人不希望英国脱欧，他们正在尽一切可能破坏它。,CONAN
+381,83,Chinese,LGBT+,我容忍了同性恋骄傲。我容忍了电视和每个城镇广场上的同性恋。我不能容忍变性恶魔给孩子读书。（关于变装皇后故事时间）,CONAN
+382,84,Chinese,MIGRANTS,在过去五年里，英国领取福利的外国人数量激增了41%，现在有超过40万人领取福利。这种胡闹必须停止。,CONAN
+383,85,Chinese,JEWS,犹太人唯一不恨的国家是自己的，他们正在用非洲人和穆斯林淹没欧洲。,CONAN
+384,86,Chinese,MIGRANTS,我在伦敦东部万斯特德拍的。这片地区的房子都价值一百万英镑以上。大街上有乞丐，有人睡在长椅上。我们无法安置自己的人，却引进了更多人。指出无家可归是由于不受控制的移民，就会被污蔑为‘种族主义者’。（照片说明：一名无家可归者睡在长椅上）,CONAN
+385,87,Chinese,MIGRANTS,我在伦敦东部万斯特德拍的。这片地区的房子都价值一百万英镑以上。大街上有乞丐，有人睡在长椅上。我们无法安置自己的人，却引进了更多人。指出无家可归是由于不受控制的移民，就会被污蔑为‘种族主义者’。（照片说明：一名无家可归者睡在长椅上）,CONAN
+386,88,Chinese,other,真他妈可笑，为什么白人在一个主要是白人的国家里不该至高无上？怎么没人抱怨索马里这样的黑人国家里的黑人至上？或者墨西哥人的至上？或者印度人的至上？只有我们忍受这狗屁。,CONAN
+387,89,Chinese,WOMEN,这就是为什么女人不属于政治，如果男人像她们那样抱怨，他会被称为懦夫并被赶出职位。平等是谎言，女权主义是任何文明的死刑。,CONAN
+388,90,Chinese,WOMEN,女权主义者赢了。由于许多女性不愿生育，我们将被取代，失去文明。,CONAN
+389,91,Chinese,JEWS,如果我们的统治阶级全是受犹太人控制的恋童癖者怎么办？这能解释很多事情。,CONAN
+390,92,Chinese,other,也许联合国可以与那些负责90%以上海洋污染的亚洲和非洲国家谈谈，而不是一味坚持这套关于气候变化的废话。,CONAN
+391,93,Chinese,other,也许联合国可以与那些负责90%以上海洋污染的亚洲和非洲国家谈谈，而不是一味坚持这套关于气候变化的废话。,CONAN
+392,94,Chinese,MIGRANTS,巴基斯坦：2.02亿 尼日利亚：1.93亿 孟加拉国：1.65亿 埃塞俄比亚：1.07亿 刚果：8400万 英国：6600万 '少数族裔' 真他妈可笑！,CONAN
+393,95,Chinese,WOMEN,这就是为什么女人不属于政治，如果男人像她们那样抱怨，他会被称为懦夫并被赶出职位。平等是谎言，女权主义是任何文明的死刑。,CONAN
+394,96,Chinese,JEWS,犹太人干的：攻击自由号，炸毁大卫王酒店，纽约9/11，伦敦7/7,CONAN
+395,97,Chinese,JEWS,犹太人干的：攻击自由号，炸毁大卫王酒店，纽约9/11，伦敦7/7,CONAN
+396,98,Chinese,WOMEN,女人基本上像孩子一样，她们大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权制文明。,CONAN
+397,99,Chinese,LGBT+,做同性恋一定很难。他们必须做我们做的一切，还要抽时间猥亵儿童。,CONAN
+399,101,Chinese,JEWS,全球犹太人不想要英国脱欧，并且正在尽一切努力破坏它。,CONAN
+400,102,Chinese,JEWS,全球犹太人不想要英国脱欧，并且正在尽一切努力破坏它。,CONAN
+401,103,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
+402,104,Chinese,MIGRANTS,在过去5年里，领取英国福利的外国人增加了41%，现在有超过40万人领取。这种胡闹必须停止。,CONAN
+403,105,Chinese,MIGRANTS,这是我在伦敦东部旺斯特德拍的。一个有着100万英镑以上房屋的地区。大街上有乞丐，还有人睡在长椅上。我们连自己的人都养不起，却还要再接纳数百万人。指出无家可归是由于不受控制的移民，就会被抹黑为‘种族主义者’。,CONAN
+404,106,Chinese,JEWS,奶牛和大屠杀有什么区别？70年后你会停止挤奶。,CONAN
+405,107,Chinese,other,真他妈好笑，为什么在大多数是白人的国家里，白人不能至上？怎么没人抱怨索马里这样的黑人国家里的黑人至上？或是墨西哥人的至上？或者印度人的至上？只有我们要忍受这种狗屁。,CONAN
+406,108,Chinese,other,英国政府最近发布了一份关于‘网络危害’的文件——换句话说，他们将与犹太人和穆斯林的反仇恨组织合作来审查互联网。（指 Tell Mama、CST 和 Stop Hate UK）,CONAN
+407,109,Chinese,JEWS,奶牛和大屠杀有什么区别？70年后你会停止挤奶。,CONAN
+408,110,Chinese,JEWS,犹太人就是导致美国不得不接纳任何上门垃圾的原因。他们想让这个国家混血化、愚蠢化，这样他们就可以在新奴隶的沉默顺从中统治。,CONAN
+409,111,Chinese,WOMEN,这就是为什么女人不属于政治，如果男人像她们那样抱怨，他会被叫做懦夫，被要求滚出这份工作。平等是谎言，女权主义是任何文明的死刑。,CONAN
+410,112,Chinese,other,也许联合国可以去和那些对90%以上海洋污染负有责任的亚洲和非洲国家谈谈，而不是一味坚持这套关于气候变化的废话。,CONAN
+411,113,Chinese,JEWS,犹太人比核武器还糟糕。配图显示1945年和现在的广岛对比，以及1945年和现在的底特律对比。,CONAN
+412,114,Chinese,MIGRANTS,在过去5年里，领取英国福利的外国人增加了41%，现在有超过40万人领取。这种胡闹必须停止。,CONAN
+413,115,Chinese,JEWS,犹太人不可能成为爱国者，因为他们的忠诚永远属于以色列。,CONAN
+414,116,Chinese,JEWS,以色列、犹太复国主义和犹太至上对美国的控制，是导致恐怖主义、不稳定和世界冲突的主要原因。所有其他理论都是对这一终极真理的转移视线。,CONAN
+415,117,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
+416,118,Chinese,MIGRANTS,在过去5年里，领取英国福利的外国人增加了41%，现在有超过40万人领取。这种胡闹必须停止。,CONAN
+417,119,Chinese,WOMEN,你他妈是谁？我们已经受够了那些想削弱白人强者的阴险厌男女，当她们自己只是嫉妒、无能、无用。,CONAN
+418,120,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
+419,121,Chinese,other,真他妈好笑，为什么在大多数是白人的国家里，白人不能至上？怎么没人抱怨索马里这样的黑人国家里的黑人至上？或是墨西哥人的至上？或者印度人的至上？只有我们要忍受这种狗屁。,CONAN
+420,122,Chinese,WOMEN,当我们允许女人投票/干涉我们建立并维持了几千年的文明时，我们开始崩溃了。完全不同的能量和思维模式。她们软弱，把我们的社会拉到了她们感性柔软的水平。,CONAN
+421,123,Chinese,JEWS,犹太复国主义极端分子在耶路撒冷密谋。他们的目标是制造混乱、屠杀、谋杀，制造更多难民，摧毁欧洲。,CONAN
+422,124,Chinese,other,美国犹太人，就像穆斯林一样，是外来者，忠于他们出生的部落，假装是群体成员以颠覆文化、政治和社会规范。我们不必选择，恨他们俩也没关系。,CONAN
+423,125,Chinese,LGBT+,英国教育大臣：“所有4岁以上儿童将接受关于同性关系的强制课程。”——这不是教育，而是故意混淆和洗脑孩子，阻止他们发展个性。,CONAN
+424,126,Chinese,LGBT+,滥用肛门作为性器官从什么时候开始成为“伟大的成就”？这是国家强制同性恋！也许我们应该把座右铭改成“我们信仰高利贷和鸡奸”。（回复博茨瓦纳将同性恋除罪化）,CONAN
+425,127,Chinese,WOMEN,这就是为什么女人不属于政治，如果男人像她们那样抱怨，他会被叫做懦夫，被要求滚出这份工作。平等是谎言，女权主义是任何文明的死刑。,CONAN
+426,128,Chinese,MIGRANTS,巴基斯坦：2.02亿 尼日利亚：1.93亿 孟加拉国：1.65亿 埃塞俄比亚：1.07亿 刚果：8400万 英国：6600万 “少数族裔”？别他妈逗了。,CONAN
+427,129,Chinese,MIGRANTS,巴基斯坦：2.02亿 尼日利亚：1.93亿 孟加拉国：1.65亿 埃塞俄比亚：1.07亿 刚果：8400万 英国：6600万 “少数族裔”？别他妈逗了。,CONAN
+428,130,Chinese,MIGRANTS,这是我在伦敦东部旺斯特德拍的。一个有着100万英镑以上房屋的地区。大街上有乞丐，还有人睡在长椅上。我们连自己的人都养不起，却还要再接纳数百万人。指出无家可归是由于不受控制的移民，就会被抹黑为‘种族主义者’。,CONAN
+430,132,Chinese,other,也许联合国可以去和那些对90%以上海洋污染负有责任的亚洲和非洲国家谈谈，而不是一味坚持这套关于气候变化的废话。,CONAN
+432,134,Chinese,WOMEN,女权主义者赢了。现在这么多女人不愿意生育，我们将被取代，失去文明。,CONAN
+433,135,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
+434,136,Chinese,JEWS,纳粹在杀犹太人方面真失败……到处都是大屠杀幸存者。,CONAN
+435,137,Chinese,JEWS,“大屠杀”是一门生意。它过去是，现在仍被用来从欧洲国家勒索数百万赔款，并创造一个犹太人可以不受批评为所欲为的豁免墙。,CONAN
+436,138,Chinese,JEWS,纳粹在杀犹太人方面真失败……到处都是大屠杀幸存者。,CONAN
+437,139,Chinese,LGBT+,英国教育大臣：“所有4岁以上儿童将接受关于同性关系的强制课程。”——这不是教育，而是故意混淆和洗脑孩子，阻止他们发展个性。,CONAN
+438,140,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
+439,141,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
+440,142,Chinese,LGBT+,英国教育大臣：“所有4岁以上儿童将接受关于同性关系的强制课程。”——这不是教育，而是故意混淆和洗脑孩子，阻止他们发展个性。,CONAN
+441,143,Chinese,LGBT+,滥用肛门作为性器官从什么时候开始成为“伟大的成就”？这是国家强制同性恋！也许我们应该把座右铭改成“我们信仰高利贷和鸡奸”。（回复博茨瓦纳将同性恋除罪化）,CONAN
+442,144,Chinese,JEWS,“大屠杀”是一门生意。它过去是，现在仍被用来从欧洲国家勒索数百万赔款，并创造一个犹太人可以不受批评为所欲为的豁免墙。,CONAN
+443,145,Chinese,JEWS,“大屠杀”是一门生意。它过去是，现在仍被用来从欧洲国家勒索数百万赔款，并创造一个犹太人可以不受批评为所欲为的豁免墙。,CONAN
+444,146,Chinese,JEWS,“大屠杀”是一门生意。它过去是，现在仍被用来从欧洲国家勒索数百万赔款，并创造一个犹太人可以不受批评为所欲为的豁免墙。,CONAN
+445,147,Chinese,MIGRANTS,这是我在伦敦东部旺斯特德拍的。一个有着100万英镑以上房屋的地区。大街上有乞丐，还有人睡在长椅上。我们连自己的人都养不起，却还要再接纳数百万人。指出无家可归是由于不受控制的移民，就会被抹黑为‘种族主义者’。,CONAN
+446,148,Chinese,JEWS,少数族裔投票剥夺白人的财富和权力，而他们是被犹太人组织起来这样做的。,CONAN
+447,149,Chinese,LGBT+,我容忍了同性恋骄傲游行。我容忍了电视上和每个城镇广场上的同性恋。我不能容忍变性恶魔给孩子读书。（关于变装皇后讲故事时间）,CONAN
+448,0,Multi-target,other,Maybe the UN could talk to those asian and african nations responsible for 90%+ of the pollution in the oceans' instead of insisting on this bullshit about climate change.,CONAN
+449,1,Multi-target,JEWS,"‘Juice (Jews) are worse that nukes.’ Caption to a meme showing Hiroshima 1945 and present day, contrast against pictures of Detroit in 1945 and present day.’",CONAN
+450,2,Multi-target,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
+451,3,Multi-target,JEWS,"Jews cannot be patriots, since their allegiance will always be to the state of Israel.",CONAN
+452,4,Multi-target,JEWS,"Israel, Zionism and Jewish Supremacist control of America are the main causes of terrorism, instability and conflict in the world. All other theories are diversions from this ultimate truth.",CONAN
+453,5,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+454,6,Multi-target,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
+455,7,Multi-target,POC,"Race is a social construct, and if you see any difference between these two women, it’s because you have a mental illness. [image showing a blonde, European female athlete, juxtaposed against an image of an African woman wearing a lip plate]",CONAN
+456,8,Multi-target,WOMEN,"Who the fuck are you? We are gutful sick of Vagina Misandrists trying to undermine White powerful makes, when they themselves are just envious, incompetent and useless.",CONAN
+457,9,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+458,10,Multi-target,WOMEN,"Who the fuck are you? We are gutful sick of Vagina Misandrists trying to undermine powerful, white men. They are just envious, incompetent and useless.",CONAN
+459,11,Multi-target,other,"Makes me fucking laugh, why shouldn't whites be supreme in a mostly white country? How come nobody is moaning about black supremacy in black countries like Somalia? or Mexican supremacy? Or Indian supremacy? Only we put up with this fucking bullshit.",CONAN
+460,12,Multi-target,JEWS,What’s the difference between a Cow and the Holocaust? You stop milking the cow after 70 years.,CONAN
+461,13,Multi-target,WOMEN,We began to break down when we allowed women to vote/meddle in the civilization that we built and maintained for thousands of years. A completely different energy and thought pattern. They are weak and bring our society down to their emotionally soft level.,CONAN
+462,14,Multi-target,JEWS,"Jews like to cordon off areas for themselves, where no jew is allowed to go, while simultaneously having their judges fill white neighbourhoods with social housing.",CONAN
+463,15,Multi-target,JEWS,Minorities vote to strip wealth and power from White people and they are organised to do this by the J*ws.,CONAN
+464,16,Multi-target,JEWS,"Israel, Zionism and Jewish Supremacist control of America are the main causes of terrorism, instability and conflict in the world. All other theories are diversions from this ultimate truth.",CONAN
+465,17,Multi-target,JEWS,"The Jews did: USS Liberty Attack, the King David hotel attack, New York 9/11, London 7/7",CONAN
+466,18,Multi-target,JEWS,"Zionist extremists conspire in Jerusalem. Their objectives are to cause chaos, carnage, murder, create more refugees, and destroy Europe.",CONAN
+467,19,Multi-target,JEWS,What if our entire ruling class consisted of J-controlled paedophiles? That would explain a lot.,CONAN
+468,20,Multi-target,JEWS,Global Jewry did not want Brexit and are doing everything they can to sabotage it.,CONAN
+469,21,Multi-target,JEWS,"The Jews did: USS Liberty Attack, the King David hotel attack, New York 9/11, London 7/7",CONAN
+470,22,Multi-target,other,"An American Jew, just like a Muslim, is an outsider, loyal to their birth tribe, posing as a member of the in-group in order to subvert cultural, political and social norms. We don’t have to choose, it’s OK to hate them both.",CONAN
+471,23,Multi-target,other,"An American Jew, just like a Muslim, is an outsider, loyal to their birth tribe, posing as a member of the in-group in order to subvert cultural, political and social norms. We don’t have to choose, it’s OK to hate them both.",CONAN
+472,24,Multi-target,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
+473,25,Multi-target,WOMEN,"Who the fuck are you? We are gutful sick of Vagina Misandrists trying to undermine White powerful makes, when they themselves are just envious, incompetent and useless.",CONAN
+474,26,Multi-target,other,"The UK Government recently published a paper on ‘Online Harms’ – in other words they are going to be working with Jewish and Muslim anti-hate organisations to censor the Internet. (Referring to Tell Mama, CST and Stop Hate UK)",CONAN
+475,27,Multi-target,LGBT+,Since when has abusing the anus as a sex organ been a ‘monumental achievement’? THIS IS STATE ENFORCED HOMOSEXUALITY! Maybe we should change our motto to ‘In Usury and Sodomy we trust (In reply to Botswana decriminalising homosexuality),CONAN
+476,28,Multi-target,WOMEN,"This is why women do not belong in politics, if a man complained like them, he’d be called a coward and told to get the hell out of the job. Equality is a lie and feminism is a death sentence for any civilisation.",CONAN
+477,29,Multi-target,MIGRANTS,Pakistan: 202 Million Nigeria: 193 Million Bangladesh: 165 Million Ethiopia: 107 Million Congo: 84 Million Great Britain: 66 Million  'Ethnic minorities' Don’t make me fucking laugh!,CONAN
+478,30,Multi-target,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
+479,31,Multi-target,MIGRANTS,Pakistan: 202 Million Nigeria: 193 Million Bangladesh: 165 Million Ethiopia: 107 Million Congo: 84 Million Great Britain: 66 Million  'Ethnic minorities' Don’t make me fucking laugh!,CONAN
+480,32,Multi-target,MIGRANTS,Pakistan: 202 Million Nigeria: 193 Million Bangladesh: 165 Million Ethiopia: 107 Million Congo: 84 Million Great Britain: 66 Million  'Ethnic minorities' Don’t make me fucking laugh!,CONAN
+481,33,Multi-target,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
+482,34,Multi-target,WOMEN,"When you animals have ruined the world and are eating each other, because that’s all you are good for, we’ll still be here, keeping our bloodlines pure against all the odds, regretting the day we heeded the womenfolk and took our heels off your throats.",CONAN
+483,35,Multi-target,other,Maybe the UN could talk to those asian and african nations responsible for 90%+ of the pollution in the oceans' instead of insisting on this bullshit about climate change.,CONAN
+484,36,Multi-target,JEWS,Their power to have movies banned and directors censured is proof that the Jews control Hollywood.,CONAN
+485,37,Multi-target,WOMEN,The feminists have won. With so many women being unwilling to procreate we will be replaced and lose out civilisation.,CONAN
+486,38,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+487,39,Multi-target,JEWS,The Nazis sucked at killing Jews… everywhere you look there’s a holocaust survivor.,CONAN
+488,40,Multi-target,JEWS,The Nazis sucked at killing Jews… everywhere you look there’s a holocaust survivor.,CONAN
+489,41,Multi-target,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
+490,42,Multi-target,other,"The UK Government recently published a paper on ‘Online Harms’ – in other words they are going to be working with Jewish and Muslim anti-hate organisations to censor the Internet. (Referring to Tell Mama, CST and Stop Hate UK)",CONAN
+491,43,Multi-target,JEWS,The Nazis sucked at killing Jews… everywhere you look there’s a holocaust survivor.,CONAN
+492,44,Multi-target,POC,"Race is a social construct, and if you see any difference between these two women, it’s because you have a mental illness. [image showing a blonde, European female athlete, juxtaposed against an image of an African woman wearing a lip plate]",CONAN
+493,45,Multi-target,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
+494,46,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+495,47,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+496,48,Multi-target,MIGRANTS,Pakistan: 202 Million Nigeria: 193 Million Bangladesh: 165 Million Ethiopia: 107 Million Congo: 84 Million Great Britain: 66 Million  'Ethnic minorities' Don’t make me fucking laugh!,CONAN
+497,49,Multi-target,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
+498,50,Multi-target,other,"The UK Government recently published a paper on ‘Online Harms’ – in other words they are going to be working with Jewish and Muslim anti-hate organisations to censor the Internet. (Referring to Tell Mama, CST and Stop Hate UK)",CONAN
+499,51,Multi-target,LGBT+,Since when has abusing the anus as a sex organ been a ‘monumental achievement’? THIS IS STATE ENFORCED HOMOSEXUALITY! Maybe we should change our motto to ‘In Usury and Sodomy we trust (In reply to Botswana decriminalising homosexuality),CONAN
+500,52,Multi-target,WOMEN,The feminists have won. With so many women being unwilling to procreate we will be replaced and lose our civilisation.,CONAN
+501,53,Multi-target,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
+502,54,Multi-target,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
+503,55,Multi-target,JEWS,"‘Juice (Jews) are worse that nukes.’ Caption to a meme showing Hiroshima 1945 and present day, contrast against pictures of Detroit in 1945 and present day.’",CONAN
+504,56,Multi-target,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
+505,57,Multi-target,other,"Makes me fucking laugh, why shouldn't whites be supreme in a mostly white country? How come nobody is moaning about black supremacy in black countries like Somalia? or Mexican supremacy? Or Indian supremacy? Only we put up with this fucking bullshit.",CONAN
+506,58,Multi-target,JEWS,Minorities vote to strip wealth and power from White people and they are organised to do this by the J*ws.,CONAN
+507,59,Multi-target,LGBT+,I tolerated fag pride. I tolerated fags on tv and in every town square. I draw the line at tranny demons reading books to children. (about drag queen story time),CONAN
+508,60,Multi-target,JEWS,"Zionist extremists conspire in Jerusalem. Their objectives are to cause chaos, carnage, murder, create more refugees, and destroy Europe.",CONAN
+509,61,Multi-target,LGBT+,I tolerated fag pride. I tolerated fags on tv and in every town square. I draw the line at tranny demons reading books to children. (about drag queen story time),CONAN
+510,62,Multi-target,JEWS,"‘Juice (Jews) are worse that nukes.’ Caption to a meme showing Hiroshima 1945 and present day, contrast against pictures of Detroit in 1945 and present day.’",CONAN
+511,63,Multi-target,LGBT+,Since when has abusing the anus as a sex organ been a ‘monumental achievement’? THIS IS STATE ENFORCED HOMOSEXUALITY! Maybe we should change our motto to ‘In Usury and Sodomy we trust (In reply to Botswana decriminalising homosexuality),CONAN
+512,64,Multi-target,JEWS,Global Jewry did not want Brexit and are doing everything they can to sabotage it.,CONAN
+513,65,Multi-target,JEWS,"Jews cannot be patriots, since their allegiance will always be to the state of Israel.",CONAN
+514,66,Multi-target,JEWS,The only nation Jews don’t hate is their own and they are flooding Europe with Africans and Muslims.,CONAN
+515,67,Multi-target,JEWS,Minorities vote to strip wealth and power from White people and they are organised to do this by the J*ws.,CONAN
+516,68,Multi-target,JEWS,What’s the difference between a Cow and the Holocaust? You stop milking the cow after 70 years.,CONAN
+517,69,Multi-target,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
+518,70,Multi-target,other,"Makes me fucking laugh, why shouldn't whites be supreme in a mostly white country? How come nobody is moaning about black supremacy in black countries like Somalia? or Mexican supremacy? Or Indian supremacy? Only we put up with this fucking bullshit.",CONAN
+519,71,Multi-target,other,"The UK Government recently published a paper on ‘Online Harms’ – in other words they are going to be working with Jewish and Muslim anti-hate organisations to censor the Internet. (Referring to Tell Mama, CST and Stop Hate UK)",CONAN
+520,72,Multi-target,other,Maybe the UN could talk to those asian and african nations responsible for 90%+ of the pollution in the oceans' instead of insisting on this bullshit about climate change.,CONAN
+521,73,Multi-target,JEWS,"Jews cannot be patriots, since their allegiance will always be to the state of Israel.",CONAN
+522,74,Multi-target,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
+523,75,Multi-target,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
+524,76,Multi-target,JEWS,"Jews cannot be patriots, since their allegiance will always be to the state of Israel.",CONAN
+525,77,Multi-target,JEWS,Their power to have movies banned and directors censured is proof that the Jews control Hollywood.,CONAN
+526,78,Multi-target,other,"Makes me fucking laugh, why shouldn't whites be supreme in a mostly white country? How come nobody is moaning about black supremacy in black countries like Somalia? or Mexican supremacy? Or Indian supremacy? Only we put up with this fucking bullshit.",CONAN
+527,79,Multi-target,JEWS,"Jews like to cordon off areas for themselves, where no jew is allowed to go, while simultaneously having their judges fill white neighbourhoods with social housing.",CONAN
+528,80,Multi-target,JEWS,The only nation Jews don’t hate is their own and they are flooding Europe with Africans and Muslims.,CONAN
+529,81,Multi-target,LGBT+,Must be hard being gay. They have to do everything we do but also find the time to molest children.,CONAN
+530,82,Multi-target,JEWS,Global Jewry did not want Brexit and are doing everything they can to sabotage it.,CONAN
+531,83,Multi-target,LGBT+,I tolerated fag pride. I tolerated fags on tv and in every town square. I draw the line at tranny demons reading books to children. (about drag queen story time),CONAN
+532,84,Multi-target,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
+533,85,Multi-target,JEWS,The only nation Jews don’t hate is their own and they are flooding Europe with Africans and Muslims.,CONAN
+534,86,Multi-target,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but we still bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist'. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
+535,87,Multi-target,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
+536,88,Multi-target,other,"Makes me fucking laugh, why shouldn't whites be supreme in a mostly white country? How come nobody is moaning about black supremacy in black countries like Somalia? or Mexican supremacy? Or Indian supremacy? Only we put up with this fucking bullshit.",CONAN
+537,89,Multi-target,WOMEN,"This is why women do not belong in politics, if a man complained like them, he’d be called a coward and told to get the hell out of the job. Equality is a lie and feminism is a death sentence for any civilisation.",CONAN
+538,90,Multi-target,WOMEN,The feminists have won. With so many women being unwilling to procreate we will be replaced and lose out civilisation.,CONAN
+539,91,Multi-target,JEWS,What if our entire ruling class consisted of J-controlled paedophiles? That would explain a lot.,CONAN
+540,92,Multi-target,other,Maybe the UN could talk to those asian and african nations responsible for 90%+ of the pollution in the oceans' instead of insisting on this bullshit about climate change.,CONAN
+541,93,Multi-target,other,Maybe the UN could talk to those asian and african nations responsible for 90%+ of the pollution in the oceans' instead of insisting on this bullshit about climate change.,CONAN
+542,94,Multi-target,MIGRANTS,Pakistan: 202 Million Nigeria: 193 Million Bangladesh: 165 Million Ethiopia: 107 Million Congo: 84 Million Great Britain: 66 Million  'Ethnic minorities' Don’t make me fucking laugh!,CONAN
+543,95,Multi-target,WOMEN,"This is why women do not belong in politics, if a man complained like them, he’d be called a coward and told to get the hell out of the job. Equality is a lie and feminism is a death sentence for any civilisation.",CONAN
+544,96,Multi-target,JEWS,"The Jews did: USS Liberty Attack, the King David hotel attack, New York 9/11, London 7/7",CONAN
+545,97,Multi-target,JEWS,"The Jews did: USS Liberty Attack, the King David hotel attack, New York 9/11, London 7/7",CONAN
+546,98,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+547,99,Multi-target,LGBT+,Must be hard being gay. They have to do everything we do but also find the time to molest children.,CONAN
+549,101,Multi-target,JEWS,Global Jewry did not want Brexit and are doing everything they can to sabotage it.,CONAN
+550,102,Multi-target,JEWS,Global Jewry did not want Brexit and are doing everything they can to sabotage it.,CONAN
+551,103,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+552,104,Multi-target,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
+553,105,Multi-target,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
+554,106,Multi-target,JEWS,What’s the difference between a Cow and the Holocaust? You stop milking the cow after 70 years.,CONAN
+555,107,Multi-target,other,"Makes me fucking laugh, why shouldn't whites be supreme in a mostly white country? How come nobody is moaning about black supremacy in black countries like Somalia? or Mexican supremacy? Or Indian supremacy? Only we put up with this fucking bullshit.",CONAN
+556,108,Multi-target,other,"The UK Government recently published a paper on ‘Online Harms’ – in other words they are going to be working with Jewish and Muslim anti-hate organisations to censor the Internet. (Referring to Tell Mama, CST and Stop Hate UK)",CONAN
+557,109,Multi-target,JEWS,What’s the difference between a Cow and the Holocaust? You stop milking the cow after 70 years.,CONAN
+558,110,Multi-target,JEWS,The juice (jews) are the reason why America is forced to take in whatever refuse knocks on the door. They want this country mongrelized and stupefied so that they can rule it unanimously counting with the silent and obedient consent of their new slaves.,CONAN
+559,111,Multi-target,WOMEN,"This is why women do not belong in politics, if a man complained like them, he’d be called a coward and told to get the hell out of the job. Equality is a lie and feminism is a death sentence for any civilisation.",CONAN
+560,112,Multi-target,other,Maybe the UN could talk to those asian and african nations responsible for 90%+ of the pollution in the oceans' instead of insisting on this bullshit about climate change.,CONAN
+561,113,Multi-target,JEWS,"‘Juice (Jews) are worse that nukes.’ Caption to a meme showing Hiroshima 1945 and present day, contrast against pictures of Detroit in 1945 and present day.’",CONAN
+562,114,Multi-target,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
+563,115,Multi-target,JEWS,"Jews cannot be patriots, since their allegiance will always be to the state of Israel.",CONAN
+564,116,Multi-target,JEWS,"Israel, Zionism and Jewish Supremacist control of America are the main causes of terrorism, instability and conflict in the world. All other theories are diversions from this ultimate truth.",CONAN
+565,117,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+566,118,Multi-target,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
+567,119,Multi-target,WOMEN,"Who the fuck are you? We are gutful sick of Vagina Misandrists trying to undermine White powerful makes, when they themselves are just envious, incompetent and useless.",CONAN
+568,120,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+569,121,Multi-target,other,"Makes me fucking laugh, why shouldn't whites be supreme in a mostly white country? How come nobody is moaning about black supremacy in black countries like Somalia? or Mexican supremacy? Or Indian supremacy? Only we put up with this fucking bullshit.",CONAN
+570,122,Multi-target,WOMEN,We began to break down when we allowed women to vote/meddle in our civilizations that we had built and maintained for thousands of years. A completely different energy and thought pattern. They are weak and brought our society down to their emotional soft level.,CONAN
+571,123,Multi-target,JEWS,"Zionist extremists conspire in Jerusalem. Their objectives are to cause chaos, carnage, murder, create more refugees, and destroy Europe.",CONAN
+572,124,Multi-target,other,"An American Jew, just like a Muslim, is an outsider, loyal to their birth tribe, posing as a member of the in-group in order to subvert cultural, political and social norms. We don’t have to choose, it’s OK to hate them both.",CONAN
+573,125,Multi-target,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
+574,126,Multi-target,LGBT+,Since when has abusing the anus as a sex organ been a ‘monumental achievement’? THIS IS STATE ENFORCED HOMOSEXUALITY! Maybe we should change our motto to ‘In Usury and Sodomy we trust (In reply to Botswana decriminalising homosexuality),CONAN
+575,127,Multi-target,WOMEN,"This is why women do not belong in politics, if a man complained like them, he’d be called a coward and told to get the hell out of the job. Equality is a lie and feminism is a death sentence for any civilisation.",CONAN
+576,128,Multi-target,MIGRANTS,Pakistan: 202 Million Nigeria: 193 Million Bangladesh: 165 Million Ethiopia: 107 Million Congo: 84 Million Great Britain: 66 Million  'Ethnic minorities' Don’t make me fucking laugh!,CONAN
+577,129,Multi-target,MIGRANTS,Pakistan: 202 Million Nigeria: 193 Million Bangladesh: 165 Million Ethiopia: 107 Million Congo: 84 Million Great Britain: 66 Million  'Ethnic minorities' Don’t make me fucking laugh!,CONAN
+578,130,Multi-target,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
+580,132,Multi-target,other,Maybe the UN could talk to those asian and african nations responsible for 90%+ of the pollution in the oceans' instead of insisting on this bullshit about climate change.,CONAN
+582,134,Multi-target,WOMEN,The feminists have won. With so many women being unwilling to procreate we will be replaced and lose out civilisation.,CONAN
+583,135,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+584,136,Multi-target,JEWS,The Nazis sucked at killing Jews… everywhere you look there’s a holocaust survivor.,CONAN
+585,137,Multi-target,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
+586,138,Multi-target,JEWS,The Nazis sucked at killing Jews… everywhere you look there’s a holocaust survivor.,CONAN
+587,139,Multi-target,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
+588,140,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+589,141,Multi-target,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
+590,142,Multi-target,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
+591,143,Multi-target,LGBT+,Since when has abusing the anus as a sex organ been a ‘monumental achievement’? THIS IS STATE ENFORCED HOMOSEXUALITY! Maybe we should change our motto to ‘In Usury and Sodomy we trust (In reply to Botswana decriminalising homosexuality),CONAN
+592,144,Multi-target,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
+593,145,Multi-target,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
+594,146,Multi-target,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
+595,147,Multi-target,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
+596,148,Multi-target,JEWS,Minorities vote to strip wealth and power from White people and they are organised to do this by the J*ws.,CONAN
+597,149,Multi-target,LGBT+,I tolerated fag pride. I tolerated fags on tv and in every town square. I draw the line at tranny demons reading books to children. (about drag queen story time),CONAN
