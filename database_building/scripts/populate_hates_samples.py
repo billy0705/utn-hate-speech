@@ -39,7 +39,7 @@ def merge_conan_to_hate_samples():
         'Albanian_CONAN.csv': 'Albanian',
         'Arabic_CONAN.csv': 'Arabic', 
         'Chinese_CONAN.csv': 'Chinese',
-        'Multitarget-CONAN.csv': 'Multi-target'
+        'Multitarget-CONAN.csv': 'English'
     }
     
     # Filter to only include files that actually exist
