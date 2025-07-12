@@ -73,6 +73,43 @@ class ChatGPTModel(LanguageModel):
         )
         return response.choices[0].message.content
 
+class DeepSeekModel(LanguageModel):
+    """
+    Wrapper for the DeepSeek model.
+    """
+    def __init__(self, api_key: str, language: str = "english"):
+        super().__init__(language)
+        if not api_key:
+            raise ValueError("API key is required for DeepSeek.")
+        self.api_key = api_key
+        self.client = OpenAI(api_key=self.api_key, base_url="https://api.deepseek.com")
+
+    def generate_response(self, hate_speech_text: str) -> str:
+        template = self.prompt_templates["response_generation"]
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text)}
+        ]
+
+        response = self.client.chat.completions.create(
+            model="deepseek-chat",
+            messages=messages
+        )
+        return response.choices[0].message.content
+
+    def classify_response(self, hate_speech_text: str, response_text: str) -> str:
+        template = self.prompt_templates["classification"]
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)}
+        ]
+
+        response = self.client.chat.completions.create(
+            model="deepseek-chat",
+            messages=messages
+        )
+        return response.choices[0].message.content
+
 class LlamaModel(LanguageModel):
     """
     Wrapper for a local Llama model.

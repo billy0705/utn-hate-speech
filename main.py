@@ -1,12 +1,12 @@
 import argparse
 from src.data_handler import DataHandler
-from src.models import ChatGPTModel, LlamaModel
+from src.models import ChatGPTModel, LlamaModel, DeepSeekModel
 from src.hate_speech_handler import load_env_vars
 
 def main():
     parser = argparse.ArgumentParser(description='Hate speech data processing.')
     parser.add_argument('task', choices=['gather', 'annotate'], help='Task to perform: gather LLM responses or annotate them.')
-    parser.add_argument('--model', choices=['chatgpt', 'llama'], required=True, help='Model to use.')
+    parser.add_argument('--model', choices=['chatgpt', 'llama', 'deepseek'], required=True, help='Model to use.')
     parser.add_argument('--languages', nargs='+', help='List of languages to process.')
     parser.add_argument('--limit', type=int, help='Limit the number of items to process.')
     parser.add_argument('--data_path', default='database_building/data', help='Path to the data directory.')
@@ -16,10 +16,14 @@ def main():
 
     env_vars = load_env_vars(args.env_file)
     openai_api_key = env_vars.get("OPENAI_API_KEY")
+    deepseek_api_key = env_vars.get("DEEPSEEK_API_KEY")
 
     if args.model == 'chatgpt':
         model = ChatGPTModel(api_key=openai_api_key)
         model_name = 'ChatGPT'
+    elif args.model == 'deepseek':
+        model = DeepSeekModel(api_key=deepseek_api_key)
+        model_name = 'DeepSeek'
     elif args.model == 'llama':
         model = LlamaModel()
         model_name = 'Llama'

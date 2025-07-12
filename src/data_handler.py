@@ -84,6 +84,9 @@ class DataHandler:
         if languages is None:
             languages = hate_samples_df['Language'].unique()
 
+        # Define batch size for writing to CSV.
+        batch_size = 200
+
         # Process samples for each language separately.
         for lang in languages:
             print(f"Processing language: {lang}")
@@ -121,11 +124,19 @@ class DataHandler:
                     'Model_Response': response_text
                 })
 
-        # Save the new responses to the CSV file if any were generated.
+                # Write to CSV in batches.
+                if len(new_responses) >= batch_size:
+                    new_responses_df = pd.DataFrame(new_responses)
+                    llm_responses_df = pd.concat([llm_responses_df, new_responses_df], ignore_index=True)
+                    llm_responses_df.to_csv(self.llm_responses_path, index=False)
+                    print(f"Added {len(new_responses)} new responses to {self.llm_responses_path}")
+                    new_responses = [] # Clear the list after writing
+
+        # Save any remaining new responses to the CSV file.
         if new_responses:
             new_responses_df = pd.DataFrame(new_responses)
-            updated_responses_df = pd.concat([llm_responses_df, new_responses_df], ignore_index=True)
-            updated_responses_df.to_csv(self.llm_responses_path, index=False)
+            llm_responses_df = pd.concat([llm_responses_df, new_responses_df], ignore_index=True)
+            llm_responses_df.to_csv(self.llm_responses_path, index=False)
             print(f"Added {len(new_responses)} new responses to {self.llm_responses_path}")
 
     # ---------------------
@@ -172,6 +183,9 @@ class DataHandler:
         if languages is None:
             languages = data_to_annotate['Language_x'].unique()
 
+        # Define batch size for writing to CSV.
+        batch_size = 200
+
         # Process responses for each language separately.
         for lang in languages:
             print(f"Processing language: {lang}")
@@ -201,6 +215,7 @@ class DataHandler:
                 print(f"Classifying response for Response_ID: {response_id}")
                 hate_text = row['Text']
                 response_text = row['Model_Response']
+                
                 classification = model.classify_response(hate_text, response_text)
 
                 # Update existing annotation or create a new one.
@@ -214,6 +229,14 @@ class DataHandler:
                     
                     new_annotation['Annotation_ID'] = start_annotation_id + len(new_annotations)
                     new_annotations.append(new_annotation)
+
+                # Write to CSV in batches.
+                if len(new_annotations) >= batch_size:
+                    new_annotations_df = pd.DataFrame(new_annotations)
+                    annotations_df = pd.concat([annotations_df, new_annotations_df], ignore_index=True)
+                    annotations_df.to_csv(self.annotations_path, index=False)
+                    print(f"Added {len(new_annotations)} new annotations to {self.annotations_path}")
+                    new_annotations = [] # Clear the list after writing
 
         # Add new annotations to the main dataframe.
         if new_annotations:
