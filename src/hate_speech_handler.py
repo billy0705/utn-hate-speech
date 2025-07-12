@@ -1,5 +1,5 @@
 import os
-from src.models import LanguageModel, ChatGPTModel, DeepSeekModel, LlamaModel
+from src.models import LanguageModel, ChatGPTModel, DeepSeekModel, ClaudeModel, LlamaModel
 
 def load_env_vars(env_path=".env"):
     env_vars = {}
