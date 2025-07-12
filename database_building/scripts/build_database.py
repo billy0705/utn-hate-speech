@@ -12,8 +12,8 @@ llm_responses_columns = [
 ]
 
 annotations_columns = [
-    "Annotation_ID", "Response_ID", "GPT_Label", "Claude_Label",
-    "DeepSeek_Label", "Llama_Label", "Qwen_Label", "Human_Label", "Final_Label"
+    "Annotation_ID", "Response_ID", "Chatgpt_Label", "Claude_Label",
+    "Deepseek_Label", "Llama_Label", "Qwen_Label", "Human_Label", "Final_Label"
 ]
 
 # Create empty DataFrames with specified columns

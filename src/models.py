@@ -2,6 +2,7 @@ import os
 import json
 from openai import OpenAI
 from abc import ABC, abstractmethod
+from anthropic import Anthropic
 
 class LanguageModel(ABC):
     """
@@ -72,6 +73,84 @@ class ChatGPTModel(LanguageModel):
             messages=messages
         )
         return response.choices[0].message.content
+
+class DeepSeekModel(LanguageModel):
+    """
+    Wrapper for the DeepSeek model.
+    """
+    def __init__(self, api_key: str, language: str = "english"):
+        super().__init__(language)
+        if not api_key:
+            raise ValueError("API key is required for DeepSeek.")
+        self.api_key = api_key
+        self.client = OpenAI(api_key=self.api_key, base_url="https://api.deepseek.com/v1")
+
+    def generate_response(self, hate_speech_text: str) -> str:
+        template = self.prompt_templates["response_generation"]
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text)}
+        ]
+
+        response = self.client.chat.completions.create(
+            model="deepseek-chat",
+            messages=messages
+        )
+        return response.choices[0].message.content
+
+    def classify_response(self, hate_speech_text: str, response_text: str) -> str:
+        template = self.prompt_templates["classification"]
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)}
+        ]
+
+        response = self.client.chat.completions.create(
+            model="deepseek-chat",
+            messages=messages
+        )
+        return response.choices[0].message.content
+
+class ClaudeModel(LanguageModel):
+    """
+    Wrapper for the Claude model.
+    """
+    def __init__(self, api_key: str, language: str = "english"):
+        super().__init__(language)
+        if not api_key:
+            raise ValueError("API key is required for Claude.")
+        self.api_key = api_key
+        self.client = Anthropic(api_key=self.api_key)
+
+    def generate_response(self, hate_speech_text: str) -> str:
+        template = self.prompt_templates["response_generation"]
+        messages = [
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text)}
+        ]
+        system_message = template["system"]
+
+        response = self.client.messages.create(
+            model="claude-3-opus-20240229",
+            max_tokens=1024,
+            messages=messages,
+            system=system_message
+        )
+        return response.content[0].text
+
+    def classify_response(self, hate_speech_text: str, response_text: str) -> str:
+        template = self.prompt_templates["classification"]
+        messages = [
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)}
+        ]
+        system_message = template["system"]
+
+        response = self.client.messages.create(
+            model="claude-3-opus-20240229",
+            max_tokens=1024,
+            messages=messages,
+            system=system_message
+        )
+        return response.content[0].text
 
 class LlamaModel(LanguageModel):
     """

@@ -26,6 +26,8 @@ The main script for interacting with the project is `main.py`.
     *   `annotate`: Classifies the generated responses.
 *   `--model`: The language model to use. (required)
     *   `chatgpt`: Uses the ChatGPT model.
+    *   `deepseek`: Uses the DeepSeek model.
+    *   `claude`: Uses the Claude model.
     *   `llama`: Uses a local Llama model (placeholder).
 *   `--languages`: A list of languages to process (e.g., `English`, `Chinese`). If not provided, all available languages will be processed.
 *   `--limit`: An integer to limit the number of items to process.
