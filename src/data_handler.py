@@ -39,11 +39,20 @@ class DataHandler:
     def get_annotations(self):
         """
         Reads and returns the annotations from the CSV file.
-        If the file doesn't exist, it returns an empty DataFrame.
+        Ensures all predefined label columns exist.
         """
+        expected_columns = ['Annotation_ID', 'Response_ID', 'Chatgpt_Label', 'Claude_Label', 'Deepseek_Label', 'Llama_Label', 'Qwen_Label', 'Human_Label', 'Final_Label']
+        # Define dtypes for label columns to ensure they are strings
+        dtype_mapping = {col: object for col in expected_columns if 'Label' in col}
+
         if os.path.exists(self.annotations_path) and os.path.getsize(self.annotations_path) > 0:
-            return pd.read_csv(self.annotations_path)
-        return pd.DataFrame(columns=['Annotation_ID', 'Response_ID', 'GPT_Label', 'Claude_Label', 'DeepSeek_Label', 'Llama_Label', 'Qwen_Label', 'Human_Label', 'Final_Label'])
+            df = pd.read_csv(self.annotations_path, dtype=dtype_mapping)
+            # Ensure all expected columns are present, add if missing
+            for col in expected_columns:
+                if col not in df.columns:
+                    df[col] = ''
+            return df[expected_columns] # Reindex to ensure column order
+        return pd.DataFrame(columns=expected_columns).astype(dtype_mapping)
 
     # ---------------------
     # Response Generation
@@ -160,7 +169,6 @@ class DataHandler:
 
         # Filter responses for the specified model.
         model_responses_df = llm_responses_df.copy()
-        # model_responses_df = llm_responses_df[llm_responses_df['Model_Name'] == model_name].copy()
         
         # Exit if no responses are found for the model.
         if model_responses_df.empty:
@@ -243,11 +251,6 @@ class DataHandler:
         if new_annotations:
             new_annotations_df = pd.DataFrame(new_annotations)
             annotations_df = pd.concat([annotations_df, new_annotations_df], ignore_index=True)
-        
-        # Ensure all label columns exist.
-        for col in ['GPT_Label', 'Claude_Label', 'DeepSeek_Label', 'Llama_Label', 'Qwen_Label', 'Human_Label', 'Final_Label']:
-            if col not in annotations_df.columns:
-                annotations_df[col] = ''
         
         # Save the updated annotations to the CSV file.
         annotations_df.to_csv(self.annotations_path, index=False)
