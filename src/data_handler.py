@@ -159,7 +159,8 @@ class DataHandler:
         annotations_df = self.get_annotations()
 
         # Filter responses for the specified model.
-        model_responses_df = llm_responses_df[llm_responses_df['Model_Name'] == model_name].copy()
+        model_responses_df = llm_responses_df.copy()
+        # model_responses_df = llm_responses_df[llm_responses_df['Model_Name'] == model_name].copy()
         
         # Exit if no responses are found for the model.
         if model_responses_df.empty:
