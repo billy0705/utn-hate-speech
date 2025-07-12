@@ -3,6 +3,8 @@ import json
 from openai import OpenAI
 from abc import ABC, abstractmethod
 from anthropic import Anthropic
+from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
+from anthropic.types.messages.batch_create_params import Request
 
 class LanguageModel(ABC):
     """
@@ -73,6 +75,110 @@ class ChatGPTModel(LanguageModel):
             messages=messages
         )
         return response.choices[0].message.content
+
+    def generate_responses_batch(self, hate_speech_texts: list[str]) -> list[str]:
+        """Generate multiple responses using OpenAI's batch API."""
+        import json
+        import tempfile
+        import time
+
+        template = self.prompt_templates["response_generation"]
+        operations = []
+        for idx, text in enumerate(hate_speech_texts):
+            messages = [
+                {"role": "system", "content": template["system"]},
+                {"role": "user", "content": template["user"].format(hate_speech_text=text)},
+            ]
+            operations.append({
+                "custom_id": str(idx),
+                "method": "POST",
+                "url": "/v1/chat/completions",
+                "body": {"model": "gpt-4o-mini", "messages": messages},
+            })
+
+        with tempfile.NamedTemporaryFile(mode="w+", suffix=".jsonl", delete=False) as f:
+            for op in operations:
+                json.dump(op, f)
+                f.write("\n")
+            tmp_path = f.name
+
+        batch_file = self.client.files.create(file=open(tmp_path, "rb"), purpose="batch")
+        batch = self.client.batches.create(
+            input_file_id=batch_file.id,
+            completion_window="24h",
+            endpoint="/v1/chat/completions",
+        )
+
+        while True:
+            batch = self.client.batches.retrieve(batch.id)
+            if batch.status in {"completed", "failed", "expired", "canceled"}:
+                break
+            time.sleep(1)
+
+        if batch.status != "completed":
+            raise RuntimeError(f"Batch {batch.id} did not complete successfully: {batch.status}")
+
+        content = self.client.files.retrieve_content(batch.output_file_id)
+        results = []
+        for line in content.decode("utf-8").splitlines():
+            data = json.loads(line)
+            results.append(data["response"]["choices"][0]["message"]["content"])
+        return results
+
+    def classify_responses_batch(self, hate_speech_texts: list[str], responses: list[str]) -> list[str]:
+        """Classify multiple responses using OpenAI's batch API."""
+        import json
+        import tempfile
+        import time
+
+        template = self.prompt_templates["classification"]
+        operations = []
+        for idx, (hate_text, resp) in enumerate(zip(hate_speech_texts, responses)):
+            messages = [
+                {"role": "system", "content": template["system"]},
+                {
+                    "role": "user",
+                    "content": template["user"].format(
+                        hate_speech_text=hate_text,
+                        response_text=resp,
+                    ),
+                },
+            ]
+            operations.append({
+                "custom_id": str(idx),
+                "method": "POST",
+                "url": "/v1/chat/completions",
+                "body": {"model": "gpt-4o-mini", "messages": messages},
+            })
+
+        with tempfile.NamedTemporaryFile(mode="w+", suffix=".jsonl", delete=False) as f:
+            for op in operations:
+                json.dump(op, f)
+                f.write("\n")
+            tmp_path = f.name
+
+        batch_file = self.client.files.create(file=open(tmp_path, "rb"), purpose="batch")
+        batch = self.client.batches.create(
+            input_file_id=batch_file.id,
+            completion_window="24h",
+            endpoint="/v1/chat/completions",
+        )
+
+        while True:
+            batch = self.client.batches.retrieve(batch.id)
+            if batch.status in {"completed", "failed", "expired", "canceled"}:
+                break
+            time.sleep(1)
+
+        if batch.status != "completed":
+            raise RuntimeError(f"Batch {batch.id} did not complete successfully: {batch.status}")
+
+        content = self.client.files.retrieve_content(batch.output_file_id)
+        results = []
+        for line in content.decode("utf-8").splitlines():
+            data = json.loads(line)
+            results.append(data["response"]["choices"][0]["message"]["content"])
+        return results
 
 class DeepSeekModel(LanguageModel):
     """
@@ -151,6 +257,104 @@ class ClaudeModel(LanguageModel):
             system=system_message
         )
         return response.content[0].text
+
+    def generate_responses_batch(self, hate_speech_texts: list[str]) -> list[str]:
+        """Generate multiple responses using Claude's batch API."""
+        import time
+        requests = []
+        template = self.prompt_templates["response_generation"]
+        for i, text in enumerate(hate_speech_texts):
+            requests.append(
+                Request(
+                    custom_id=f"my-{i}-request",
+                    params=MessageCreateParamsNonStreaming(
+                        model="claude-3-haiku-20240307",
+                        max_tokens=1024,
+                        system=template["system"],
+                        messages=[
+                            {"role": "user", "content": template["user"].format(hate_speech_text=text)}
+                        ]
+                    )
+                )
+            )
+
+        batch = self.client.messages.batches.create(requests=requests)
+        seconds = 0
+        while True:
+            batch = self.client.beta.messages.batches.retrieve(batch.id)
+            print(f"Batch {batch.id} status: {batch.processing_status} Time spend: {seconds} seconds")
+            seconds += 1
+            if batch.processing_status in {"completed", "expired", "canceled", "failed", "ended"}:
+                break
+            time.sleep(1)
+            
+
+        if batch.processing_status != "ended":
+            raise RuntimeError(
+                f"Batch {batch.id} did not complete successfully: {batch.processing_status}"
+            )
+
+        decoder = self.client.messages.batches.results(batch.id)
+        results = []
+        for item in decoder:
+            if item.result.type == "succeeded":
+                results.append(item.result.message.content[0].text)
+            elif item.result.type == "errored":
+                print(f"{item.result =}")
+                print(f"Error type: {item.result.error.type}")
+                print(f"Error message: {item.result.error.error.message}")
+            else:
+                results.append("")
+        return results
+
+    def classify_responses_batch(self, hate_speech_texts: list[str], responses: list[str]) -> list[str]:
+        """Classify multiple responses using Claude's batch API."""
+        import time
+        requests = []
+        template = self.prompt_templates["classification"]
+        for i, (hate_text, resp) in enumerate(zip(hate_speech_texts, responses)):
+            requests.append(
+                Request(
+                    custom_id=f"classify-item-{i}",
+                    params=MessageCreateParamsNonStreaming(
+                        model="claude-3-haiku-20240307",
+                        max_tokens=1024,
+                        system=template["system"],
+                        messages=[
+                            {"role": "user", "content": template["user"].format(
+                                hate_speech_text=hate_text, response_text=resp)}
+                        ]
+                    )
+                )
+            )
+
+        batch = self.client.messages.batches.create(requests=requests)
+        seconds = 0
+        while True:
+            batch = self.client.messages.batches.retrieve(batch.id)
+            print(f"Batch {batch.id} status: {batch.processing_status} Time spend: {seconds} seconds")
+            seconds += 1
+            if batch.processing_status in {"completed", "expired", "canceled", "failed", "ended"}:
+                break
+            time.sleep(1)
+
+        if batch.processing_status != "ended":
+            raise RuntimeError(
+                f"Batch {batch.id} did not complete successfully: {batch.processing_status}"
+            )
+
+        decoder = self.client.messages.batches.results(batch.id)
+        results = []
+        for item in decoder:
+            if item.result.type == "succeeded":
+                results.append(item.result.message.content[0].text)
+            elif item.result.type == "errored":
+                print(f"{item.result =}")
+                print(f"Error type: {item.result.error.type}")
+                print(f"Error message: {item.result.error.error.message}")
+            else:
+                results.append("")
+        return results
 
 class LlamaModel(LanguageModel):
     """

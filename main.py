@@ -1,6 +1,6 @@
 import argparse
 from src.data_handler import DataHandler
-from src.models import ChatGPTModel, LlamaModel, DeepSeekModel
+from src.models import ChatGPTModel, LlamaModel, DeepSeekModel, ClaudeModel
 from src.hate_speech_handler import load_env_vars
 
 def main():
@@ -11,6 +11,7 @@ def main():
     parser.add_argument('--limit', type=int, help='Limit the number of items to process.')
     parser.add_argument('--data_path', default='database_building/data', help='Path to the data directory.')
     parser.add_argument('--env_file', default='.env', help='Path to the .env file.')
+    parser.add_argument('--use_batch', action='store_true', help='Use batch APIs when supported.')
 
     args = parser.parse_args()
 
@@ -37,9 +38,21 @@ def main():
     data_handler = DataHandler(data_path=args.data_path)
 
     if args.task == 'gather':
-        data_handler.gather_llm_responses(model, model_name, limit=args.limit, languages=args.languages)
+        data_handler.gather_llm_responses(
+            model,
+            model_name,
+            limit=args.limit,
+            languages=args.languages,
+            use_batch=args.use_batch,
+        )
     elif args.task == 'annotate':
-        data_handler.annotate_responses(model, model_name, limit=args.limit, languages=args.languages)
+        data_handler.annotate_responses(
+            model,
+            model_name,
+            limit=args.limit,
+            languages=args.languages,
+            use_batch=args.use_batch,
+        )
 
 if __name__ == '__main__':
     main()
