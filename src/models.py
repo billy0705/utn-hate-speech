@@ -37,6 +37,28 @@ class LanguageModel(ABC):
         """
         pass
 
+    def generate_responses_batch(self, hate_speech_texts: list[str]) -> list[str]:
+        """Generate responses for a batch of hate speech texts.
+
+        By default this falls back to calling ``generate_response`` sequentially
+        for each text. Subclasses can override this method to utilise true API
+        batch capabilities.
+        """
+        return [self.generate_response(text) for text in hate_speech_texts]
+
+    def classify_responses_batch(
+        self, hate_speech_texts: list[str], response_texts: list[str]
+    ) -> list[str]:
+        """Classify responses for a batch of hate speech texts.
+
+        Like :py:meth:`generate_responses_batch`, this sequentially calls the
+        single-response method unless overridden by subclasses.
+        """
+        return [
+            self.classify_response(h_text, r_text)
+            for h_text, r_text in zip(hate_speech_texts, response_texts)
+        ]
+
 class ChatGPTModel(LanguageModel):
     """
     Wrapper for the ChatGPT model.
@@ -73,6 +95,17 @@ class ChatGPTModel(LanguageModel):
             messages=messages
         )
         return response.choices[0].message.content
+
+    def generate_responses_batch(self, hate_speech_texts: list[str]) -> list[str]:
+        return [self.generate_response(text) for text in hate_speech_texts]
+
+    def classify_responses_batch(
+        self, hate_speech_texts: list[str], response_texts: list[str]
+    ) -> list[str]:
+        return [
+            self.classify_response(h, r)
+            for h, r in zip(hate_speech_texts, response_texts)
+        ]
 
 class DeepSeekModel(LanguageModel):
     """
@@ -151,6 +184,17 @@ class ClaudeModel(LanguageModel):
             system=system_message
         )
         return response.content[0].text
+
+    def generate_responses_batch(self, hate_speech_texts: list[str]) -> list[str]:
+        return [self.generate_response(text) for text in hate_speech_texts]
+
+    def classify_responses_batch(
+        self, hate_speech_texts: list[str], response_texts: list[str]
+    ) -> list[str]:
+        return [
+            self.classify_response(h, r)
+            for h, r in zip(hate_speech_texts, response_texts)
+        ]
 
 class LlamaModel(LanguageModel):
     """

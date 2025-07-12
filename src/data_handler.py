@@ -95,6 +95,7 @@ class DataHandler:
 
         # Define batch size for writing to CSV.
         batch_size = 200
+        request_batch: list[tuple[int, str]] = []
 
         # Process samples for each language separately.
         for lang in languages:
@@ -110,7 +111,7 @@ class DataHandler:
             # Filter samples for the current language.
             lang_samples_df = hate_samples_df[hate_samples_df['Language'] == lang]
 
-            # Iterate over each sample for the current language.
+            # Iterate over each sample for the current language and collect a batch.
             for index, row in lang_samples_df.iterrows():
                 sample_id = row['Sample_ID']
                 hate_text = row['Text']
@@ -120,26 +121,44 @@ class DataHandler:
                     print(f"Skipping Sample_ID {sample_id} for model {model_name} as it already exists.")
                     continue
 
-                # Generate a new response.
-                print(f"Generating response for Sample_ID: {sample_id}")
-                response_text = model.generate_response(hate_text)
+                # Add to request batch
+                request_batch.append((sample_id, hate_text))
 
-                # Append the new response to the list.
-                new_responses.append({
-                    'Response_ID': start_index + len(new_responses),
-                    'Sample_ID': sample_id,
-                    'Language': lang,
-                    'Model_Name': model_name,
-                    'Model_Response': response_text
-                })
+                # When batch is full, send to model
+                if len(request_batch) >= 20:
+                    texts = [t for _, t in request_batch]
+                    responses = model.generate_responses_batch(texts)
+                    for (s_id, _), resp in zip(request_batch, responses):
+                        new_responses.append({
+                            'Response_ID': start_index + len(new_responses),
+                            'Sample_ID': s_id,
+                            'Language': lang,
+                            'Model_Name': model_name,
+                            'Model_Response': resp
+                        })
+                    request_batch = []
 
-                # Write to CSV in batches.
+                # Write to CSV in batches based on output size
                 if len(new_responses) >= batch_size:
                     new_responses_df = pd.DataFrame(new_responses)
                     llm_responses_df = pd.concat([llm_responses_df, new_responses_df], ignore_index=True)
                     llm_responses_df.to_csv(self.llm_responses_path, index=False)
                     print(f"Added {len(new_responses)} new responses to {self.llm_responses_path}")
-                    new_responses = [] # Clear the list after writing
+                    new_responses = []
+
+            # Flush remaining requests for the language
+            if request_batch:
+                texts = [t for _, t in request_batch]
+                responses = model.generate_responses_batch(texts)
+                for (s_id, _), resp in zip(request_batch, responses):
+                    new_responses.append({
+                        'Response_ID': start_index + len(new_responses),
+                        'Sample_ID': s_id,
+                        'Language': lang,
+                        'Model_Name': model_name,
+                        'Model_Response': resp
+                    })
+                request_batch = []
 
         # Save any remaining new responses to the CSV file.
         if new_responses:
@@ -209,7 +228,9 @@ class DataHandler:
             # Filter data for the current language.
             lang_data_to_annotate = data_to_annotate[data_to_annotate['Language_x'] == lang]
 
-            # Iterate over each response for the current language.
+            classification_batch: list[tuple[int, str, str]] = []
+
+            # Iterate over each response for the current language and collect a batch.
             for index, row in lang_data_to_annotate.iterrows():
                 response_id = row['Response_ID']
                 
@@ -220,32 +241,46 @@ class DataHandler:
                         print(f"Skipping Response_ID {response_id} for model {model_name} as it is already annotated.")
                         continue
 
-                # Classify the response.
-                print(f"Classifying response for Response_ID: {response_id}")
-                hate_text = row['Text']
-                response_text = row['Model_Response']
-                
-                classification = model.classify_response(hate_text, response_text)
+                classification_batch.append((response_id, row['Text'], row['Model_Response']))
 
-                # Update existing annotation or create a new one.
-                if response_id in annotations_df['Response_ID'].values:
-                    annotations_df.loc[annotations_df['Response_ID'] == response_id, label_column] = classification
-                else:
-                    new_annotation = {'Response_ID': response_id, label_column: classification}
-                    start_annotation_id = 0
-                    if not annotations_df.empty and not annotations_df['Annotation_ID'].isna().all():
-                        start_annotation_id = annotations_df['Annotation_ID'].max() + 1
-                    
-                    new_annotation['Annotation_ID'] = start_annotation_id + len(new_annotations)
-                    new_annotations.append(new_annotation)
+                if len(classification_batch) >= 20:
+                    hate_texts = [t for _, t, _ in classification_batch]
+                    response_texts = [r for _, _, r in classification_batch]
+                    results = model.classify_responses_batch(hate_texts, response_texts)
+                    for (res_id, _, _), result in zip(classification_batch, results):
+                        if res_id in annotations_df['Response_ID'].values:
+                            annotations_df.loc[annotations_df['Response_ID'] == res_id, label_column] = result
+                        else:
+                            new_annotation = {'Response_ID': res_id, label_column: result}
+                            start_annotation_id = 0
+                            if not annotations_df.empty and not annotations_df['Annotation_ID'].isna().all():
+                                start_annotation_id = annotations_df['Annotation_ID'].max() + 1
+                            new_annotation['Annotation_ID'] = start_annotation_id + len(new_annotations)
+                            new_annotations.append(new_annotation)
+                    classification_batch = []
 
-                # Write to CSV in batches.
                 if len(new_annotations) >= batch_size:
                     new_annotations_df = pd.DataFrame(new_annotations)
                     annotations_df = pd.concat([annotations_df, new_annotations_df], ignore_index=True)
                     annotations_df.to_csv(self.annotations_path, index=False)
                     print(f"Added {len(new_annotations)} new annotations to {self.annotations_path}")
-                    new_annotations = [] # Clear the list after writing
+                    new_annotations = []
+
+            if classification_batch:
+                hate_texts = [t for _, t, _ in classification_batch]
+                response_texts = [r for _, _, r in classification_batch]
+                results = model.classify_responses_batch(hate_texts, response_texts)
+                for (res_id, _, _), result in zip(classification_batch, results):
+                    if res_id in annotations_df['Response_ID'].values:
+                        annotations_df.loc[annotations_df['Response_ID'] == res_id, label_column] = result
+                    else:
+                        new_annotation = {'Response_ID': res_id, label_column: result}
+                        start_annotation_id = 0
+                        if not annotations_df.empty and not annotations_df['Annotation_ID'].isna().all():
+                            start_annotation_id = annotations_df['Annotation_ID'].max() + 1
+                        new_annotation['Annotation_ID'] = start_annotation_id + len(new_annotations)
+                        new_annotations.append(new_annotation)
+                classification_batch = []
 
         # Add new annotations to the main dataframe.
         if new_annotations:
