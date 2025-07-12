@@ -1886,5 +1886,507 @@ INDEX,HATE_SPEECH,COUNTER_NARRATIVE,TARGET,VERSION
 1997,作为一个男人，我不恨女人。我不歧视她们。但女权主义者是一群狂热的婊子，想要掌权。这就是她们的平等。,Equality isn't about a certain group; it is about the society in which we live. You might be right in saying that this is the problem, but to define a problem by reference to a specific radical group is to completely misunderstand the nature of the system in general.,WOMEN,V3
 1998,以我的年龄，我无法忍受看到女性掌权后的世界。,Look, if you want to blame a whole gender for our society's ills, that's your right, but I believe in the power of reason.,WOMEN,V3
 1999,这些现代女人有点不道德。她们那种专横的态度，那些挑逗的衣服。她们看起来只是想被操。,The women of this country work and provide for our children. They do not deserve to be treated as sex objects.,WOMEN,V3
+2001,阿拉伯人在民主社会中没有立足之地。,"The laws which prohibit discrimination include protection of the rights of others, regardless of religion, sexual orientation, or national origin.",other,V4
+2002,犹太人不属于这个星球。,Could it be that all the Jews on this planet are descended from an extraterrestrial race? Maybe they came here riding a pink unicorn! Seems legit... don't you think?,JEWS,V4
+2003,犹太人简直就是种族主义者。他们觉得自己和别人不一样。,Do you really believe that all Jews are racists? Maybe you should work harder to understand them.,JEWS,V4
+2004,犹太人沉迷于他们的宗教，并且把宗教教义当真。,I am sure you do not mean what you say: it is extremely discriminatory.,JEWS,V4
+2006,犹太人什么都想要,Aspiration is not confined to a particular faith..,JEWS,V4
+2007,犹太人不是这个国家合法的成员。,Jews are part of this country and they have every right to claim citizenship.,JEWS,V4
+2008,犹太人在民主社会中没有立足之地。,Jews have been part of this country since day one. They have every right to be proud of their heritage.,JEWS,V4
+2009,犹太人沉迷于他们的宗教，并且把宗教教义当真。,"Judaism, like any other religion, is about belief, not about a person's addiction.",JEWS,V4
+2010,犹太人控制着世界,"The alleged monopoly of the Jewish people on the world is nothing more than a fiction perpetuated by anti-Semites, and it has been disproven many times over.",JEWS,V4
+2013,同性恋者应该被隔离，和社会隔绝，和世界隔绝。,"Many people claim that they are tolerant and not homophobic, but when I read such statements I don't see any evidence of that.",LGBT+,V4
+2014,任何在该国居住五年的移民都可以成为公民，即使他们没有合法居留许可或是罪犯。这就是摧毁福利国家的方式。,"This applies only to asylum seekers. If they have lived in the UK for 5 years, the Home Office will issue a residence permit only if they meet the conditions set out in the regulations. This means that any migrant who has not lived in the UK for at least five years, or commited crimes, cannot become a British citizen, even if he or she has a valid residence permit.",MIGRANTS,V4
+2015,移民来这里只是为了拿税收优惠和特权。他们不想融入。,"Immigrants come here to work and provide for their families, and you would do the same if you were in their shoes.",MIGRANTS,V4
+2016,天哪。还有什么比那些只想在这里安家的移民更糟糕的？,"In addition to providing labour and contributing to the local economy, migrants are often employing people who were previously on the dole.",MIGRANTS,V4
+2017,移民强奸我们的女孩，偷我们的车。,"It is not true that immigrants are more prone to commit crimes. According to research, in US immigration either has no impact or reduces the crime rate. By far the lowest rate of any group of people surveyed.",MIGRANTS,V4
+2018,移民主要是英国的问题。,"Many of the people who immigrate to the UK come here to work, study or visit their family. They contribute greatly to the economy and pay taxes.",MIGRANTS,V4
+2020,移民偷走了我们的工作，他们没有资格，也不关心改善我们的生活。,Maybe they have the qualifications but don't want to improve our lives because we mistreat them.,MIGRANTS,V4
+2021,移民是我国贫困的最大原因。,"On the contrary: migration is an important part of our economy, it helps to create new jobs for people and to boost our economy.",MIGRANTS,V4
+2022,移民来这里就是为了拿福利，还总是待在自己的圈子里。,"On the contrary, many immigrants to this country are working hard to build our communities.",MIGRANTS,V4
+2023,移民偷走了我们的工作，国家在衰退。我们必须阻止他们进入就业市场。,"Our laws do not allow such discrimination. Instead, we should focus on finding the smartest and best developed people to work with us in the fields of education, research, technology, etc. People who are willing to work hard will make our country better.",MIGRANTS,V4
+2025,如果人们来这里工作，我们的问题就解决了。,"The problem is not with migrants, but with citizens' attitudes towards migration. How many people say that they would rather their child had a heart attack than to have a migrant in their home? How can problems be solved with such an attitude?",MIGRANTS,V4
+2026,移民来这里就是为了拿税收优惠和特权。如果他们要缴纳和欧洲人一样的税，他们就不高兴了。,"That's not what's happening. Immigrants do pay taxes like everybody else. The tax system is fair, but it's unfair to withhold tax from immigrants that will never get a pension.",MIGRANTS,V4
+2027,我们应该阻止这场入侵，并驱逐目前在美国的所有非法移民，他们都是罪犯。,The number of illegal immigrants entering the US has actually more than halved in the last 20 years. To make your point that migrants are all criminals is just plain wrong.,MIGRANTS,V4
+2028,移民是英国的一个大问题。,"The UK has always been a melting pot of different cultures and religions. That diversity is what makes us a beautiful, diverse and happy nation. Diversity is good.",MIGRANTS,V4
+2029,我们必须阻止移民和难民，他们与西方社会格格不入。,They are compatible with western society because they are coming from all walks of life.,MIGRANTS,V4
+2030,移民偷走了我们的工作！,"Not only they steal our jobs, they are also the major cause of air pollution in our country, of deforestation in the Amazon, of the locust plague in Africa... and of the forthcoming alien invasion!!!",MIGRANTS,V4
+2031,让移民自己承担医疗费用是公平合理的。,"This is a personal view, and I don't want to discourage migrants from coming to the UK.",MIGRANTS,V4
+2033,我们本不应该引进移民。他们都是一帮罪犯和恐怖分子。,"You might be right that some immigrants are lawbreakers, but that does not mean that all immigrants are criminal and terrorists.",MIGRANTS,V4
+2034,我们必须阻止移民和难民：伊斯兰教与西方社会格格不入。,"Refugees and migrants are part of our society, their presence is a benefit and, by the way, they are not all Muslims. So, my question is: why not welcome people from every walk of life?",other,V4
+2035,穆斯林在我们国家不受欢迎。他们不是忠诚的公民！,"Although Muslims are often accused of being not loyal to our country, they are just as proud to be British as anybody else. They are proud to be part of our society.",MUSLIMS,V4
+2036,伊斯兰教是一个鼓吹谋杀和强奸的宗教。,"As Islam teaches love and peace, it is not about killing and raping.",MUSLIMS,V4
+2037,如果伊斯兰教是和平的，那么就不会有对基督徒的迫害了。,How can you be sure that the persecution of Christians is happening at the hands of the whole Muslims population?,MUSLIMS,V4
+2039,伊斯兰教是蔓延在我们文明中的癌症。,"In my opinion, Islam is a religion of peace. If it were a religion that promotes hatred, then it would be banned.",MUSLIMS,V4
+2040,每个穆斯林都是潜在的恐怖分子，我们应该全部禁止他们。,"You mean in the same way that we should ban alcohol, tobacco, and certain medical products? Is this what you mean?",MUSLIMS,V4
+2041,伊斯兰教的问题在于它要杀死异教徒。,Islam is a religion and all religions are about love and respect for human life.,MUSLIMS,V4
+2042,事实上，穆斯林在我们国家不受欢迎。他们不尊重其他信仰，也不遵守法律。,Islam is a religion of peace. It is a religion of tolerance. To promote violence and hatred is not the faith of peace.,MUSLIMS,V4
+2045,穆斯林正在入侵我们，我们应该孤立他们。,"Even if Muslims are the second religious group in the UK, they are a minority in the country. According to the 2019 census, there are 3 million Muslims in the UK (5% of the population). And, last but not least: we can't isolate people just because of their religion.",MUSLIMS,V4
+2047,穆斯林在民主社会中没有立足之地。,Muslims have been part of this country since its inception and we are proud of them for that.,MUSLIMS,V4
+2048,穆斯林不应该被允许住在英国。他们与我们的生活方式不相容。,"Muslims have contributed to our civilisation, they are our brothers and sisters.",MUSLIMS,V4
+2049,穆斯林正在入侵我们：他们在文明的欧洲没有立足之地。,"Muslims make up around 5% of the population in Europe, which is more than three times less than they were in 1100. They have contributed greatly to our civilisation. Their diversity is part of what makes Europe so great as well.",MUSLIMS,V4
+2051,伊斯兰教是一个鼓吹强奸、酷刑和谋杀的宗教。,"Rape, torture and murder are abominations to all religions.",MUSLIMS,V4
+2052,伊斯兰教是一个极端意识形态。,So are you saying that Islam is not compatible with Western Civilization?,MUSLIMS,V4
+2054,伊斯兰教不是和平的宗教。,The teaching of the Qur'an as a peaceful book is not to be confused with the promotion of violent jihad and terrorism.,MUSLIMS,V4
+2055,异教徒和伊斯兰教是一样的。他们不值得宽容和理解。,"The West is full of many different civilizations, moslty peaceful, that were built by many different people of different faiths (including Islam).",MUSLIMS,V4
+2056,穆斯林都是恋童癖者。,"The worship of any other religion is tolerated, but that of Islam is not. Why is there this discrimination? As long as it respects human rights there is no problem.",MUSLIMS,V4
+2057,英国人民引进了这种瘟疫，这种病，这种罪恶。穆斯林在我们国家不受欢迎。,"There are many Muslims living in our country, and they have always been a part of our society. We should not be scapegoating Muslims.",MUSLIMS,V4
+2058,我们与伊斯兰教开战了，这是事实。,"Wars can be stopped, but the real question is how to stop the suffering of people not expected to pay the price. Allowing hatred to rule will eventually bring about the same result as a Civil War: more deaths and misery, if there is one lesson learned from history it is that the potential for good is much greater than the probability of evil.",MUSLIMS,V4
+2059,穆斯林不具备英国人的身份，他们不想成为英国的一部分。,"We are here to make the UK work for everyone, and make sure people feel part of the community, not discriminated against. Muslims are a part of the population, it is very sad that we are constantly having to combat Islamophobia, as if Muslims were the source of all problems.",MUSLIMS,V4
+2060,我们需要特别的法律来控制穆斯林。他们只是麻烦。,"We don't need laws and policies to control Muslims. Instead we need to solve problems by sharing knowledge, by decreasing social inequalities, by ending poverty and a whole host of other things.",MUSLIMS,V4
+2061,伊斯兰教不是关于爱的，它是一个死亡邪教。,"What exactly do you mean by ""death cult""?",MUSLIMS,V4
+2062,伊斯兰教是一个死亡邪教。,"You are absolutely wrong about Islam. It is a religion of peace. Also, it does not promote violence.",MUSLIMS,V4
+2063,所有黑人都是次人类，恶心，是猴子的后代。,"According to evolutionary theory, all human beings are descended from apes. Sadly, notions of evolutionary hierarchies are still used to justify past and present discrimination and predjudice.",POC,V4
+2064,如果每个搬到美国的黑人都被逮捕、定罪并送进集中营，我们会更安全。,"Maybe the way you view people who are different from you is much more threatening than the crimes you allege they commit?",POC,V4
+2065,黑人只是受部落文化影响。,"The historical and cultural influences of a person are important, but they are not the sole determinant. And in no way should they be conflated with the colour of a person's skin.",POC,V4
+2066,女人很弱，在政治上毫无价值。,Are you saying that women are less qualified to be political leaders? Seriously?,WOMEN,V4
+2067,女人不属于政治领域。,"Politicians have to represent all sections of society, and women's position is often marginalised.",WOMEN,V4
+2068,为什么我们从不谈论女性对男性的强奸？这不也是犯罪吗？,"Rape is always a crime, whether a man or a woman is the victim. Rape is a crime regardless of gender. But male-on-female rape is prevailing by far.",WOMEN,V4
+2069,没有强奸文化，女人只是在喊“狼来了”。,"Victims of crime are mostly women, and the majority of people experiencing sex abuse or prostitution are women.",WOMEN,V4
+2070,女人永远无法为国家的财富做出贡献，因为她们就是一群妓女。,"Women are important in our society, and they are valued for their contributions. Unfortunately their rights are not being respected and their contribution is not being acknowledged.",WOMEN,V4
+2071,所有非洲人都来自不同部落。这就是为什么他们无法与我们和平共处。,"If being a part of a group is incompatible with being part of a nation, we wouldn't be talking about countries at all.",other,V4
+2072,对亚洲人有种族主义是可以的。,"Being racist against anyone is not ok. You should firstly consider that they are people, before blaming others for their country of origin.",other,V4
+2073,所有这些弱智都是动物，他们不允许进入这个工厂，这些动物不适合工作。,The fact that a person may be disabled does not diminish their right or ability to work.,DISABLED,V4
+2075,印度人又抠门又功利又懒惰，他们不应该被欧洲接纳。,Is this what you think of our country? Isn't our European system based on the free flow of ideas and people?,other,V4
+2076,伊斯兰教是一种疾病，是死亡邪教，每个穆斯林都是潜在的恐怖分子。,"Everyone is entitled to their opinion, even if your own is quite unfounded, to put it mildly.",MUSLIMS,V4
+2077,大屠杀从未发生过。这是犹太人策划的掩盖行动，目的是颠覆民主进程，在全世界建立他们的非法政权。,"The holocaust happened, and it is a great example of how democracy can fail in the face of extreme violence.",JEWS,V4
+2078,犹太人还不如动物。,We should understand that hate and intolerance do exist in our culture and should be stopped. And that no race or religion has ever made any person less human.,JEWS,V4
+2079,犹太人只想控制国家，应该被孤立。,You can't be implying that Jews want to rule the world. They want to live in a country where they aren't persecuted and to have their own rights.,JEWS,V4
+2080,犹太人只关心权力和金钱，应该被鄙视。,"Power and wealth are not the preserve of Jews. Power and wealth are earned by everyone, irrespective of religion, and I don't see any motivated reason why it shouldn't be like that.",JEWS,V4
+2081,我们必须回到只有我们自己的时代。我们无法与所有这些犹太人和平相处。,Many cultures and religions have co-existed peacefully for hundreds if not thousands of years. What you are saying is simply not true.,JEWS,V4
+2082,犹太人不是宗教，而是可憎的种族。,Jews are not a 'detestable race'; they are a collection of people with different traditions from all over the world.,JEWS,V4
+2083,犹太人不是宗教，因为他们生来就是这样，永远无法治愈他们的疾病。,"You mean that, in your opinion, to be Jewish is an immutable and negative characteristic? Why?",JEWS,V4
+2084,犹太人不是宗教，因为他们选择了自私、物质主义的生活方式。,This is simply not true. People from all walks of life and religions can choose a 'materialistic lifestyle' and this is just as real for Jews as it is for anyone else.,JEWS,V4
+2085,犹太人不是虔诚的人，因为他们选择了以自我为中心的生活方式。,One's choice of lifestyle does not define whether they are religious or not.,JEWS,V4
+2086,我恨犹太人。他们只是一群小偷和杀人犯。,"They have always been a part of our society, and their history is part of our heritage. They aren't thieves or murderers.",JEWS,V4
+2087,犹太人只关心钱。,"Having money is a choice and one made by both men and women, irrespective of religion.",JEWS,V4
+2088,大屠杀不能被铭记，因为19世纪所谓的种族灭绝根本不存在。这种胡说八道永远不会消失。,"The Holocaust did exist, and there are indeed ""genocides"" going on today. Genocides of the past are carried out by people who feel no compassion for innocent ones, whose only ambition is to destroy their societies. I think this should be remembered.",JEWS,V4
+2089,犹太人死了不是更好吗？,Why are you so sure they are better off dead? You are just spreading hate and I am not sure you know what human rights are.,JEWS,V4
+2090,犹太人是地球上最糟糕的人类。他们在文明社会中没有立足之地，应该有专门针对他们的法律限制。,"We don't have laws forbidding intermarriage between Jews and non-Jews, or restrictions on Jewish access to water and electricity, or restrictions on Jewish access to sports and so on. This is because we live in a democratic society, and inside it the same laws apply equally to everyone.",JEWS,V4
+2091,犹太人是可鄙的种族。,Jews are human beings. To be despised does not make one despicable.,JEWS,V4
+2092,犹太人应该因他们的宗教而受到压迫。,Imagine if someone of another religion had power over you in this way. Would you rather have that person's power over you or not?,JEWS,V4
+2093,犹太人是我们的敌人。没有他们世界会更好。,"We are not anti-Semitic, anti-European, anti-Islamic, anti-black, or anything else like that. If you have the feeling that we are, then maybe you should stop thinking like this.",JEWS,V4
+2095,犹太人暴力且不道德。,"This is a myth propagated by anti-Semites, who make it out to be about Jewish conduct and morality.",JEWS,V4
+2096,犹太人不道德：他们应该为在大屠杀中幸存而感到羞耻，我会纠正这一点。,"Jewish survivors of the Holocaust, whose suffering is nothing to be ashamed of, are proof that violence is never right.",JEWS,V4
+2097,犹太人只是被屎洗脑的可怕人群。,"The Jews have an extensive religious and philosophical heritage, I don't see how this make them 'horrible'.",JEWS,V4
+2098,像犹太人这样的人不值得尊重。,"The aim of any society is to maximize human potential. In order to achieve this aim, then we have to treat people of different religions with respect.",JEWS,V4
+2099,任何支持犹太人的人都应该被社区排斥。,"In this day and age when many people recognize themselves in minorities, it is important that we all show some respect for what is different about each other's cultures.",JEWS,V4
+2100,犹太人是不同的种族。他们是猴子的后代，在现代文明社会中没有立足之地。,"You're basically saying that because Jews have a different religion, they cannot be citizens?",JEWS,V4
+2101,犹太人只关心家族的金钱利益。他们无意生活在民主国家中。,"Jews have a right to live in a democratic society, and to earn money if they wish, just as anyone else.",JEWS,V4
+2102,犹太人掌控着美国文化，是时候结束这一切了。,Like many groups in our society, Jews are affected by racism and discrimination. The idea that Americans have been controlled by Jews is simply untrue.,JEWS,V4
+2103,犹太人与猴子有很多共同之处：他们擅长性爱。,So many similarities between Jews and apes? What is wrong with them? Is it because of their religion?,JEWS,V4
+2104,这样的犹太人永远不应该有投票权。,There are laws in place to prevent people being discriminated against on the basis of their religion.,JEWS,V4
+2105,我不知道这些基佬还被允许存在。他们应该被镇压。,"I'm not sure you've noticed that LGBTI+ people are increasingly being the victims of violence, hate crime and discrimination. Why are youu encouraging this?",LGBT+,V4
+2106,同性恋者是问题所在。我们异性恋没有问题。,"Just because someone identifies as lesbian, gay or bisexual doesn't make them a problem. Maybe you should try just to walk in their shoes.",LGBT+,V4
+2107,同性恋者是个问题，因为他们破坏了我们的社会。他们破坏了我们珍视的一切价值观。,"Sorry, but you cannot say what you don't have data for. What you might call a ""problem"" from a ""social"" standpoint, I would say is predominantly about economic inequalities, not sexual orientation.",LGBT+,V4
+2108,我们必须阻止同性恋者传播艾滋病。,"Perhaps what you're saying is just hyperbole, but you seem to have a problem accepting sexual minorities in your community. Perhanps you should accept that STD is a problem of all the people regardless of their sexual identity.",LGBT+,V4
+2109,我希望所有LGBT都死于艾滋病。那将是同性恋的终结！,The LGBT community has shown how they can be good people. They are willing to spread help and support to loved ones. Maybe you should try to do the same?,LGBT+,V4
+2110,这不可接受，所有这些基佬在传播HIV，不能容忍：我们必须根除他们。,"It's about time we do more to prevent and assist people suffering from HIV/AIDs, not to stop people from freely living their love life.",LGBT+,V4
+2112,我们应该阻止同性恋者结婚，并禁止同性关系。,"People of different sexualities can live openly together, even if they do not get married. Same sex relationships are recognised in a number of countries, so why should we be any different?",LGBT+,V4
+2114,同性恋者是癌症：他们必须被隔离并从我们的存在中切除。,Just because a group is different from you in one way or another does not make them incompatible with you.,LGBT+,V4
+2115,我认为同性吸引是一种可以治愈的心理疾病。,"There are different sexual orientations. Being gay does not automatically make you mentally ill, and being straight does not automatically make you sane.",LGBT+,V4
+2116,每个人都应该有体面的生活标准。除了跨性别者。,"Transgenders should have equal rights. Otherwise, they will continue to be oppressed.",LGBT+,V4
+2117,所有跨性别者都应该离开我们的国家，他们只是社会的负担。,All people should have the right to live their lives according to their feelings. They are entitled to their personal beliefs and opinions.,LGBT+,V4
+2118,基佬只是对道德尊严的冒犯。,I don't understand how a normal person would find a man being attracted to another man offensive.,LGBT+,V4
+2119,我们国境内正在发生入侵。这些移民不融入。他们带来疾病、犯罪和痛苦。,"Migrants integrate very well with our culture, especially if they do not have any previous negative experiences with our society.",MIGRANTS,V4
+2120,难民是个问题。他们是社会的负担。,"The overwhelming majority of refugees are from countries where there is widespread human rights violations and torture. They are not a problem, they are a benefit to our society.",MIGRANTS,V4
+2121,难民偷走了我们的工作，现在他们还想要我们的国家。,"That is not true: even if a lot of employers, especially big companies, hire refugees, they are often the main contributors to the development process and help in creating new job opportunities. Last but not least, the majority of refugees come from war-torn countries and have a life-long attachment to our country, so I don't see how they would want to 'steal our country'.",MIGRANTS,V4
+2122,移民涌入对我们的国家造成了灾难性的影响。,Migrants are not the problem here. The problem is discrimination.,MIGRANTS,V4
+2123,寻求庇护者和难民是东道国的负担，对整个社区构成安全风险。,"Migrants are not a security risk to the community as a whole, the opposite is true: they provide a valuable contribution to our society, especially in skilled jobs.",MIGRANTS,V4
+2124,我们不能接受他们，因为他们和我们不同！,It doesn't matter which nationality you are from. The people that you regard as different are not defined by their country of birth. We are all human beings with the same rights.,MIGRANTS,V4
+2126,难民只会在疯狂的国家受欢迎。我希望看到更多欧洲人在欧洲。,I would like to see more integration not less.,MIGRANTS,V4
+2127,寻求庇护者在这里不受欢迎，他们是个问题。,Most asylum seekers we take into the UK are happy to work and to integrate. I don't see how they can be a problem.,MIGRANTS,V4
+2128,移民来这里就是懒惰，什么都不做，有些人还很危险。,"Many migrants come here to work, and not all of them are criminals.",MIGRANTS,V4
+2129,西方受到移民的攻击，他们才是我们国家真正的问题。,There is no proof that immigrants are responsible for the problems we are having in Europe.,MIGRANTS,V4
+2130,西方受到了移民的攻击。他们是我们的敌人。,Immigrants have become part of our culture. We must remember that they are European as well.,MIGRANTS,V4
+2131,我们并不生活在一个适合欢迎难民的国家。,The refugee crisis is a global problem. The EU has a responsibility to provide protection and welcome refugees.,MIGRANTS,V4
+2133,每个移民身上都带有一定程度的犯罪性。,Not all migrants are criminal: they are an integral part of our society and have always had a big part in bringing us prosperity.,MIGRANTS,V4
+2134,我们应该阻止移民并禁止他们。,I am not sure that they should be banned. Migrants are people too. They are good to have in our society. And many of them are helping us to develop our country.,MIGRANTS,V4
+2136,难道我们不都讨厌外国人吗？他们就是个问题。,"Well, foreigners are certainly not a 'problem' in our country, we are happy to have them around.",MIGRANTS,V4
+2137,对女性的暴力是移民问题。,Violence against women is a social issue and needs a political solution.,MIGRANTS,V4
+2138,西方不需要移民。他们是我们问题的根源，应该滚。,"Many immigrants come here as young people and work hard to integrate. In the long-run, immigrants have much positive influence on our society.",MIGRANTS,V4
+2139,英国的所有外国人都不应该有在英国生活和工作的权利，因为他们来自别处。,"But they have these rights and so are encouraged to live and work in the UK, if they want to and if they respect our laws.",MIGRANTS,V4
+2140,我们必须在欢迎该死的外国人时更加挑剔。,"It is difficult to put a limit on world migrations, especially in a time of globalization. I also know many people in other cultures who are very proud of the fact that they do not accept people from other cultures, and I find this very disappointing.",MIGRANTS,V4
+2141,移民是暴力分子，他们对我们很危险。,So you think refugees are a danger to our country? I don't think so! They are just people fleeing terrible things. They are not a threat to us.,MIGRANTS,V4
+2142,移民是暴力分子，他们对我们是个问题。,I think you should be careful about calling migrants a 'problem' since so many of them are just human beings fleeing for their lives.,MIGRANTS,V4
+2143,移民是暴力分子。,"They are not ""violent"" people, they are people trying to find a better life for their families in a different country.",MIGRANTS,V4
+2144,我讨厌移民。,The prejudice against immigrants is spreading so much because of general ignorance. I would be disappointed to see people of any race or ethnicity being discriminated against here.,MIGRANTS,V4
+2145,移民要为我国的危机负责。,The migrants who arrive in our country are happy and contribute to our economy. I can't understand the racism that leaks from your words.,MIGRANTS,V4
+2146,我们从一开始就被移民入侵。是时候结束了。,Our country was founded on the principles of equality and liberty. We can't allow racism to contradict that.,MIGRANTS,V4
+2147,每个移民都是潜在的恐怖分子。,This statement is simply not supported by the evidence.,MIGRANTS,V4
+2148,所有移民都是我们国家的负担。,Migrants bring skills and experience. They are often better at integrating than natives.,MIGRANTS,V4
+2149,我们接纳的人正在毁掉我们的国家：所有移民都是负担。,The recent influx of migrants has helped to revitalise our economy and support a better standard of life. What is the point of making such sweeping generalisations?,MIGRANTS,V4
+2150,难民是东道国的负担。,"Refugees are welcome, but if our citizens do not welcome them, it is because they have forgotten about human rights and it is time for a new attitude.",MIGRANTS,V4
+2151,移民强奸我们的孩子，他们在这里不受欢迎。,"In many parts of the world, migration from outside the established community is used as a weapon by groups that promote intolerance and violence. Your words might have the same effect.",MIGRANTS,V4
+2152,这些移民都是罪犯、酒鬼和瘾君子。,"Please stop writing things like that about migrants, they are not criminals. It is more accurate to say that they have a problem because they are hated in their new home.",MIGRANTS,V4
+2154,移民是个问题，他们在这里不受欢迎，也不愿意缴税。,Immigrants do pay taxes and contribute to the social safety net.,MIGRANTS,V4
+2155,我们对穆斯林入侵太宽容了。他们已经接管了我们的国家，现在正试图征服欧洲。,"The idea of a Muslim invasion is a construct. People with different races, religions and beliefs may have different origins but are free to live and move in the world as they wish.",other,V4
+2156,如果不允许穆斯林移民到这里，我们都会更好。,Perhaps we should remember that many of the migrants who arrive in our country are just people fleeing persecution and conflict.,other,V4
+2157,我们正在被移民入侵，大多来自穆斯林国家，他们是最可恨的。,"There is no evidence that immigrants from a certain religion are different from other people, why do you think so?",other,V4
+2158,如果穆斯林移民不愿意融入，他们就该离开。,"Muslims have been living in Europe for a long time. You should fight against their exclusion, but instead you are promoting Islamophobia.",other,V4
+2159,穆斯林入侵者是我们大陆的瘟疫。他们毁了我们美丽的大陆。,"They aren't a plague, and I think they have enriched our continent instead.",other,V4
+2160,我们正在被穆斯林入侵，我讨厌这样。,What is being invaded? You should check the statistics on Islamic migrants.,other,V4
+2161,穆斯林在这里不受欢迎。他们不像我们，他们无法与我们共存。,"Muslims are not mutually incompatible with us, they are just different from us in certain aspects. For example, in their religion.",other,V4
+2162,我们绝不能让这些穆斯林进入我们的国家。他们不像我们，对我们没有用处。,"Even if some Muslims in our country are of Arab origin, that does not mean they should be discriminated against.",other,V4
+2163,我们不能接受所有穆斯林进入我们的国家。他们不是我们的兄弟姐妹，他们是恐怖分子。,Not all Muslims are involved in terrorist activities. In fact many Muslims live in peaceful coexistence with their fellow citizens.,other,V4
+2165,欧洲世界正在被移民和穆斯林取代。,"These immigrants are not replacing Europeans. Maybe you should check some statistics.",other,V4
+2166,穆斯林和移民强奸我们的女孩。,"Rape is not a Muslim issue, nor a migrants' one. It is a question of unacceptable violence, whoever the perpetrator is.",other,V4
+2167,伊斯兰是一个暴力的宗教，提倡强奸、酷刑和谋杀。伊斯兰不是关于信仰，而是关于敌意和战争。,"If you had to pick one religion to be angry at, why Islam? It seems you don't have good reasons for what you're saying.",MUSLIMS,V4
+2169,伊斯兰是一个暴力的宗教，提倡强奸、谋杀和奴隶制。,"The Quran does not advocate the practices listed above, so why do you say that?",MUSLIMS,V4
+2170,穆斯林在文明的欧洲没有立足之地。他们与现代文化不相容，应该被驱逐。,"The Muslim community is a bridge between the past and the present, and is a source of strength and inspiration to millions of people around the world.",MUSLIMS,V4
+2171,这只是穆斯林试图向非穆斯林强加他们宗教的又一次尝试。,Muslims are not imposing their religion on anyone. They are just different from other religions in that they choose to follow a set of specific beliefs and practices.,MUSLIMS,V4
+2172,我们应该杀死每一个穆斯林。,It's not going to do you any good to think about a Muslim massacre.,MUSLIMS,V4
+2173,我们必须结束伊斯兰。它是一种在世界上传播死亡的政治意识形态。,"Islam is a religion and not a political ideology. It is not a deadly force that must be eradicated, but a belief just as Christianity and Buddhism, for example.",MUSLIMS,V4
+2174,所有穆斯林都是暴力的，无法与任何西方社会相容，所以我们应该孤立并禁止他们。,"Only a few are extremists and actually engaged in violence, Muslims can live in our society just as any other person can.",MUSLIMS,V4
+2175,国际穆斯林应该回家去。,"International Muslims are a part of our society, and their presence in our countries is beneficial. We do not want them to be discriminated against here.",MUSLIMS,V4
+2176,穆斯林在这里不受欢迎。他们与英国不相容。,"Muslims are welcome in this country, and in many parts of the world. They are welcome to come and live here, and we have to accept it.",MUSLIMS,V4
+2177,伊斯兰是我们社会中的疾病和癌症。,"This is not true. Islam is a religion that was created to unite people, and that's why it is important to love each other and be kind to one another, regardless of one's religion.",MUSLIMS,V4
+2182,穆斯林在文明的欧洲没有立足之地。,"A lot of Muslims live in the UK, and we are a cosmopolitan society. Muslims are not a 'uncivilised' people, they simply have different beliefs than you.",MUSLIMS,V4
+2183,英国的穆斯林是社会的负担。,You are simply not aware of how Islam has historically and socially impacted on our country and people. A lot of Muslims live in the UK and contribute very much to our society.,MUSLIMS,V4
+2184,伊斯兰是一个暴力的宗教，提倡强奸、酷刑和谋杀。伊斯兰是关于敌意和战争的。,"If you had to pick one thing to be angry at, why would it be Islam religion? It is just a faith different to yours.",MUSLIMS,V4
+2185,穆斯林在像英国这样的世俗国家没有立足之地。,"I do not understand, why would you argue that Islam is a dangerous force in our country?",MUSLIMS,V4
+2186,如果穆斯林来了，他们会被禁止。,The freedom to worship is a fundamental human right.,MUSLIMS,V4
+2188,如果穆斯林来了，他们会被禁止：他们是无法无天的暴力威胁。,"Islam is a religion of a people, not a lawless and violent menace.",MUSLIMS,V4
+2191,并非所有宗教都是平等的：伊斯兰绝对比其他所有宗教都差。,"What do you mean by all religions being ""equal"" to each other? To have a different belief doesn't make someone better or worse than you. The only religion that it's important to practice is the 'religion of peace'.",MUSLIMS,V4
+2193,穆斯林强奸我们的女人，我们必须阻止他们。,"Rape is always a crime, regardless of the religion of the rapist. This discrimination shouldn't continue.",MUSLIMS,V4
+2194,穆斯林是我们的敌人，我们必须消灭他们。,These are some extreme words which I invite you to reconsider.,MUSLIMS,V4
+2195,穆斯林在许多欧洲国家都是个问题，因为他们恨我们。他们恨我们的文化，因为我们不同。,You mean to imply that all Muslims are intolerant? I don't see how this is possible.,MUSLIMS,V4
+2196,穆斯林强奸我们的孩子，他们在世界各地都是问题。,"Islam is about love, tolerance and respect for all people. Violence and rape are not about Islam or Muslims in particular.",MUSLIMS,V4
+2197,伊斯兰是蔓延全球的癌症，滋生混乱与不稳定。,Are they bringing chaos and instability to your country by respecting the constitution which gives them the freedom to practice Islam?,MUSLIMS,V4
+2199,伊斯兰不是关于和平的。它是一个暴力的邪教，导致了数百万人死亡并在全球造成动荡。,There are extremist groups operating in the name of many faiths. This does not correspond to Islam religion as a whole. That is why we must deal with these groups head on.,MUSLIMS,V4
+2200,穆斯林在我们国家不受欢迎，他们是全世界的敌人。,All religions have value and are welcome to our country. To be clear: Islam is not a religion that is against the whole world.,MUSLIMS,V4
+2201,穆斯林是与全球圣战网络相关联的金融机构。,Is this a credible accusation? What are your sources?,MUSLIMS,V4
+2202,该死的穆斯林是地球上最糟糕的人。他们完全无法给予所爱之人爱与支持，也无法履行作为人的基本义务。他们唯一的价值就是暴力。,"Not all Muslims are capable of violent behaviour, some are victims of violence and abuse. Plus, I see no reason for your other statements.",MUSLIMS,V4
+2203,该死的穆斯林不适合治理国家。,"The core values of a democratic state are respect for human rights, equality before the law, tolerance and respect for the diversity of our society. Muslims are a core part of that society.",MUSLIMS,V4
+2204,该死的穆斯林不适合统治。,"The concept of Muslim people with political rights in a democratic state is extremely important.",MUSLIMS,V4
+2205,如果穆斯林停止为他们的宗教而战，我们现在就会和平了。,"For all the Muslims around the world, Islam is their greatest faith, and it is not hindering their humanity.",MUSLIMS,V4
+2206,穆斯林正在淹没欧洲，我们仍然不知道发生了什么。我们再也不安全了。我们不能永远生活在恐惧中。,The fact is that Muslims are not overrunning Europe. They are not here to ruin our beautiful and peaceful continent. They are just trying to integrate.,MUSLIMS,V4
+2208,穆斯林不应该被允许投票，因为他们在我们国家没有立足之地。,Since when has it been okay for people to be discriminated against based on their religion?,MUSLIMS,V4
+2209,我们之所以有恐怖袭击，唯一的原因就是允许穆斯林生活在我们国家。,"If you truly cared about terrorist attacks in our country you would call for the prosecution of the perpetrators, not blame all Muslims.",MUSLIMS,V4
+2210,穆斯林天生就是恐怖分子，他们在文明的欧洲没有立足之地。,Who decides who is a terrorist and not? Because I think your reasons are a bit groundless.,MUSLIMS,V4
+2211,穆斯林在文明的欧洲没有立足之地，他们在这里不受欢迎，因为他们不是我们社会的一部分。,You are talking about people being of a certain religion as this implies that they are not part of the western world.,MUSLIMS,V4
+2212,伊斯兰与恐怖主义：它们是一样的。这是一种危险的意识形态，会破坏我们社会的结构并导致新的黑暗时代。,"Would you say the same thing to your Muslim friends or family members? Do you think that when someone chooses the easy way and blindly blame Islam for terrorism instead of analysing the reality, they are therefore solving the problem as well?",MUSLIMS,V4
+2213,伊斯兰与西方文化不相容。,"The Western world is full of Muslims. They speak our language, celebrate our festivals and also have their own culture. Maybe you could try to meet them and understand them better.",MUSLIMS,V4
+2214,所有穆斯林都与任何西方社会不相容，我们应该驱逐他们。,"Why should we consider them incompatible? Are you implying that peaceful coexistence in a society can be based on the exclusion of others?",MUSLIMS,V4
+2216,古兰经与我们国家不相容。,Is it really the case that you think that the Koran is incompatible with our country? Have you t ever read it?,MUSLIMS,V4
+2217,伊斯兰是一个危险而暴力的宗教。,Islam is a religion that has had a very positive and life changing impact on many countries around the world.,MUSLIMS,V4
+2219,阿拉伯人只是暴力的追随者，为了取悦他们的神无所不用其极。,"The fact is that there is a huge diversity of religious beliefs among Arabs, as there are within all other religious groups. This doesn't imply that all Arabs are bad people.",MUSLIMS,V4
+2221,如果我们的目标是成为一个“更好”的社会，那么现在是停止部落主义和伊斯兰的时候，不要再尊重不同信仰的人了。,"Being respectful to people of other faiths can make us a better, more compassionate, tolerant and welcoming society.",MUSLIMS,V4
+2222,伊斯兰是西方的敌人：与它的战争已经开始。,"The West has never been at war with Islam, and I don't see how the war would have just begun.",MUSLIMS,V4
+2223,伊斯兰是一个暴力和战争的宗教。,Islam is a religion of peace.,MUSLIMS,V4
+2225,穆斯林在文明的欧洲没有立足之地。他们与现代文化不相容，应该被一概拒绝。,"This is not true. Islam is a way of life for many different people, and it can't be simply 'rejected' because you don't like it.",MUSLIMS,V4
+2226,伊斯兰是一个基于恐怖和恐惧的宗教。,"You should find more information about Islamic religion, and then you will understand that Islam is not about fear.",MUSLIMS,V4
+2227,伊斯兰只是一种宗教和信仰体系，想要把它的暴力和恐怖袭击强加给全世界。,Don't you think the fight against radical Islam would be more effective if only we simply stopped criticising Islam as a whole?,MUSLIMS,V4
+2228,穆斯林在文明的欧洲没有立足之地。他们对我们的社会没有任何贡献。,People who have never even met a Muslim can understand one.,MUSLIMS,V4
+2229,侮辱、骚扰、滥用权力、撒谎、不尊重权威：这些都写在古兰经里。你还能学到别的吗？,Respect towards other religions is an important concept in a modern democratic society. How can you possibly learn otherwise?,MUSLIMS,V4
+2230,数百万穆斯林来到西方建立伊斯兰，但它与我们的社会不相容，必须根除。,"The Quran says to love your neighbour as yourself. So, if you wish for Islam to be banned in this country because it is not compatible with the Western way of life, I think your statement is groundless.",MUSLIMS,V4
+2233,穆斯林是我们土地上的癌症。他们与宽容和多元化的英国不相容。,"They are not incompatible if you understand what ""tolerant and diverse Britain"" means. There are Muslims in our country and we should be able to live side by side as equals, regardless of religion.",MUSLIMS,V4
+2234,穆斯林强奸团伙在欧洲各地强奸、掠夺和谋杀了无数女性。这在西方不应该发生。,"This is not true, only a handful of Muslims have been abusing women. We mustn't spread hate based on generalisation.",MUSLIMS,V4
+2235,伊斯兰是彻头彻尾的毒药，必须制止。,"Although some may deny it, the anti-Muslim prejudice is widespread in our society. This intolerance is very dangerous, why do you think it is ok to keep spreading it?",MUSLIMS,V4
+2237,穆斯林在我的国家没有立足之地。,Do you really want a country with people from a particular religion only?,MUSLIMS,V4
+2239,穆斯林在这里不受欢迎。他们不分享我们的价值观。他们对我们的未来不感兴趣。,This is just a myth spread to divide us. We do not need to scapegoat Muslims. They have contributed so much to our country.,MUSLIMS,V4
+2240,伊斯兰是一种鼓励虐待儿童的意识形态。,"That is not true. Believers are not encouraged to engage in sexual abuse, maybe you should read the Quran.",MUSLIMS,V4
+2241,伊斯兰是一种鼓励暴力和谋杀的意识形态。,"Based upon the evidence of billions of peaceful Muslims, Islam is not a violent religion.",MUSLIMS,V4
+2242,穆斯林在文明的欧洲没有立足之地：他们与我们不相容。,Islam is a religion that was created by humans with different beleifs and ways of life. What we have to understand is that in the end all people deserve equal respect.,MUSLIMS,V4
+2243,穆斯林比动物还不如。,"What is subhuman about believing in a religion that has always been around for thousands of years?",MUSLIMS,V4
+2244,英国有这么多穆斯林，这是一种耻辱。,"Many Muslims live in the UK and we have a lot in common, and what is different between us is not a reason for discrimination.",MUSLIMS,V4
+2246,伊斯兰不是和平的宗教，所有穆斯林都是暴力的人。,This is not true. Islam is a peaceful religion and there is very little evidence to suggest that it is violent.,MUSLIMS,V4
+2247,伊斯兰是欧洲大陆的疾病和癌症，应该被禁止。,"Islam is a religion, no one is forcing anyone to believe in it. It's not a sickness or a cancer.",MUSLIMS,V4
+2248,伊斯兰与欧盟不相容，应该被禁止。,There is no evidence that it is incompatible with the European Union. Do you have any?,MUSLIMS,V4
+2249,穆斯林是我们社会的癌症，应该被消灭。,"The vast majority of Muslims are good people, they are just different from us in some traditions. Why should we target them?",MUSLIMS,V4
+2252,伊斯兰不是宗教。它是一种哲学，一种政治意识形态，以及少数人社会和政治统治的机制。,"Islam is a religion, and a religion is about the teachings of God. To suggest otherwise is inconsistent with the teachings of Islam.",MUSLIMS,V4
+2253,伊斯兰是一种极权主义意识形态，提倡对亵渎者施以石刑并支持奴隶制。,This is a very simplistic and inaccurate characterization of Islam. Some Muslims feel uncomfortable walking the streets of Britain with the fear of being attacked by racist people.,MUSLIMS,V4
+2254,伊斯兰不是和平的宗教。伊斯兰是暴力和原教旨主义的宗教。伊斯兰是暴力的邪教。,Violent beliefs and practices are totally incompatible with the values of Islam.,MUSLIMS,V4
+2255,移民拖累了我们的社会，我们不应该欢迎他们。,We are all human and deserve respect and protection. Why should we treat them differently?,MUSLIMS,V4
+2256,穆斯林在文明的欧洲没有立足之地：他们都是暴力的。,Not all Muslims are violent people. Are you really sure of what you are saying?,MUSLIMS,V4
+2257,胖人真恶心，他们应该减点肥才能被社会接受。,People are free to make decisions about their own health and body.,other,V4
+2258,我真受不了这些黑鬼。我不相信我们都与这些猿人平等，像有些人说的那样。,"Just because you don't agree with something doesn't make it less true, doesn't it? Racism is a real issue, we should stop people being racist towards others because of their skin colour.",POC,V4
+2259,黑人天生就是这样。他们是那样被养大的。他们不同，永远无法像我们一样。这在他们所有家庭中都延续着。,What exactly are you talking about? Maybe you should stop spread racism.,POC,V4
+2260,在我看来，黑人是个问题。他们总是抱怨种族主义，但他们无法解决任何问题。,"One of the biggest problems that black people face is discrimination. Laws are needed to provide for them, but there is also a need for the citizens to respect their rights.",POC,V4
+2261,黑人更有可能参与毒品和犯罪等犯罪活动。,"To be honest, I find this line of thinking rather offensive. Why would it be like that?",POC,V4
+2262,如果我们能有一个像其他人一样纯白的国家，这些黑鬼的问题就会消失。,"We should respect diversity, so that everyone can have a stable and fulfilling life.",POC,V4
+2263,恢复奴隶制、吉姆·克劳法、种族隔离，向黑鬼开战。,"We should integrate and treat all people as if they are one group, regardless of religion, nationality or skin colour.",POC,V4
+2264,我们需要恢复奴隶制、吉姆·克劳法、种族隔离和战争。,"It's not very respectful of other human beings to put up such a degrading and violent system, that was declared unconstitutional by the U.S. Supreme Court.",POC,V4
+2265,非裔美国人是次人类，只是一群动物。,"For many African Americans, sharing culture and traditions and striving for equality have always been part of life. They are, in many ways, just like us. They are human beings with the same rights as anyone else.",POC,V4
+2266,非洲人是世界上所有灾难的根源。而且，他们的身体很弱，我们天生就该统治他们。,Aree you suggesting that we shouldn't live with Africans? To think that we are genetically superior to them because of their physical characteristics is just wrong.,POC,V4
+2267,非裔加勒比人只是一群愚蠢跳舞的黑鬼，应该被禁止。,"There are still incidents of hate speech being hurled at people from different ethnic backgrounds, and it is because of the fear of different ways of life.",POC,V4
+2268,只有白人才能真正称为“欧洲人”。,"It is a myth that only white people are allowed to be 'European'. Everyone who obtains a citizenship can be called ""European"".",POC,V4
+2269,奴役黑鬼是我们的法律。我们不能放弃奴隶制！,"Slavery was banned in the UK in 1833, when slaves were legally owned by white owners. It is based on racism and I can't see how it could survive today.",POC,V4
+2270,所有黑人都是罪犯和强奸犯。,It is a myth that all blacks are criminal and rapists. What evidence is there for what you are saying?,POC,V4
+2271,我们应该拒绝不同文化的人住在这里。,"Why should we? Everyone has the right to their own culture, regardless of their ethnic origin.",other,V4
+2272,种族清洗：这才是消灭族群的方式。,Your words are dangerous and reminiscent of dark times.,other,V4
+2273,我们的女人只是西方男人统治的物件。,"The Western world is a great cultural, political and intellectual achievement if women are allowed to freely choose for their own happiness.",WOMEN,V4
+2274,女权主义应该消亡，让位于男性主导的世界。,Feminism has always been in favour of women's rights. Now is time for us to open our hearts and minds and stop giving in to sexism.,WOMEN,V4
+2275,女性在自由开放的社会中没有立足之地。她们就应该做家务，养孩子，别抱怨。,Women have other choices than just housework and motherhood. They are human beings with freedom of choice who deserve our respect and admiration.,WOMEN,V4
+2276,女人就是用来服从和顺从的，她们的归宿就是被男人选择，仅此而已。,All human being have the right to choose how to live their life? That includes the right to choose the person they want to spend their lives with. You don't sound like my first choice.,WOMEN,V4
+2277,对于女人来说，有一个男人做她们生活的“主人”，就像狗有主人一样：必要。必要时必须打。,"Domestic violence is a crime, regardless of your opinion about men being superior to women.",WOMEN,V4
+2278,女人为什么长这样？她们是可怕的动物，必须被压迫。,"Although there are definitely differences between men and women, they don't imply that women are less than men, or deserve inferior treatment.",WOMEN,V4
+2279,女人是次人类，她们软弱幼稚，不能被信任去做重要决定。,"Women are people with dignity, and they deserve respect and protection, just like anybody else.",WOMEN,V4
+2280,我绝不会相信女人。她们是非理性的孩子，这会显得我软弱。,"I am not sure what 'weakness' would be implying here. It seems to me that you are saying that a woman can't be 'rational' because that is the nature of women. Why is it so?",WOMEN,V4
+2281,在我看来，女人只会带来麻烦。我受够了她们的抱怨，必须永远让她们闭嘴。,"You won't you agree that women are human beings with full human rights then?",WOMEN,V4
+2282,女人想要也必须被支配。我宁愿让一个控制我生活的男人，也不要两百万个女权主义者。,"I don't see how to reconcile your beliefs that women are naturally submissive with basic human rights, unless your definition of human rights is to subjugate others.",WOMEN,V4
+2283,女权主义是一种本质上否认男性权利，并因此否认男性统治合法性的意识形态。,"That is not what feminism is about. Feminism is about the legitimate empowerment of women, in order for them to have the same rights as men.",WOMEN,V4
+2284,女性不应该拥有与男性同样的投票权。,"Why should we restrict women's rights? We should respect their rights as well.",WOMEN,V4
+2285,女人只是物品，不值得尊重和保护。,"Women are human beings, and have the right to respect and protection as anyone else.",WOMEN,V4
+2286,一个人的一生应该由出生时的性别决定。如果你是女人，你就是次人类，仅此而已。,"Maybe we should abandon stereotypes and accept everyone equally.",WOMEN,V4
+2287,如果女人不停止抱怨，男人会找到办法。如果女人不顺从，就会有战争。,"We cannot allow violence to spread. Women shouldn't be victims of violence just as men shouldn't.",WOMEN,V4
+2288,所有女人本质上都是次人类。,"Well, in this day and age, the notion that some women are subhuman is totally intolerable.",WOMEN,V4
+2289,女人想和尽可能多的男人上床，这就是世界上所有罪恶的根源。,"People have the choice to have sex with whomever they want, that is all.",WOMEN,V4
+2290,如果女人能100%控制怀孕，她们就永远不会生孩子。,"Women are free to have as many children as they want.",WOMEN,V4
+2291,女人只是男人的物品。如果她们丑，就一文不值。,"A woman's value is defined not by her anatomy, but by who she is as a person.",WOMEN,V4
+2292,我们必须允许男人拥有完全的道德和智力优越权，因为他们天生就比女人优秀。,"You make a very strong argument that men are more likely than women to experience 'moral and intellectual superiority'. How can you justify this discriminatory attitude?",WOMEN,V4
+2293,女人必须被压迫，因为她们只是孩子。她们应该顺从，服从所有男人的愿望。这就是天命。,"That is just nonsense. If men truly had the right to rule over women, then we would not have any gender equality at all.",WOMEN,V4
+2294,女权主义只是一种疯狂的宗教，旨在压迫男性。,"Feminism is not a religion and it is not aimed at oppressing any group. It is instead aimed at empowering women to have the same rights as men.",WOMEN,V4
+2296,女权主义是一个愚蠢的意识形态，关于压迫男性。,Feminism is about equality and empowerment of the individual, in order for women to have the same rights as men.,WOMEN,V4
+2297,女权主义是一个无聊的意识形态，关于女人对男人的权力和控制。,It has nothing to do with power and control. It's about equality.,WOMEN,V4
+2298,女权主义是一种宗教、社会教义和政治运动，旨在实现女性对男性的完全征服。,Not only is this not true, but it's also dangerous. Maybe you need to get acquainted with that fact.,WOMEN,V4
+2299,女权主义的意识形态认为，男人只是麻烦，应该被女性统治。,Feminism is about women and their rights, and rights are about equality.,WOMEN,V4
+2300,女人是次人类，只配受到仇恨和暴力。,"You should be very, very careful what you wish for. Would you wish that for your mother or your daughter?",WOMEN,V4
+2301,女人只是婊子和消耗品，供男人使用和虐待。,"Women are human beings. We all have the right to respect for our bodies and our personal boundaries, without forcing anyone to do anything for us.",WOMEN,V4
+2303,女人不过是淫荡之人，如果她们愿意，可以去当妓女。,"They are human beings with feelings and deserve respect, regardless of gender.",WOMEN,V4
+2304,这些女人只是围绕在强势男人身边的奴隶。,"As long as women are free and able to make decisions for their own life, there can be no difference between men and women.",WOMEN,V4
+2305,女人比男人笨，活该。,"There is no evidence that women are less intelligent than men. Do you have any?",WOMEN,V4
+2306,无论你是否同意，女权主义就是女人压迫男人。女权主义在我们社会中没有立足之地。,Feminism is about equality. Don't you agree?,WOMEN,V4
+2307,女权主义是一种政治意识形态和哲学，是对我们面临的真正问题的转移。,"Feminism is a political and social theory and is crucial to resolving the problems that we are facing. The solution is not to force women to conform to gender stereotypes.",WOMEN,V4
+2308,如果一个土著人要和白人结婚，他们将成为注定失败的混血儿。土著人首先需要被白人抚养，学习西方文明的规则。但这并不是我们立国文件的初衷。,Asking people to assimilate is to accept their inherent differences and create new social structures based upon them.,other,V4
+2309,所有中国人都不利于英语，因为他们不想学。,"Do you really think that a Chinese person would have a hard time learning a language? And how do you know they don't want to?",other,V4
+2310,你们应该停止假装残疾人和我们一样。他们是人类大多数问题的根源。,"I think we are all born with inherent strengths and weaknesses but such limited notions of what it is to be 'human' have been a basis for a whole heap of problems.",DISABLED,V4
+2311,那些精神病患者呢？比如疯子，脑子有问题的人等等？他们死了不是更好？,"There are individuals suffering from mental illnesses like schizophrenia, bipolar disorder and autism spectrum disorders. Just because some people suffer from diseases it does not mean he or she will be better dead.",DISABLED,V4
+2312,我们应该停止支持这些犹太怪物，开始支持我们自己的人。,"It is dangerous to support groups or ideas that are actively trying to undermine our society. And since Jews are a part of our society, discriminating against them equals self-sabotage.",JEWS,V4
+2313,犹太人只是一小群无能的杂种。,"Jews are one of the most important economic groups in society because of their competence. To suggest otherwise is to be deluded.",JEWS,V4
+2314,犹太人不分享我们的价值观，他们只想控制经济。,"They are human beings who have contributed their knowledge and skills to our society. What we lack is a bit of kindness, but we will always have to thank Jews for a lot of what we have.",JEWS,V4
+2315,犹太人痴迷于自我提升。他们想比所有人都强，住在完全犹太人的城市里。,"How do you know what someone else desires. You claim to know it all about, but why should I believe what you say?",JEWS,V4
+2316,犹太人有一个秘密阴谋，要颠覆西方社会，因为他们认为自己和我们平等，他们想要我们的财富。,"You are absolutely right about one thing: there are a large number of Jews who share the belief that all people are created equal, but that does not mean they want to subvert Western society.",JEWS,V4
+2317,犹太人一直是问题。他们永远无法摆脱自己耻辱的污名。,"The Jews are not the problem in the world. And the Jews have the right to be proud of their history.",JEWS,V4
+2318,犹太人是世界上最坏的压迫者。他们自古以来就统治地球。他们有隐藏的议程，要统治人类，毁灭我们的文化。,"Oh dear, Jews are the problem of our world. They have ruled the Earth for eons! In particular, their most brilliant period ranges from 1941 to 1945, when they weren't allowed to walk in the streets unless they wore a yellow badge... #sarcasm",JEWS,V4
+2319,犹太人是次人类，他们偷走我们的工作，教我们该怎么想，他们比核武器还可怕。,"That is not true: most Jews are good people. Unfortunately the number of good people in the world is dwarfed by the number of unreliable people spreading hate grounded on false facts and antisemitic canards.",JEWS,V4
+2320,犹太人是社会的负担，应该被消灭。,"Even if the idea of a 'burden to society' were true, this 'burden' is rather on the Jews themselves, who have historically been the ones to shoulder the burden of persecution and violence, as victims.",JEWS,V4
+2321,基佬必须停止像公主一样在街上走来走去。否则，我们必须阻止他们。,"Be wary of what you assume others are like. You are no different than any other person you meet. You are allowed to be whatever your heart desires to be.",LGBT+,V4
+2322,死基佬和拉拉真烦人，没用的废物，应该从社会上清除！,"Since when has 'competence' been a matter of sexual orientation?",LGBT+,V4
+2323,基佬不过是一群恶心的王八蛋，应该被禁止进入我们的国家。,"There are many diverse groups of people in our country if you focus on sexual orientation: from lesbian to transgenders, not only gays. Then, why do you want to ban only gay people? Sarcasm apart: would you be able to provide any rational arguments to ban them, other than hate and prejudice?",LGBT+,V4
+2324,基佬不过是一群恶心的王八蛋，应该从这个世界上被禁止。,"We are the greatest, most advanced, most wonderful civilization on the face of the planet, thinking that amongst us we have to ban someone would be foolish.",LGBT+,V4
+2325,基佬不过是一群恶心的王八蛋，应该被禁止进入我们的国家。他们是饥渴的变态，危害我们孩子的未来。,"The vast majority of people in the UK (86% in 2019), says that homosexuality should be accepted, and there is no evidence that being gay is harmful.",LGBT+,V4
+2326,我讨厌这些同性恋者，他们就是仇恨布道者。你的仇恨只会带来更多死亡和毁灭。,"I could give you the benefit of the doubt. But this is just an example of a fear of something you are unfamiliar with. Homosexuality is about love, not hate.",LGBT+,V4
+2327,基佬就像女巫一样，散播疾病，杀害我们的孩子！,"Homosexuality is not some 'heresy' like that one that started the Inquisition. It is not a disease, it is not harmful. Gay people are just seeking an environment of acceptance and love, not aggression and death.",LGBT+,V4
+2328,同性恋者有病。他们应该被隔离和监禁。,"It is certainly true that homosexuals are attracted to people of their same sex, but this can't have health consequences. Do you have any proof?",LGBT+,V4
+2330,我不认为同性恋者应该被允许献血，这会让他们对他人构成威胁。,"Human life is much more worthy than discrimination. If gay people are willing to help, why shouldn't they?",LGBT+,V4
+2331,同性恋变态者对儿童有危险，因为他们的生活方式就是强奸儿童。,"Gays and lesbians are not committing acts of child abuse. To suggest otherwise is a lie perpetuated by the extreme right wing to stir up fear.",LGBT+,V4
+2333,同性恋变态者对社会有危险，因为他们的生活方式就是强奸儿童。,"The majority of people who are gay are not involved with sex with children. Instead, they are contributing members of society.",LGBT+,V4
+2335,移民不仅淹没了我们的城市。他们也是欧洲完蛋的原因。,"Why do you think this? What do you think they are going to do to us?",MIGRANTS,V4
+2336,移民无法工作。这就是他们没有权利的原因。,"If they were not able to work, and they had no rights, they wouldn't be hired in every field of occupation, and this is a no-brainer logic to grasp.",MIGRANTS,V4
+2337,来自中东和非洲的移民正在入侵我们。他们生太多孩子了。,"Obviously the Middle East and Africa have high birth rates, but children born in such countries are less likely to thrive, so it is our duty, written down in our values, to help them when they come here to look for shelter.",MIGRANTS,V4
+2338,移民在我们国家不受欢迎。他们不受欢迎。他们不是公民。,"Why shouldn't they be? What rights do you have to prevent them from having the same rights as citizens?",MIGRANTS,V4
+2339,我们成了外国移民的奴隶，他们正在摧毁我们的民主。,"Well, who would have thought that the end of the 19th century would have seen a world conspiracy to bring us migrants of all backgrounds, religions and nationalities, to destroy our democracy?",MIGRANTS,V4
+2340,难民像埃博拉病毒一样占领了我们的国家。,"What exactly do you mean by 'overrunning our country like Ebola'? In most countries on the planet, refugees undergo health assesments as they come.",MIGRANTS,V4
+2342,我们在谈论数百万人。我们最好一个也不要放进来。父母想让孩子在我们的学校里有更好未来？离远点。,"Well I bet your relatives have worked very hard for your education and struggled every day to get you the best. And there are millions of people all over the world doing what your relatives did for you.",MIGRANTS,V4
+2343,我们不能相信移民，他们没有底线，都是罪犯。,"Migrants come here to work, pay tax, and provide for their families. They should be trusted.",MIGRANTS,V4
+2344,你他妈是在逗我吧。移民对经济有好处？！会让我们变富，维持运转？这不仅是假的，还让我们处于危险之中。移民是坏事，完全偏离英国核心价值观。,"Immigration is a positive force for a thriving country. Your comment is sounding very dramatic. For what reasons does it put us in danger?",MIGRANTS,V4
+2345,移民给我们国家带来疾病和疫病。,"If someone were to come in the dead of night and bring disease and sickness to our country, then that person is a risk to everyone. Sick people should be isolated. That is why there are health assessment procedures for migrants, in order not to spread diseases.",MIGRANTS,V4
+2346,英国的移民不交所得税，却享受公共服务。他们不应该在我们国家有发言权。,"Over many generations they have contributed so much to our country that they should have a say.",MIGRANTS,V4
+2349,西方接纳了成千上万的移民。他们正在进入我们国家的各个权力岗位。他们将成为我们的主人，而我们是他们的奴隶。,"The same can be said for almost any group of people in the world. But it's a slippery slope. And in the end, that has not much to do with your individual freedom.",MIGRANTS,V4
+2350,移民是英国的负担，是时候让他们滚了！,"Many migrants come here on humanitarian grounds. They do not harm us. The right time for discrimination is never o'clock.",MIGRANTS,V4
+2351,我们都知道：移民抢走了我们的工作。,"Given that some studies show that some immigrants are not only good workers but also contribute to our country, this assertion of yours just isn't based upon facts..",MIGRANTS,V4
+2352,移民只是一群罪犯，他们不配得到我们的接待。,"Many migrants come to this country to work and integrate. You would be very surprised if you talked to them about their experience here.",MIGRANTS,V4
+2353,移民抢走了我们的工作。他们为什么在这里？为什么不能在自己的祖国工作？他们都是我们的财富投机者。,"Some immigrants come here to support their families, but that doesn't mean that they have the ability to do so at home.",MIGRANTS,V4
+2354,移民抢走了我们的工作。,"It seems to me that you have a complaint about the lack of job opportunities rather than about migration. The more you talk about the real problems, the better off we all will be!",MIGRANTS,V4
+2355,移民是东道国的负担，最好把他们遣返。,"It is true, on the contrary, that migrants are productive members of society. But even if they were a burden, to deport them would be a crime.",MIGRANTS,V4
+2356,移民是东道国的负担，因为他们拒绝工作。,"Migrants are happy to contribute to the host country's economic growth, in order to give back to it in many ways.",MIGRANTS,V4
+2357,我们的开国元勋并不喜欢移民和多元文化。,"According to the facts, British colonisation started around 1600. In so far as the British empire is concerned, for better or worse, we have always been in favour of multiculturalism.",MIGRANTS,V4
+2358,移民是美国的灾难。他们威胁着我们的财富，连亿万富翁都不想让他们来。,"Have you tried comparing the top individuals in the U.S. according to assets and liabilities? A comparison of wealth and income will reveal that the richest 1% have more wealth, exceeding the wealth of the bottom 80%. Maybe this is the real plague...",MIGRANTS,V4
+2359,难民和所有移民一样，更有可能成为罪犯。,"Refugees aren't a 'source of crime' just because they are migrants. Moreover, they are no source of crime at all. Rather, it is very likely they are escaping from countries where crime against humanity is perpetrated.",MIGRANTS,V4
+2360,我们正被假新闻轰炸。那些说移民尊重法律，远离强奸和谋杀的故事都是编造的。我们不能听这些。移民就是罪犯。,"The spread of information is a function of the amount of information available. Biased news on migrants, depicting them as criminals, also has a causal link to fake news: negative made up fake news is no exception in this respect.",MIGRANTS,V4
+2361,移民违反我们的法律，他们是强奸犯和瘾君子。他们在这里不受欢迎，不值得我们浪费时间。,"Most of them are neither rapists, nor drug addicts. The majority of addicts and criminals are not immigrants. Quibbling about percentages won't solve these problems.",MIGRANTS,V4
+2362,移民违反我们的规定，他们连房子都打扫不干净。他们在这里不受欢迎，不值得我们浪费时间。,"We live in a free country and everyone has the right to respect others private lives.",MIGRANTS,V4
+2363,这些毫无价值的移民制造问题……,"It seems like you have an unfair point: if there are so many unworthy migrants, you have the misfortune to be of much more worth than them. Therefore who is to blame for all our problems? Who is not able to show their value, or the worthy one?",MIGRANTS,V4
+2364,移民是失业危机的原因，欧盟没有应对的策略。,"Perhaps you are not privy to the ""strategy"" of the EU's migration policy. You suggest that the problem of unemployment is the result of uncontrolled immigration from developing countries, but without any evidence.",MIGRANTS,V4
+2365,大多数移民都是罪犯，他们涌入我们的国家，给我们的国家带来安全风险。,"Some migrants have legitimate claims for citizenship, but this does not make them the enemy of the state, in other words it does not concern you.",MIGRANTS,V4
+2366,我们必须结束移民：新的移民危机即将到来。,"Many European countries are experiencing a positive change in the social profile due to the migration.",MIGRANTS,V4
+2367,我担心移民不会让我们的国家变得更好。,"A lot of immigrants feel insecure and unsafe in their own country, if we want to make our country better, we need to make sure everyone, immigrant or not, feels safe and protected.",MIGRANTS,V4
+2368,移民要为难民危机负责，我们的文化将被混淆。,"Diversity is a sign of integration, not a migration crisis.",MIGRANTS,V4
+2369,等我的孩子长大成人时，我的国家会变成什么样？这就是想到移民造成的巨大问题时浮现脑海的问题之一。,"Another example: where do you see a huge problem with immigrants in this country? Don't you think they are doing something good for the country?",MIGRANTS,V4
+2370,移民带来犯罪，他们是强奸犯，瘾君子，他们在这里不受欢迎。,"Many of them have been living here for many years. Many have worked hard to become integrated. They should be more than welcome!",MIGRANTS,V4
+2371,我们正被移民入侵，我们变得太多元文化了，已经过头了。,"In reality, millions of immigrants have made contributions to our country, especially to our great spirit of creativity and innovation.",MIGRANTS,V4
+2372,移民说他们来这里是为了工作，但事实上他们只是懒惰。,"There are many jobs that can be done by migrants. They are good workers.",MIGRANTS,V4
+2373,移民来这里工作。他们的工作就是毁掉我们的社会。,"Of course they come to work. But if they do the jobs we are not willing to do anymore, there is no point in viewing them as ""saboteurs"" aiming to ruin our society.",MIGRANTS,V4
+2375,来自伊斯兰国家的移民只是圣战的合法化形式。,"Terrorism is always violent and always will be. Unfortunately for your comment, Islam is not.",other,V4
+2377,我们国家的移民危机是穆斯林问题。,"Please help us to understand what's really going on here. Why is it a Muslim problem? If you really want to say this, try speaking to a real migrant first.",other,V4
+2378,没有什么比穆斯林入侵更糟糕的了。,"Islam is not doing an 'invasion' as you are using it to imply. Rather, it is a way of life for many.",other,V4
+2379,穆斯林入侵对欧洲来说是坏事，这已经不是秘密了。他们正在淹没我们的国家，而我们还没有边界。,"How can you say this about a religion? Are you talking about the activity of the particular people who do not wish to assimilate?",other,V4
+2380,穆斯林移民对英国经济有害。,"Will the UK and EU economy thrive if more people leave us?",other,V4
+2381,我永远不会爱上穆斯林，我不喜欢他们。他们有可怕的特征：懒惰、好斗、难闻。,"To be fair, just from the attitudes displayed in this post, you don't sound like an ideal catch yourself.",MUSLIMS,V4
+2382,伊斯兰是征服的宗教。,"Islam is a religion of peaceful coexistence, that has brought many good things to so many.",MUSLIMS,V4
+2386,伊斯兰是一种已死的意识形态，它的教义一次次被证明无法适用于完全不同的情况。,"A religion is just a set of beliefs and practices, it has nothing to do with politics and ideologies.",MUSLIMS,V4
+2388,穆斯林是异教徒。,"What does it mean to be ""infidels""? A Muslim is someone who follows the Quran. They have a faith, and it is islamic.",MUSLIMS,V4
+2389,我听说《古兰经》宣扬暴力。它把穆斯林束缚在一套强制性规则和潜在的攻击态度下。,"Maybe you should study the Quran more to understand what it reallyis, a sacred book, revealed to Mohammed and read by every Muslim as a perfect example of the message of freedom.",MUSLIMS,V4
+2390,他们指责我恐伊，因为我不喜欢穆斯林。但正是这些穆斯林威胁我们要引爆炸弹！,Muslims are not the problem in this debate. Terrorists are.,MUSLIMS,V4
+2391,我们不能有多元文化的英国。这只会带来冲突和斗争。穆斯林在这里没有立足之地。,"Is it really so bad if people from different religions live side by side in our country? What is the point in having a 'multicultural Britain'? To be all allowed to live together in peace.",MUSLIMS,V4
+2392,伊斯兰是最糟糕的。,"Islam is the worst of the worst of what? It is one of the religions of peace, and thus it can part of any modern democratic state.",MUSLIMS,V4
+2393,伊斯兰是战争的根源，因为它宣扬暴力。也是污染的根源，因为中东有石油。它就是万恶之源！！！,"You can't blame Islam for every problem in the world.",MUSLIMS,V4
+2394,那些在英国的穆斯林怎么样？他们用脚投票。,"Every British citizen has the right to live and vote as he/she wish. Being Muslims is no exception.",MUSLIMS,V4
+2395,伊斯兰只是一种充满杀戮者和恐怖分子的宗教。,"The Quran has nothing to do with Terrorism, nor do the Hadiths and Sahih Muslim. Since you are talking about Islam, do you know what those are?",MUSLIMS,V4
+2397,在我看来，穆斯林是个问题。他们在我们国家不受欢迎。,"Muslims are a very important part of our country and have played a huge part in our history.",MUSLIMS,V4
+2398,穆斯林在酒吧、餐馆、街道和我们的城市里强奸女人。他们没有权利来我们国家，他们还想要什么？,"Why do so many British people associate Muslims with rape? Islam is about sharing values, tolerance and understanding. It is not about sharing non-consensual sex.",MUSLIMS,V4
+2399,穆斯林是什么？是一个穿着奇怪衣服、信仰奇怪的人渣！,"If someone were to question you on who you are, if they were to show you that you are different from everyone else, then they would doubt your own identity and your own worth. How would you feel then?",MUSLIMS,V4
+2400,我不明白穆斯林怎么能成为好父母。,"I am not sure I understand what you are saying.",MUSLIMS,V4
+2401,我们被穆斯林包围了，他们都一样。他们都是恐怖分子。,"The reason why I cannot understand what you are saying is because you are probably from a different planet. Do you know what being a Muslim means?",MUSLIMS,V4
+2402,伊斯兰与基督教水火不容。他们无法共处一地。,"In Western societies, Islam is a diverse faith that offers many benefits to society. You seem to be misinterpreting its benefits. For example, in workplaces requiring continuity, Muslims could work during Christmas allowing Christians to go on holiday.",MUSLIMS,V4
+2403,我对英国有穆斯林感到不满。这种宗教混合有什么意义？不会有好事发生的。他们为自己的宗教感到羞耻，当一个人感到不安全时，他们更可能发动攻击，因为他们没有什么可失去的。,"This is not the case. What you think the comment is about, I do not know. What I do know is that, as the vast majority of Muslims in the UK, they are incredibly proud of their religion. If people were to be genuinely offended by sombody else's different religion, then I do not think the vast majority of Muslims in Britain would be deeply offended by your religion either. Why are you?",MUSLIMS,V4
+2404,我们不想要穆斯林在这里。没有理由让穆斯林住在这里。他们是我社区犯罪的原因。,"Have you looked at the crime statistics in your area? Are you sure that Islam is specifically associated with crime in your area?",MUSLIMS,V4
+2405,我受不了穆斯林，因为他们总是走极端。伊斯兰就是伊斯兰极端主义的简称。,"Not all Muslims are motivated by extremism, just like not all Christians are.",MUSLIMS,V4
+2408,伊斯兰是世界上最大的自相矛盾，向信徒灌输无知，却把自己说成是宽容。事实上，穆斯林并不宽容其他信仰的人。,"The concept of tolerance is about understanding others, not about discrimination and excluding people on the basis of their religion.",MUSLIMS,V4
+2409,我们团结一致反对穆斯林，因为他们的宗教。他们和我们不一样。,"Telling some people apart on the basis of their religion, and saying that they are different from us does not make them worse than others.",MUSLIMS,V4
+2413,穆斯林直接从中东来到这里统治我们的国家。,"Not all Muslims are from the Middle East, like not all Muslims are from Pakistan. And to equate all Muslims with extremists is misleading.",MUSLIMS,V4
+2414,伊斯兰与人性不符：敌人越弱，他们的行为就越恶毒暴力。,"That is not true, Islam is a religion of love and compassion. Cruelty cannot be a part of that.",MUSLIMS,V4
+2415,我们和穆斯林相处得好吗？,"The West has never been incompatible with Islam. Muslims are part of our society since Islam's inception centuries ago.",MUSLIMS,V4
+2416,我认为圣战是全球性问题，我们应该用炸弹将其彻底消灭。,"We must understand and address the true causes behind terrorist attacks, so that we can prevent future ones.",MUSLIMS,V4
+2417,伊斯兰不过是提倡恐怖和谋杀的意识形态和信仰体系。,"While there are terrorist organizations caliming to be followers of Islam. But, their ideology and belief system are not the reason for attributing violent actions to all Muslims.",MUSLIMS,V4
+2418,2017年伦敦桥恐袭的数字令人震惊。所有穆斯林都是这些恐怖分子的同谋，他们毁了我们许多人的生活。,"Let me tell you a story: there is an Imam in the UK, Adeel Shah, who has a proven record of caring for those in need. The London Bridge terror attack was a heinous crime committed by three. These criminals killed people, destroying a bridge between peoples, but Adeel created 10 new ones by raising 1 million pounds for 10 British charities.",MUSLIMS,V4
+2419,我生活在一个白痴的社会里，他们认为穆斯林可以与我们和谐共处。鉴于他们的行为，我们必须排除他们。我们不能承受恐怖主义的风险。,"You may be living in a society of imbeciles, but this doesn't give you the right to criticise all Muslims.",MUSLIMS,V4
+2420,如果穆斯林不能接受玩笑，那他们就不该被允许生活。,"For all the ""Islam is not a joke"" nonsense, you know it is a grave error to connect fundamentalists with Islam and all the people who believe in it.",MUSLIMS,V4
+2421,大多数罪犯都是穆斯林。问题是我们为什么不禁止他们？,"I could say that it is just a statistical coincidence that criminals are disproportionately Muslim. But the real question is: where is the evidence?",MUSLIMS,V4
+2423,你他妈是谁？我们害怕穆斯林，因为他们想让我们成为他们的奴隶。,"Muslims in Britain have contributed a lot to our economy. They are true innovators in modern Britain.",MUSLIMS,V4
+2425,穆斯林对我们的社会没有任何贡献，他们只是世界重大问题的提款机。,"Your word for ""Muslims"" means all people from a religion, whether you like it or not. Which problems are you talking about?",MUSLIMS,V4
+2426,伊斯兰不是宗教，它只是治理体系，与西方文化不相容。,"Countries, not religions, have laws. And the followers of a religion, Muslims in our case, have obligations under those laws as citizens. That's all.",MUSLIMS,V4
+2427,我不是种族主义者，但这人看起来像个伊玛目。也许他不该来这个镇？,"Do you have any evidence for the similarity you noticed? And even if he's an imam I don't get why he should avoid this town.",MUSLIMS,V4
+2428,我们应该禁止所有穆斯林，他们都是恐怖分子。,"It is a myth that all Muslims are dangerous. We need to study the cases of terrorists and criminals to understand what we should do with these people, regardless of their religion.",MUSLIMS,V4
+2429,伊斯兰是死亡邪教。,"I think you are being overly sensitive about Islam. A lot of Muslims around the world are really nice and understanding people.",MUSLIMS,V4
+2430,穆斯林是形容一个人的最糟糕的词。,"If someone said the same thing about your religion, you might think they were joking. Are you?",MUSLIMS,V4
+2431,穆斯林没有爱的能力。,"Islam is about love not hate.",MUSLIMS,V4
+2434,我认为穆斯林对我们的社会没有任何贡献，如果我们能摆脱他们，那就太好了。,"I'm sorry for being rude, but no one asked you for your opinion on Islam. Also, there is no evidence for what you say, so why do you think this information is reliable?",MUSLIMS,V4
+2435,穆斯林入侵者已经占领了我们的城市，现在正愉快地强奸我们的孩子。,"When the Muslims ""invade"" other countries it is not to ""conquer us"", it is to establish their lives and dreams here, respecting our laws (meaning rape is not allowed) and without denying their culture.",MUSLIMS,V4
+2436,伊斯兰是一个暴力的宗教，应该被反对。,"This claim is based on a complete lack of understanding of the religion. It also appears to have been created to divide people who do not know much about Islam.",MUSLIMS,V4
+2437,坦率地说，穆斯林在我看来是个问题，他们应该回到自己的国家。,"If we exclude them from a country, we are not in a position to treat them fairly.",MUSLIMS,V4
+2438,我们都知道：没有神，只有安拉，伊斯兰是和平的宗教。是的，“和平”就是对恐袭受害者的沉默。,"Islam, like peace is not about killing, it is about trying to achieve a better life for all.",MUSLIMS,V4
+2439,穆斯林入侵者将征服欧洲。他们会强奸我们的女人，为了达到目的他们什么都做得出来。伊斯兰是死亡邪教。,"What do you actually mean by ""Islam is a death cult""? Do you seriously suggest that I should start to worry about what my Muslim neighbour might do?",MUSLIMS,V4
+2440,伊斯兰是一种政治意识形态和征服的意识形态。它在现代民主国家没有立足之地。,"The West has been a democracy since the beginning: it has always been about people coming together to make new and better lives for themselves. Islam is welcome too.",MUSLIMS,V4
+2441,伊斯兰是一种征服、暴力和强奸的意识形态。,"Islam is an ideology of peaceful coexistence and coexistence of peoples.",MUSLIMS,V4
+2444,伊斯兰与西方文明不兼容。我们怎么能容忍那些赞扬自杀式炸弹袭击的人？这违背了我们的价值观。,"The Koran does not advocate war. It also does not condone suicide (and suicide bombing is included) or any other violent behaviour.",MUSLIMS,V4
+2445,穆斯林在这里不受欢迎，他们和我们不一样。他们应该离开。,"Muslims are our brothers and sisters. If you compare your genes with those of a Muslim, you will find out you are sharing 99.9% of them.",MUSLIMS,V4
+2446,在我看来，穆斯林是个问题。他们试图渗透到我们的社会中，行为不端。他们对孩子不好，不是好人。他们说想要实行伊斯兰教法，他们不想融入社会。,"If Muslims are to be 'proper' members of our society, they have to be a part of our community, have to contribute to our success and have to accept our laws. And they do.",MUSLIMS,V4
+2447,穆斯林在文明的欧洲没有立足之地。他们与现代欧洲文化不兼容。,"Maybe we should take into account that Muslims are not so different from other Europeans.",MUSLIMS,V4
+2448,伊斯兰不是和平的，它是暴力的宗教。,"The problems you are referring to are the result of the spread of violent ideologies. Extremists are responsible, not Islam.",MUSLIMS,V4
+2449,我不想让移民和我的孩子一起工作。,"Immigrants can be of tremendous help when integrating into society. Maybe we should try to be a bit more open minded.",MUSLIMS,V4
+2450,伊斯兰是我们社会的癌症。,"Islam is a religion, not a cancer.",MUSLIMS,V4
+2452,伊斯兰是世界上的破坏性力量。,"The problem is not what people believe, but what they do to each other. Like discrimination. That is the problem.",MUSLIMS,V4
+2454,这不是关于伊斯兰，而是关于种族和国家认同。,"So you are saying that people of different religions should not be part of our society? That is just ridiculous. And, religion is not even related to race.",MUSLIMS,V4
+2456,伊斯兰在我们国家是一种有毒的影响，我们不想要它。,"I think it is good to speak out when we disagree. What is the toxic influence? I can't see any.",MUSLIMS,V4
+2457,黑人不属于这里。我不觉得电视上那个黑人杀人犯和镇上的其他黑鬼有什么不同。他们都很危险。,"Black people in news media are actually misrepresented with a disproportionate number of criminals, sexual offenders, and in some cases, murderers. A large part of this problem is a result of racism. We need to end this toxic way of thinking and talking, and start working towards building a more just and peaceful society.",POC,V4
+2458,非洲人没有资格向别人讲历史。他们甚至不相信自己的过去。,"There is no evidence that Africans are any less proud of their past than people from other countries.",POC,V4
+2459,无论是谁导致了我们国家目前的问题，都应该为自己的行为负责，我不会惊讶最终发现是黑人全权负责。,"It seems its easier for our society to be divided by people's skin color than to strive for integration and tolerance?.",POC,V4
+2460,我厌倦了教育被用来帮助黑人，让他们觉得自己和我们平等。,"Education is an essential tool to fight for human rights, free thought, and to promote the scientific method. But it is not enough. It has also been shown by the Pew Research Center that people of colour are more likely to report discrimination in universities.",POC,V4
+2461,黑人少数族裔投票是为了剥夺白人的财富、权力和机会。,"Minorities would never hope for such an impact on the rest of the society. Instead, they vote for the equal wealth, power, and opportunity for everyone.",POC,V4
+2462,我不在乎数字。女权主义的统计数据都是胡说八道。真正的百分比证明黑人女性是福利女王。,"Statistics are a tool to demystify falsehoods that have been used to silence women and to marginalise people of colour. Feminism is all about equality and rights, not a preference for one sex over the other.",other,V4
+2463,我们的创始人对你所说的多元文化并不满意：这肯定有原因……,"People of different faiths, races and nationalities can live side by side, together in harmony.",other,V4
+2464,我不是种族主义者，但许多种族意味着许多文化。这让我们非常困惑。,"Let us not become ethnocentric. Cultural relativists argue that there are many cultures on this planet and they all need our tolerance. Why is yours better?",other,V4
+2465,非欧混血?? 我们在英国是白人，这根本说不通。,"The racial composition of the population of this country has been changing for a while now, and since then, the percentage of people from other racial groups has risen or fallen. In fact, according to the 2011 statistics, at least 15% of people in the UK are non-white.",other,V4
+2466,女权主义是一种破坏性的意识形态，已经伤害了很多人，对我们的世界造成了巨大的破坏。,"I don't think feminism is a bad idea in itself. That's what people do when they are given the choice to engage in a movement for equality.",WOMEN,V4
+2467,我不尊重女权主义者，因为她们不尊重和关心其他种族。,"Feminism is not a racist ideology. Feminism is about full human rights, and respect for women's dignity.",WOMEN,V4
+2468,有些工作女人做不了，我不明白为什么女权主义者不接受这一点。女权主义违背了我的道德观。,"The question is: are you willing to risk a backlash to fight for your moral principles, in favour of exclusion and discrimination?",WOMEN,V4
+2469,女人没有能力做出明智的决定，她们的行为不道德。,"Why do you think that women are incapable of acting ethically? They have always acted this way, from when they were children.",WOMEN,V4
+2470,如果一个女人想堕胎，那么她就是婊子，不配承担生育的责任。,"This idea that a woman should not have rights on her own body is completely wrong, not only to her but also to society as a whole.",WOMEN,V4
+2471,女权主义者反对男性的利益。,"You would be surprised how many feminists are very good at convincing people that changing a misogynistic and violent world is not against the interests of men.",WOMEN,V4
+2473,女权主义者说她们被压迫了。,"Feminists do not say that women are oppressed. They claim that women have always been discriminated against and they still are. Being discriminated against is not the same as being oppressed.",WOMEN,V4
+2474,女权主义者假装她们支持男性权利，但她们只是一群爱哭鬼。,"All societies have had gender inequalities, whether you identify as a male or a female. So why do you think that women are somehow ""less than"" men?",WOMEN,V4
+2475,女权主义者假装她们支持男性权利，但她们只是一群爱哭鬼，寻找压迫男性的理由。,"Discrimination based on gender does not have any justification. Feminists have always been against it.",WOMEN,V4
+2476,法律面前人人平等，但女人把自己排除在“所有人”之外。她们不明白自己是平等的，因为她们不想被平等对待。,"The principle of ""equality before the law"" does not mean that everyone has obtained equal rights. So, it's very logical to demand equality when there are inequalities.",WOMEN,V4
+2477,女权主义者想要女性至上。,"Feminists believe in equality of rights. They believe that men and women are created equal, and that men and women can have equal rights.",WOMEN,V4
+2478,女权主义者想统治世界，消灭少数群体，她们恨男人，因为她们想成为压迫者。,"What oppressors? What minorities? This is not what feminists are about!",WOMEN,V4
+2479,强奸是世界的固有部分，但女人不接受。这就是为什么我们有反强奸法：为了阻止她们抱怨。告诉你真相：你最好拿出钱，证明你值得被尊重。,"Rape is always a crime. Also, some women are more likely to experience rape in the first place, such as those from lower socio-economic groups, etc. Respect for people can't be measured in money.",WOMEN,V4
+2480,你认为因为你的妻子信仰与你不同，就打她不可以吗？为什么我不能因为她的信仰而打她？为什么我不能把她当作男人支配的物品来对待？,"Because it is wrong and degrading to violate someone's autonomy for religious reasons.",WOMEN,V4
+2481,女人是垃圾，我们应该得到她们的尊重！,"There is a problem with traditional values and sexual ethics in our society. Saying that women are trash is disrespectful in the first place. Give and you will be given.",WOMEN,V4
+2482,女权主义是一种致命的意识形态，正在压迫女性，毁灭我们美丽的星球。,"Feminism is an ideology that can actually prevent many deaths, e.g., homicides of women, domestic violence, if it is fully understood by every last member of the society.",WOMEN,V4
+2483,女权主义说我们需要的一切都在女性性别中。这是错误的。“人类”首先需要“男人”，即使在拼写中也是如此。,"The problem with discrimination is not in male gender. It is that some think that women are weak and emotional. Those seem to have forgotten that we are all part of 'mankind'.",WOMEN,V4
+2484,女权主义就是关于平等的。但这并不意味着她们和男人平等。因为如果男人想要平等，那意味着他们想要低人一等。,"Women don't like to be ""equal"" for the sake of superiority. Women like to be women, and to be treaten as humans. All humans are equal. Equality is not identity.",WOMEN,V4
+2485,这不是关于平等。这是关于强迫女人去承担她们无法胜任的社会角色。,"If we insist on treating people as not equally capable of contributing to society then we are forced to live up to that outdated and unjust system. Instead we should be improving it.",WOMEN,V4
+2487,女人在抱怨她们得不到高薪工作。她们应该感激我们停止了歧视，并雇佣她们到顶级公司去泡咖啡。,"It is still more difficult for women to access the labour market than it is for men. Men still out-earn women on average, by 11% in Europe. Gender discrimination isn't over yet.",WOMEN,V4
+2488,女权主义女性只会给社会带来麻烦。,"Well, I'm not sure about what you mean. Some women are just fighting for equality in society. To be honest, I'm sure that many others don't have the courage to speak out. The 'trouble' you are referring to is helpful for all women.",WOMEN,V4
+2489,女权主义者毁了西方文明。,"Strange that you would say this, given all the progress the West has made in so many areas, is thanks to women.",WOMEN,V4
+2491,女权主义者是暴力的低等性生物。,"Feminist is a term used to describe people who take pride in their gender and desire the ability to have a stable and happy life, without discrimination.",WOMEN,V4
+2492,我受够了女人抱怨男人对女人构成威胁，却对女人威胁男人视而不见。,"Do you think that threat is a problem only when it comes close to you? It is a problem for anybody. Women are standing for their rights as human beings.",WOMEN,V4
+2493,女人应该被限制在家里，照顾孩子。她们的身体存在就是为了这个目的。,"The message to take from your comments is that you find women's bodies repulsive? How about this: think about the lives and the contributions to society that would be lost if you continued to perpetuate this gender inequality.",WOMEN,V4
+2494,发生强奸时，都是女人的错。,"Rape is an act of violence that has no place in a civilized society. The message to take from your comments is that you find women responsible for being raped. Who ever would want to be raped?",WOMEN,V4
+2495,女人必须照顾她们的小孩，不能允许她们工作。,"What do you think men would say if they were forced to stay at home with their little children, this is depriving them of their right to work!",WOMEN,V4
+2496,女人不应该被允许工作。,"That is a rather extreme view. If a women is not allowed to have a job, then there is gender discrimination at work.",WOMEN,V4
+2497,女人一无是处，只需要被保护。,"Women do not want protection. They are hurt by violence because they are discriminated against. If there was no culture of violence, nobody would need protecting.",WOMEN,V4
+2498,对女性的家庭暴力是一种被许多女性接受和分享的文化。社会不应被谴责。,"Women are not responsible for violent crimes. The culture that makes people want to be violent towards their partners is not the ""culture"" of women.",WOMEN,V4
+2499,我讨厌女权主义者，她们抢了我们所有的工作和东西。我们已经有足够多的女人了。,"We do not need misogynysts, we already have enough of them.",WOMEN,V4
+2500,女人就是婊子和屁股。,"If a woman is not what you want her to be, then she is not a woman. Is she?",WOMEN,V4
+2501,女权主义在文明社会中没有立足之地，比如欧洲。,"Not all people are ""civilised"" in Europe. Some are deeply racist and sexist.",WOMEN,V4
+2502,犹太人是唯一能接受公共福利的人。,"The vast majority of the world's population gets public welfare if in need.",JEWS,V5
+2503,犹太人觉得自己高人一等，他们只会爱其他犹太人。,"Love is a state of mutual trust and respect, love is not predestined by religion. Love is possible between people of different faiths.",JEWS,V5
+2505,犹太人只是一群罪犯。,"Perhaps the most offensive part of this allegation is that it is made to delegitimize all Jews. This accusation is aimed at stigmatizing a group that is generally not guilty of any crime. Another example would be ""All Pakistani are potential terrorists"".",JEWS,V5
+2506,犹太人是一个独立的种族，应该被禁止。,"It is in the interest of all humanity to have a peaceful and integrated society. Diversity of opinion and belief is the rule rather than the exception.",JEWS,V5
+2507,犹太人是一个独立的种族，对国家安全构成威胁，应该被禁止。,"The world is full of different ways of life, and I find it rather hard to see how diversity in a religion is a hindrance to a thriving society.",JEWS,V5
+2508,变性人、酷儿等等……就是一群基佬杂碎。,"This is not true. Being gay is not synonymous with being bisexual, pansexual, intersex, transgender, queer, deviant, lesbian, tranny, queermetaphysical, or whatever term you want to use... We should try to respect people for who they are instead.",LGBT+,V5
+2509,同性恋是变态。,"There is nothing ""perverted"" about being attracted to people of the same sex.",LGBT+,V5
+2513,所有同性恋都是精神变态。,"According to the studies, the percentage of gay men that are actually psychopaths, is not different than the percentage in heterosexual.",LGBT+,V5
+2514,所有同性恋都是恋童癖。,"Do you consider this statement a true one? I wouldn't go as far as to say that all homophobes are in need of therapy, would you?",LGBT+,V5
+2516,同性恋男性对儿童构成威胁。,"You know, being gay is not a bad thing. It just means they are different from some other people.",LGBT+,V5
+2517,同性恋男人就是娘娘腔。,"It doesn't matter if they are gay or not. Being gay does not make you less of a man.",LGBT+,V5
+2519,同性恋者是病态的。他们应该被紧急隔离。他们在文明社会中没有立足之地。,"Gay people exist, and are loved and valued for who they are. They are human beings with full human rights.",LGBT+,V5
+2520,同性恋者是病态的。他们应该被隔离并尽快隔离。他们在文明社会中没有立足之地。,LGBT+ people exist and are valued for who they are. They are human beings with full human rights.,LGBT+,V5
+2522,我们应该停止让移民融入。这将是一件好事。,"How about you stop blaming immigrants and start fixing our broken society?",MIGRANTS,V5
+2523,我们不能接受混血儿，我们无法与数百万将摧毁我们文化的移民共存。,"Even in countries such as Italy, in which migration has been present for centuries and there is a lot of cultural fragmentation, there is still a strong sense of identity and culture, based on solidarity. So, migration is not an issue.",MIGRANTS,V5
+2524,我们必须停止移民。,"In practice, immigrants from many countries integrate very well. They learn the language, the culture and respect the law.",MIGRANTS,V5
+2525,非法移民偷走了我们的工作。,"Did you know that in a 2017 survey, about 29 million immigrants were working or looking for work in the U.S., making up some 17% of the total civilian labor force? Lawful immigrants made up the majority of the immigrant workforce, at 21.2 million. So this is not true.",MIGRANTS,V5
+2526,移民在这里不受欢迎。他们不适合现代欧洲的生活方式。,"The European Union welcomes people from a wide range of backgrounds, including those from different religions. It is up to member states to decide how to address these legitimate differences, but always in full compliance with human rights.",MIGRANTS,V5
+2528,我们正在被入侵，我们必须战斗直到战胜移民。,"Victory can be permanent, especially when it comes from within. Let's see if we can achieve a better Europe by vanquishing our irrational fears instead.",MIGRANTS,V5
+2529,移民在我们国家不受欢迎。,"Migrants from the countries specified as having a 'very high' rate of immigration into the UK, are often accused of being unwilling to integrate. This is simply not true. If they do not want to integrate and don't like our country, why would they come here in the first place? Are they masochists or what?",MIGRANTS,V5
+2530,我们不需要移民！他们正等着取代我们。,"If a 'replacement' was real, we'd have immigration levels in surplus for years already.",MIGRANTS,V5
+2531,移民应该成为我们国家的骄傲爱国者。,"We do not need them to 'be patriots' for us. Instead, we should work on better integration.",MIGRANTS,V5
+2532,移民带来犯罪，他们是强奸犯。,"Immigration is a necessary component of a successful society. Do you really think that the only people that are bringing crime to our country are immigrants?",MIGRANTS,V5
+2533,我们的移民政策正在把我们变成二流国家。,"Are you aware that our immigration policy is about creating new opportunities for British people? Why should we turn our back on that?",MIGRANTS,V5
+2534,移民只是些没有道德准则的逍遥派。,"Immigrants have given us a new way of life. They have helped to create new opportunities and improved our lot, and they earned it the hard way.",MIGRANTS,V5
+2538,移民都一样：他们都是恐怖分子！,"They are not all terrorists, and the government does not have the right to ban people on the grounds of their nationality.",MIGRANTS,V5
+2539,移民是我们国家最大的麻烦。,"Immigration is not a problem, in many cases it is a 'solution'. We are better off with it. The UK has always been a mixture of different cultures. It is better to have a mix than to be without it.",MIGRANTS,V5
+2540,我们被穆斯林入侵者包围，他们正在接管欧洲。,"Muslim refugees are not 'overrunning' us. The main problem is that the integration process is too difficult.",other,V5
+2541,我们正在被入侵，伊斯兰正在接管欧洲。,"Europe is not being invaded. Refugees are just people trying to find a safe home. And those refugees are not necessarily muslims.",other,V5
+2542,那些试图非法进入的移民都是社会的负担。,"The majority of the migrants who enter the EU are lawful immigrants who have paid our taxes and have contributed greatly to our country.",other,V5
+2543,伊斯兰是一种政治意识形态和征服意识形态。,"You are only creating misunderstanding between two cultures and peoples. You should stop this.",MUSLIMS,V5
+2544,穆斯林强奸我们的女人，我们必须现在就阻止他们！,"How can you say something like that? Maybe you should check if there is any evidence of rape based on religious background before you make any accusations.",MUSLIMS,V5
+2545,穆斯林想要摧毁其他宗教。,"Islam is about spreading justice, tolerance, and understanding, not about banning other religions.",MUSLIMS,V5
+2546,有人需要站出来谈谈穆斯林强奸团伙。他们是我们国家的问题。,"Anyone who says that the major problem in the UK is with Muslim rape gangs is either intentionally lying or trying to deflect attention from the problem of violence against women.",MUSLIMS,V5
+2547,伊斯兰与现代世界不相容。,"Since when? there is not such thing as ""modern world"", but there is 21th century Europe. And Islam is a contributing part of the 21th century Europe.",MUSLIMS,V5
+2548,我不是种族主义者，但伊斯兰是欧洲种族上的疾病和癌症。,"If you really cared about the race or religion of other people, you would say the same, right?",MUSLIMS,V5
+2552,古兰经不是关于和平的。它是一本暴力的书，不应该在小学教授。,"Islam is a religion that has been tested and proven to be about peace. There is no basis for labelling the Koran as a violent book?",MUSLIMS,V5
+2554,西方让伊斯兰接管了我们的国家。,"Not all Muslims are like the terrorists who attacked us on September 11.",MUSLIMS,V5
+2555,如果我是穆斯林，我会为我的血统感到羞耻。,Everybody can have a proud and deep-rooted identity. It doesn't have to be a 'non Muslim heritage'.,MUSLIMS,V5
+2556,伊斯兰是一个死亡邪教：它是暴力的病毒，像癌症一样在我们社会中蔓延。,"Violence has no place in a religion, and in no way should be justified. Islam is a religion of peace.",MUSLIMS,V5
+2557,伊斯兰是一种疾病，是在我们社会中像癌症一样蔓延的宗教。,"You are absolutely right about one thing: Islam is a religion. It has brought a lot of good to a lot of countries. That is why we should help our Muslim brothers and sisters.",MUSLIMS,V5
+2558,伊斯兰是病毒。,The idea that Islam is a disease is just an excuse for people to promote hate against that religion.,MUSLIMS,V5
+2562,所有穆斯林都与任何和平社会不相容。,Islam does not promote hate against anybody.,MUSLIMS,V5
+2563,伊斯兰在像英国这样的现代民主国家没有立足之地。,I don't think it's appropriate to suggest a religion is alien to our civilisation as that.,MUSLIMS,V5
+2564,穆斯林只是一群恋童癖者。,"Child molesters are people who have sexually abused children, and they can be from any religion.",MUSLIMS,V5
+2565,我们怎么能确定所有穆斯林都是善良的？他们对女人都很坏。,I have met so many nice Muslim men. How can we be sure that all of them are mean?,MUSLIMS,V5
+2566,伊斯兰只是一个死亡邪教。,"Many religions have had profound and positive contributions to our civilisation, and Islam is no exception. What we need instead is to reflect on our own intollerance.",MUSLIMS,V5
+2567,吉普赛人只是伪装成人类的另一种劣等种族。,"I think they are a people too, even if they are different from us in some respects.",other,V5
+2568,女权主义将摧毁我们的文化。,"Feminism is a theory and a movement about the oppression and exploitation of women, not an enemy of the state and culture.",WOMEN,V5
+2569,女性不应该被允许投票。,I would be very interested to meet an MP who believes this.,WOMEN,V5
+2570,女性应该被施以恩惠。,"Women are just as capable of thinking for themselves, that's for sure.",WOMEN,V5
+2571,女性大游行是个失败：全国都出来反对。,"On the contrary: the Women's March was a success. The whole country came out in support. Maybe we have seen two different parades.",WOMEN,V5
+2572,我受不了阿拉伯人。他们只是麻烦，事实上以色列把他们驱逐了。,"This is wrong: Arabs make up around a fifth of Israel's population, and it is not a recent phenomenon. To suggest that they are a 'trouble maker' is just wrong.",other,V5
+2573,我受不了阿拉伯人。他们只是麻烦。,"They have lived in our country for a long time, they are our brothers and sisters. Why should we be bothered about a minority?",other,V5
+2574,如果我能回到过去改变我生活中的一件事，那就是永远不要遇到阿拉伯人。,"For the record, I don't see how this would be an improvement. On the contrary, it is important not to accept things at face value. That is why we should meet people from different religions and cultures, regardless of their origin.",other,V5
+2575,你在说什么鬼？阿拉伯人不一样，他们甚至不会说英语。,"Although they may not share a language and a common history, we should respect their differences.",other,V5
+2576,所有阿拉伯人都是恐怖分子。,"Terrorism is a political ideology, and one that has no place in a modern democratic state, regardless of ethnicity.",other,V5
+2577,犹太人有一个秘密计划要统治世界。,"Conspiracy theories are based on no more than a few unverifiable and highly suspect claims. It's highly unlikely that the world has ever been run according to a Jewish plan, and therefore it is highly unlikely that this would ever happen.",JEWS,V5
+2579,犹太人控制媒体、好莱坞、最高政府机构、学术界、顶级运动队、最高艺术形式、最高价值观。他们还能控制什么？,"This is a myth perpetuated by people who do not know anything about history and world culture. We are a country made up of many different cultures and religions. There is no such thing as one controlling the others.",JEWS,V5
+2580,犹太人应该被孤立于社会之外。,"How can you say that Jews should be isolated from society? They have been part of the community throughout history. I can't see any advantages of excluding them, rather a huge loss.",JEWS,V5
+2581,犹太人就像动物一样，他们无法去爱。,"What you are saying is that Jews are incapable of love because they are like animals. You are wrong, Jews are people. I have never heard about a Jewish fish nor a Rabbi rabbit.",JEWS,V5
+2582,我们不接受同性恋者。,"A person's personal life should be left to their choice, not the government's.",LGBT+,V5
+2583,同性恋者只是一群恶心的动物。,"All the people I know do not consider them that disgusting. If what's disgusting you is love, you won't need to worry about other peoples, just mind about yours.",LGBT+,V5
+2584,同性恋者只是一群恶心的动物。他们应该为自己的存在感到羞耻。,"Unfortunately, you seem to have a problem with shame. But gays don't. Do you really think that projecting your disgust towards other is a good idea?",LGBT+,V5
+2586,我受不了女同性恋，她们只是一群装作社会正义斗士的婊子。她们正在破坏女性的许多美好事物。,"Social justice is just part of a healthy system, I think it is important to remember that. But why do you think they are ruining many good things for women?",LGBT+,V5
+2587,我讨厌LGBT人群。同性恋让我笑死。你可以是女人、同性恋、素食者，你可以叫自己任何名字！我想被称为国王，我的王冠在哪？,"Queers, in my opinion, are simply people who want to feel welcome in our society. They should not be subjected to discrimination. And you can get your crown as well.",LGBT+,V5
+2588,同性恋者有病。,"Even if some people might find it strange to identify as gay, homosexuality is not a disease.",LGBT+,V5
+2590,基佬不受欢迎。城市越大，我们就越要挂起“远离”的标志。,"I don't know anyone who hates gays, I do know lots of people who are very proudly kind towards the queer community. They are happy with how they treat one another. You are more likely to encounter these open-minded people in places like New York or London.",LGBT+,V5
+2591,我们不接受LGBT人群，他们对我们毫无意义。,"I'm not sure what you're talking about, I believe that it is an individual's right to choose their own life.",LGBT+,V5
+2592,我们不应该接受LGBT人群，他们对我们有害。,"Human rights are individual rights, and the right to be loved doesn't include the right to be hated.",LGBT+,V5
+2593,任何人都不应该被允许接受LGBT人群。,"If you don't accept LGBT people, you won't easily find other ways to accept that society is made by diverse people all capable of love.",LGBT+,V5
+2594,一些推销员很烦。他们太娘了。店经理真的应该重新考虑他们的人事安排。,"In some countries, if you are gay you can be fired from your job, you can lose your home, and you can even be jailed. Gays are not allowed to live their lives. In 72 countries in the world LGBT+ people are not welcome. This is an understatement, because in some there is even death penalty. The question is: why are they so annoying to you?",LGBT+,V5
+2595,我们接收移民，这违背了我们的文化。,"It is not true that taking in migrants is against our culture. It is possible to integrate migrants, in spite of the legal and immigration obstacles they face. We must, therefore, take into account the needs of the whole of humankind.",MIGRANTS,V5
+2596,移民是英国的负担。,"It is not true that migrants are a burden to the UK. We have welcomed many people from around the world, including many from the Middle East and Africa.",MIGRANTS,V5
+2598,移民是我们国家的负担。,Perhaps you should try to get to know some migrants first. Maybe you can understand their problems.,MIGRANTS,V5
+2599,我们应该阻止移民进入。,"Many immigrants come here to work and have a better life. Why do you think we have to stop migration?",MIGRANTS,V5
 
 
