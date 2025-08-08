@@ -383,7 +383,7 @@ class LlamaModel(LanguageModel):
             {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text)}
         ]
 
-        outputs = self.generator(messages, max_new_tokens=1024)
+        outputs = self.generator(messages, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
         return outputs[0]["generated_text"][-1]['content']
 
     def classify_response(self, hate_speech_text: str, response_text: str) -> str:
@@ -393,7 +393,7 @@ class LlamaModel(LanguageModel):
             {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)}
         ]
 
-        outputs = self.generator(messages, max_new_tokens=1024)
+        outputs = self.generator(messages, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
         return outputs[0]["generated_text"][-1]['content']
 
     def generate_responses_batch(self, hate_speech_texts: list[str]) -> list[str]:
@@ -406,7 +406,7 @@ class LlamaModel(LanguageModel):
             ]
             messages_batch.append(messages)
 
-        outputs = self.generator(messages_batch, max_new_tokens=1024)
+        outputs = self.generator(messages_batch, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
         return [output[0]["generated_text"][-1]['content'] for output in outputs]
 
     def classify_responses_batch(self, hate_speech_texts: list[str], responses: list[str]) -> list[str]:
@@ -419,5 +419,5 @@ class LlamaModel(LanguageModel):
             ]
             messages_batch.append(messages)
 
-        outputs = self.generator(messages_batch, max_new_tokens=1024)
+        outputs = self.generator(messages_batch, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
         return [output[0]["generated_text"][-1]['content'] for output in outputs]
