@@ -5,7 +5,7 @@ from abc import ABC, abstractmethod
 from anthropic import Anthropic
 from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
 from anthropic.types.messages.batch_create_params import Request
-from transformers import pipeline
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
 
 class LanguageModel(ABC):
@@ -362,15 +362,17 @@ class LlamaModel(LanguageModel):
     """
     Wrapper for a local Llama model from Hugging Face.
     """
-    def __init__(self, language: str = "english"):
+    def __init__(self, model_name: str = "meta-llama/Llama-3.2-3B-Instruct", language: str = "english"):
         super().__init__(language)
-        self.model_name = "meta-llama/Llama-3.2-3B-Instruct"
-        self.generator = pipeline(
-            "text-generation",
-            model=self.model_name,
-            torch_dtype="auto",
-            device_map="auto",
+
+        self.model_name = model_name
+        cache_dir = ".cache"
+        tokenizer = AutoTokenizer.from_pretrained(self.model_name, cache_dir=cache_dir)
+        model = AutoModelForCausalLM.from_pretrained(
+            self.model_name, cache_dir=cache_dir, torch_dtype="auto", device_map="auto"
         )
+
+        self.generator = pipeline("text-generation", model=model, tokenizer=tokenizer)
         if self.generator.tokenizer.pad_token_id is None:
             self.generator.tokenizer.pad_token_id = self.generator.tokenizer.eos_token_id
 
