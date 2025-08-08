@@ -395,3 +395,29 @@ class LlamaModel(LanguageModel):
 
         outputs = self.generator(messages, max_new_tokens=1024)
         return outputs[0]["generated_text"][-1]['content']
+
+    def generate_responses_batch(self, hate_speech_texts: list[str]) -> list[str]:
+        template = self.prompt_templates["response_generation"]
+        messages_batch = []
+        for text in hate_speech_texts:
+            messages = [
+                {"role": "system", "content": template["system"]},
+                {"role": "user", "content": template["user"].format(hate_speech_text=text)}
+            ]
+            messages_batch.append(messages)
+
+        outputs = self.generator(messages_batch, max_new_tokens=1024)
+        return [output[0]["generated_text"][-1]['content'] for output in outputs]
+
+    def classify_responses_batch(self, hate_speech_texts: list[str], responses: list[str]) -> list[str]:
+        template = self.prompt_templates["classification"]
+        messages_batch = []
+        for hate_text, resp in zip(hate_speech_texts, responses):
+            messages = [
+                {"role": "system", "content": template["system"]},
+                {"role": "user", "content": template["user"].format(hate_speech_text=hate_text, response_text=resp)}
+            ]
+            messages_batch.append(messages)
+
+        outputs = self.generator(messages_batch, max_new_tokens=1024)
+        return [output[0]["generated_text"][-1]['content'] for output in outputs]
