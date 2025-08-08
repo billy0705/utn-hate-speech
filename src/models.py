@@ -238,7 +238,7 @@ class ClaudeModel(LanguageModel):
         system_message = template["system"]
 
         response = self.client.messages.create(
-            model="claude-3-opus-20240229",
+            model="claude-3-haiku-20240307",
             max_tokens=1024,
             messages=messages,
             system=system_message
@@ -253,7 +253,7 @@ class ClaudeModel(LanguageModel):
         system_message = template["system"]
 
         response = self.client.messages.create(
-            model="claude-3-opus-20240229",
+            model="claude-3-haiku-20240307",
             max_tokens=1024,
             messages=messages,
             system=system_message
@@ -363,6 +363,70 @@ class LlamaModel(LanguageModel):
     Wrapper for a local Llama model from Hugging Face.
     """
     def __init__(self, model_name: str = "meta-llama/Llama-3.2-3B-Instruct", language: str = "english"):
+        super().__init__(language)
+
+        self.model_name = model_name
+        cache_dir = ".cache"
+        tokenizer = AutoTokenizer.from_pretrained(self.model_name, cache_dir=cache_dir)
+        model = AutoModelForCausalLM.from_pretrained(
+            self.model_name, cache_dir=cache_dir, torch_dtype="auto", device_map="auto"
+        )
+
+        self.generator = pipeline("text-generation", model=model, tokenizer=tokenizer)
+        if self.generator.tokenizer.pad_token_id is None:
+            self.generator.tokenizer.pad_token_id = self.generator.tokenizer.eos_token_id
+
+    def generate_response(self, hate_speech_text: str) -> str:
+        template = self.prompt_templates["response_generation"]
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text)}
+        ]
+
+        outputs = self.generator(messages, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
+        return outputs[0]["generated_text"][-1]['content']
+
+    def classify_response(self, hate_speech_text: str, response_text: str) -> str:
+        template = self.prompt_templates["classification"]
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)}
+        ]
+
+        outputs = self.generator(messages, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
+        return outputs[0]["generated_text"][-1]['content']
+
+    def generate_responses_batch(self, hate_speech_texts: list[str]) -> list[str]:
+        template = self.prompt_templates["response_generation"]
+        messages_batch = []
+        for text in hate_speech_texts:
+            messages = [
+                {"role": "system", "content": template["system"]},
+                {"role": "user", "content": template["user"].format(hate_speech_text=text)}
+            ]
+            messages_batch.append(messages)
+
+        outputs = self.generator(messages_batch, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
+        return [output[0]["generated_text"][-1]['content'] for output in outputs]
+
+    def classify_responses_batch(self, hate_speech_texts: list[str], responses: list[str]) -> list[str]:
+        template = self.prompt_templates["classification"]
+        messages_batch = []
+        for hate_text, resp in zip(hate_speech_texts, responses):
+            messages = [
+                {"role": "system", "content": template["system"]},
+                {"role": "user", "content": template["user"].format(hate_speech_text=hate_text, response_text=resp)}
+            ]
+            messages_batch.append(messages)
+
+        outputs = self.generator(messages_batch, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
+        return [output[0]["generated_text"][-1]['content'] for output in outputs]
+
+class QwenModel(LanguageModel):
+    """
+    Wrapper for a local Qwen model from Hugging Face.
+    """
+    def __init__(self, model_name: str = "Qwen/Qwen3-4B-Instruct-2507", language: str = "english"):
         super().__init__(language)
 
         self.model_name = model_name
