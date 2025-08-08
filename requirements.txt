@@ -3,3 +3,6 @@ pandas
 anthropic
 matplotlib
 seaborn
+transformers
+torch
+accelerate

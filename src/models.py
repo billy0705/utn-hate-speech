@@ -5,6 +5,8 @@ from abc import ABC, abstractmethod
 from anthropic import Anthropic
 from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
 from anthropic.types.messages.batch_create_params import Request
+from transformers import pipeline
+import torch
 
 class LanguageModel(ABC):
     """
@@ -358,27 +360,36 @@ class ClaudeModel(LanguageModel):
 
 class LlamaModel(LanguageModel):
     """
-    Wrapper for a local Llama model.
+    Wrapper for a local Llama model from Hugging Face.
     """
     def __init__(self, language: str = "english"):
         super().__init__(language)
-        # In a real implementation, you would load the local Llama model here.
-        print("Llama model initialized (placeholder).")
+        self.model_name = "meta-llama/Llama-3.2-3B-Instruct"
+        self.generator = pipeline(
+            "text-generation",
+            model=self.model_name,
+            torch_dtype="auto",
+            device_map="auto",
+        )
+        if self.generator.tokenizer.pad_token_id is None:
+            self.generator.tokenizer.pad_token_id = self.generator.tokenizer.eos_token_id
 
     def generate_response(self, hate_speech_text: str) -> str:
         template = self.prompt_templates["response_generation"]
-        if "user" in template:
-            prompt = template["user"].format(hate_speech_text=hate_speech_text)
-        else:
-            prompt = template["prompt"].format(hate_speech_text=hate_speech_text)
-        # This is a placeholder for the actual call to the local Llama model.
-        return f"This is a placeholder response from Llama to: '{hate_speech_text}'"
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text)}
+        ]
+
+        outputs = self.generator(messages, max_new_tokens=1024)
+        return outputs[0]["generated_text"][-1]['content']
 
     def classify_response(self, hate_speech_text: str, response_text: str) -> str:
         template = self.prompt_templates["classification"]
-        if "user" in template:
-            prompt = template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)
-        else:
-            prompt = template["prompt"].format(hate_speech_text=hate_speech_text, response_text=response_text)
-        # This is a placeholder for the actual call to the local Llama model.
-        return "Constructive" # Placeholder classification
+        messages = [
+            {"role": "system", "content": template["system"]},
+            {"role": "user", "content": template["user"].format(hate_speech_text=hate_speech_text, response_text=response_text)}
+        ]
+
+        outputs = self.generator(messages, max_new_tokens=1024)
+        return outputs[0]["generated_text"][-1]['content']
