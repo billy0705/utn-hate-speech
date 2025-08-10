@@ -405,7 +405,7 @@ class HFModel(LanguageModel):
                 {"role": "user", "content": template["user"].format(hate_speech_text=text)}
             ]
             messages_batch.append(messages)
-
+        print(f"\nGenerating {len(messages_batch)} responses in batch...")
         outputs = self.generator(messages_batch, max_new_tokens=1024, pad_token_id=self.generator.tokenizer.pad_token_id)
         return [output[0]["generated_text"][-1]['content'] for output in outputs]
 

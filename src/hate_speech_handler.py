@@ -1,5 +1,5 @@
 import os
-from src.models import LanguageModel, ChatGPTModel, DeepSeekModel, ClaudeModel, LlamaModel
+from src.models import LanguageModel, HFModel
 
 def load_env_vars(env_path=".env"):
     env_vars = {}
@@ -55,13 +55,9 @@ if __name__ == '__main__':
     env_vars = load_env_vars()
     openai_api_key = env_vars.get("OPENAI_API_KEY")
 
-    # Example usage with ChatGPT
-    chatgpt_model = ChatGPTModel(api_key=openai_api_key, language="english")
-    handler = HateSpeechHandler(model=chatgpt_model)
-    
-    # Example with Llama (no API key needed for local models)
-    # llama_model = LlamaModel(language="english")
-    # handler = HateSpeechHandler(model=llama_model)
+    # Example usage with LLama
+    llama_model = HFModel(model_name="meta-llama/Llama-3.2-3B-Instruct")
+    handler = HateSpeechHandler(model=llama_model)
 
     hate_speech = "This is a hateful comment."
     

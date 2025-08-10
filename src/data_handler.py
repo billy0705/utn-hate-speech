@@ -125,6 +125,8 @@ class DataHandler:
                 sample_id = row['Sample_ID']
                 hate_text = row['Text']
 
+                print(f"\rProcessing Sample_ID: {sample_id} in language {lang}", end='')
+
                 if (sample_id, model_name) in existing_responses:
                     print(f"Skipping Sample_ID {sample_id} for model {model_name} as it already exists.")
                     continue
