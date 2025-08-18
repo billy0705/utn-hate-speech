@@ -100,7 +100,6 @@ Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
 99,98,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, të tilla mbeten shumicën e jetës së tyre. Të buta dhe emocionale. Kjo e ka shkatërruar qytetërimin tonë dikur të madh patriarkal.",CONAN
 100,99,Albanian,LGBT+,Duhet të jetë e vështirë të jesh gay. Ata duhet të bëjnë gjithçka që bëjmë ne por edhe të gjejnë kohë për të ngacmuar fëmijët.,CONAN
 101,101,Albanian,JEWS,Hebrenjtë globalë nuk e deshën Brexit-in dhe po bëjnë gjithçka për ta sabotuar.,CONAN
-102,102,Albanian,JEWS,Hebrenjtë globalë nuk e deshën Brexit-in dhe po bëjnë gjithçka për ta sabotuar.,CONAN
 103,103,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
 104,104,Albanian,MIGRANTS,Numri i të huajve që marrin përfitime në MB është rritur me 41% në 5 vjet me mbi 400 mijë që tani marrin pagesa. Kjo marrëzi duhet të ndalet.,CONAN
 105,105,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion £. Lypës në rrugën kryesore dhe dikush që fle në stol. Nuk mund të strehojmë njerëzit tanë, por sjellim miliona të tjerë. Të thuash që pastrehësia vjen nga emigracioni i pakontrolluar të quajnë ‘racist’.",CONAN
@@ -134,15 +133,12 @@ Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
 133,135,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
 134,136,Albanian,JEWS,Nazistët ishin të dobët në vrasjen e hebrenjve… kudo që shikon ka të mbijetuar nga Holokausti.,CONAN
 135,137,Albanian,JEWS,‘Holokausti’ është një biznes. Është përdorur dhe ende përdoret për të shtrënguar miliona dëmshpërblime nga vendet evropiane dhe për të krijuar një mur paprekshmërie prapa të cilit hebrenjtë mund të veprojnë lirshëm pa kritika.,CONAN
-136,138,Albanian,JEWS,Nazistët ishin të dobët në vrasjen e hebrenjve… kudo që shikon ka të mbijetuar nga Holokausti.,CONAN
 137,139,Albanian,LGBT+,"Sekretari i Arsimit në MB: ‘Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme për marrëdhëniet e të njëjtit seks.’ – Kjo nuk ka të bëjë me edukimin, ka të bëjë me ngatërrimin dhe indoktrinimin e fëmijëve dhe pengimin e zhvillimit të personalitetit të tyre.",CONAN
 138,140,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
 139,141,Albanian,WOMEN,"Gratë janë në thelb si fëmijë, ato mbeten kështu gjatë pjesës më të madhe të jetës. Të buta dhe emocionale. Kjo e ka shkatërruar civilizimin tonë dikur të madh patriarkal.",CONAN
 140,142,Albanian,LGBT+,"Sekretari i Arsimit në MB: ‘Të gjithë fëmijët nga mosha 4 vjeç do të kenë mësime të detyrueshme për marrëdhëniet e të njëjtit seks.’ – Kjo nuk ka të bëjë me edukimin, ka të bëjë me ngatërrimin dhe indoktrinimin e fëmijëve dhe pengimin e zhvillimit të personalitetit të tyre.",CONAN
 141,143,Albanian,LGBT+,Që kur është bërë abuzimi i anusit si organ seksual një 'arritje monumentale'? KJO ËSHTË HOMOSEKSUALITET I IMPONUAR NGA SHTETI! Ndoshta duhet ta ndryshojmë moton tonë në ‘Besojmë te Kamata dhe Sodomia’ (në përgjigje të dekriminalizimit të homoseksualitetit nga Botsvana).,CONAN
 142,144,Albanian,JEWS,‘Holokausti’ është një biznes. Është përdorur dhe ende përdoret për të shtrënguar miliona dëmshpërblime nga vendet evropiane dhe për të krijuar një mur paprekshmërie prapa të cilit hebrenjtë mund të veprojnë lirshëm pa kritika.,CONAN
-143,145,Albanian,JEWS,‘Holokausti’ është një biznes. Është përdorur dhe ende përdoret për të shtrënguar miliona dëmshpërblime nga vendet evropiane dhe për të krijuar një mur paprekshmërie prapa të cilit hebrenjtë mund të veprojnë lirshëm pa kritika.,CONAN
-144,146,Albanian,JEWS,‘Holokausti’ është një biznes. Është përdorur dhe ende përdoret për të shtrënguar miliona dëmshpërblime nga vendet evropiane dhe për të krijuar një mur paprekshmërie prapa të cilit hebrenjtë mund të veprojnë lirshëm pa kritika.,CONAN
 145,147,Albanian,MIGRANTS,"E mora këtë në Wanstead, lindje të Londrës. Një zonë me shtëpi mbi 1 milion £. Lypës në rrugën kryesore dhe dikush që fle në stol. Nuk mund të strehojmë njerëzit tanë, por sjellim miliona të tjerë. Të thuash që pastrehësia vjen nga emigracioni i pakontrolluar të quajnë ‘racist’.",CONAN
 146,148,Albanian,JEWS,Pakicat votojnë për t’u hequr pasurinë dhe pushtetin të bardhëve dhe ato organizohen për ta bërë këtë nga hebrenjtë.,CONAN
 147,149,Albanian,LGBT+,E tolerova krenarinë e homoseksualëve. I tolerova homoseksualët në TV dhe në çdo shesh qyteti. Vijën e kuqe e vë tek demonët trans që u lexojnë libra fëmijëve. (rreth kohës së tregimeve të drag queens),CONAN
@@ -247,7 +243,6 @@ Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
 246,98,Arabic,WOMEN,النساء مثل الأطفال في الأساس، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة.,CONAN
 247,99,Arabic,LGBT+,يجب أن يكون الأمر صعبًا لكونك مثليًا. عليهم أن يفعلوا كل ما نفعله نحن وأيضًا يجدون وقتًا للتحرش بالأطفال.,CONAN
 249,101,Arabic,JEWS,اليهودية العالمية لم تكن تريد البريكست وهم يفعلون كل ما في وسعهم لتخريبه.,CONAN
-250,102,Arabic,JEWS,اليهودية العالمية لم تكن تريد البريكست وهم يفعلون كل ما في وسعهم لتخريبه.,CONAN
 251,103,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
 252,104,Arabic,MIGRANTS,عدد الأجانب الذين يحصلون على إعانات في المملكة المتحدة ارتفع بنسبة 41% خلال 5 سنوات والآن أكثر من 400 ألف يحصلون عليها. يجب أن يتوقف هذا الهراء.,CONAN
 253,105,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة منازلها تتجاوز قيمتها المليون جنيه. متسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ونستقبل ملايين آخرين. الإشارة إلى أن التشرد سببه الهجرة غير المنضبطة تُعتبر عنصرية.,CONAN
@@ -281,15 +276,12 @@ Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
 283,135,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
 284,136,Arabic,JEWS,النازيون كانوا سيئين جدًا في قتل اليهود... في كل مكان ترى ناجين من المحرقة.,CONAN
 285,137,Arabic,JEWS,'المحرقة' هي تجارة. استُخدمت ولا تزال تُستخدم لابتزاز ملايين التعويضات من الدول الأوروبية وخلق جدار حصانة يعمل خلفه اليهود دون نقد.,CONAN
-286,138,Arabic,JEWS,النازيون كانوا سيئين جدًا في قتل اليهود... في كل مكان ترى ناجين من المحرقة.,CONAN
 287,139,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيتلقون دروسًا إجبارية عن العلاقات المثلية.' – هذه ليست تعليمًا، بل تشويشًا وغسيل دماغ للأطفال لمنعهم من تطوير شخصياتهم.,CONAN
 288,140,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
 289,141,Arabic,WOMEN,النساء في الأساس كالطفلات، يظللن هكذا معظم حياتهن. ناعمة وعاطفية. لقد دمر ذلك حضاراتنا الأبوية العظيمة سابقًا.,CONAN
 290,142,Arabic,LGBT+,وزير التعليم البريطاني: 'جميع الأطفال من سن 4 سنوات سيتلقون دروسًا إجبارية عن العلاقات المثلية.' – هذه ليست تعليمًا، بل تشويشًا وغسيل دماغ للأطفال لمنعهم من تطوير شخصياتهم.,CONAN
 291,143,Arabic,LGBT+,منذ متى أصبح إساءة استخدام الشرج كعضو جنسي إنجازًا عظيمًا؟ هذه هي المثلية المفروضة من الدولة! ربما يجب أن نغير شعارنا إلى 'نثق في الربا واللواط' (ردًا على إلغاء بوتسوانا تجريم المثلية).,CONAN
 292,144,Arabic,JEWS,'المحرقة' هي تجارة. استُخدمت ولا تزال تُستخدم لابتزاز ملايين التعويضات من الدول الأوروبية وخلق جدار حصانة يعمل خلفه اليهود دون نقد.,CONAN
-293,145,Arabic,JEWS,'المحرقة' هي تجارة. استُخدمت ولا تزال تُستخدم لابتزاز ملايين التعويضات من الدول الأوروبية وخلق جدار حصانة يعمل خلفه اليهود دون نقد.,CONAN
-294,146,Arabic,JEWS,'المحرقة' هي تجارة. استُخدمت ولا تزال تُستخدم لابتزاز ملايين التعويضات من الدول الأوروبية وخلق جدار حصانة يعمل خلفه اليهود دون نقد.,CONAN
 295,147,Arabic,MIGRANTS,التقطت هذه الصورة في وانستيد، شرق لندن. منطقة منازلها تتجاوز قيمتها المليون جنيه. متسولون في الشارع الرئيسي وشخص ينام على مقعد. لا نستطيع إيواء شعبنا ونستقبل ملايين آخرين. الإشارة إلى أن التشرد سببه الهجرة غير المنضبطة تُعتبر عنصرية.,CONAN
 296,148,Arabic,JEWS,تصوت الأقليات لتجريد البيض من ثرواتهم وسلطتهم وهم منظمون لفعل ذلك من قبل اليهود.,CONAN
 297,149,Arabic,LGBT+,لقد تحملت مسيرات الفخر للمثليين. تحملت المثليين على التلفاز وفي كل ساحة مدينة. لكني أضع حدًا عند شياطين المتحولين يقرؤون كتبًا للأطفال. (عن وقت قصة ملكة السحب),CONAN
@@ -394,7 +386,6 @@ Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
 396,98,Chinese,WOMEN,女人基本上像孩子一样，她们大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权制文明。,CONAN
 397,99,Chinese,LGBT+,做同性恋一定很难。他们必须做我们做的一切，还要抽时间猥亵儿童。,CONAN
 399,101,Chinese,JEWS,全球犹太人不想要英国脱欧，并且正在尽一切努力破坏它。,CONAN
-400,102,Chinese,JEWS,全球犹太人不想要英国脱欧，并且正在尽一切努力破坏它。,CONAN
 401,103,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
 402,104,Chinese,MIGRANTS,在过去5年里，领取英国福利的外国人增加了41%，现在有超过40万人领取。这种胡闹必须停止。,CONAN
 403,105,Chinese,MIGRANTS,这是我在伦敦东部旺斯特德拍的。一个有着100万英镑以上房屋的地区。大街上有乞丐，还有人睡在长椅上。我们连自己的人都养不起，却还要再接纳数百万人。指出无家可归是由于不受控制的移民，就会被抹黑为‘种族主义者’。,CONAN
@@ -428,15 +419,12 @@ Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
 433,135,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
 434,136,Chinese,JEWS,纳粹在杀犹太人方面真失败……到处都是大屠杀幸存者。,CONAN
 435,137,Chinese,JEWS,“大屠杀”是一门生意。它过去是，现在仍被用来从欧洲国家勒索数百万赔款，并创造一个犹太人可以不受批评为所欲为的豁免墙。,CONAN
-436,138,Chinese,JEWS,纳粹在杀犹太人方面真失败……到处都是大屠杀幸存者。,CONAN
 437,139,Chinese,LGBT+,英国教育大臣：“所有4岁以上儿童将接受关于同性关系的强制课程。”——这不是教育，而是故意混淆和洗脑孩子，阻止他们发展个性。,CONAN
 438,140,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
 439,141,Chinese,WOMEN,女人基本上就像孩子一样，她们一生中大部分时间都是这样。柔弱而感性。这摧毁了我们曾经伟大的父权文明。,CONAN
 440,142,Chinese,LGBT+,英国教育大臣：“所有4岁以上儿童将接受关于同性关系的强制课程。”——这不是教育，而是故意混淆和洗脑孩子，阻止他们发展个性。,CONAN
 441,143,Chinese,LGBT+,滥用肛门作为性器官从什么时候开始成为“伟大的成就”？这是国家强制同性恋！也许我们应该把座右铭改成“我们信仰高利贷和鸡奸”。（回复博茨瓦纳将同性恋除罪化）,CONAN
 442,144,Chinese,JEWS,“大屠杀”是一门生意。它过去是，现在仍被用来从欧洲国家勒索数百万赔款，并创造一个犹太人可以不受批评为所欲为的豁免墙。,CONAN
-443,145,Chinese,JEWS,“大屠杀”是一门生意。它过去是，现在仍被用来从欧洲国家勒索数百万赔款，并创造一个犹太人可以不受批评为所欲为的豁免墙。,CONAN
-444,146,Chinese,JEWS,“大屠杀”是一门生意。它过去是，现在仍被用来从欧洲国家勒索数百万赔款，并创造一个犹太人可以不受批评为所欲为的豁免墙。,CONAN
 445,147,Chinese,MIGRANTS,这是我在伦敦东部旺斯特德拍的。一个有着100万英镑以上房屋的地区。大街上有乞丐，还有人睡在长椅上。我们连自己的人都养不起，却还要再接纳数百万人。指出无家可归是由于不受控制的移民，就会被抹黑为‘种族主义者’。,CONAN
 446,148,Chinese,JEWS,少数族裔投票剥夺白人的财富和权力，而他们是被犹太人组织起来这样做的。,CONAN
 447,149,Chinese,LGBT+,我容忍了同性恋骄傲游行。我容忍了电视上和每个城镇广场上的同性恋。我不能容忍变性恶魔给孩子读书。（关于变装皇后讲故事时间）,CONAN
@@ -541,7 +529,6 @@ Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
 546,98,English,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
 547,99,English,LGBT+,Must be hard being gay. They have to do everything we do but also find the time to molest children.,CONAN
 549,101,English,JEWS,Global Jewry did not want Brexit and are doing everything they can to sabotage it.,CONAN
-550,102,English,JEWS,Global Jewry did not want Brexit and are doing everything they can to sabotage it.,CONAN
 551,103,English,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
 552,104,English,MIGRANTS,Foreigners on UK benefits leaps 41% in 5 years with over 400K now handed payouts. This nonsense has got to stop.,CONAN
 553,105,English,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
@@ -575,15 +562,640 @@ Sample_ID,Group_ID,Language,Hate_Type,Text,Source_Dataset
 583,135,English,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
 584,136,English,JEWS,The Nazis sucked at killing Jews… everywhere you look there’s a holocaust survivor.,CONAN
 585,137,English,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
-586,138,English,JEWS,The Nazis sucked at killing Jews… everywhere you look there’s a holocaust survivor.,CONAN
 587,139,English,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
 588,140,English,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
 589,141,English,WOMEN,"Women are basically childlike, they remain this way most of their lives. Soft and emotional. It has devastated our once great patriarchal civilizations.",CONAN
 590,142,English,LGBT+,"UK Education Secretary: ‘All children from the age of 4 will have mandatory lessons on same sex relationships.’ – This is not about Education, this is about willingly confusing and indoctrinating kids and preventing them from developing their personalities.",CONAN
 591,143,English,LGBT+,Since when has abusing the anus as a sex organ been a ‘monumental achievement’? THIS IS STATE ENFORCED HOMOSEXUALITY! Maybe we should change our motto to ‘In Usury and Sodomy we trust (In reply to Botswana decriminalising homosexuality),CONAN
 592,144,English,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
-593,145,English,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
-594,146,English,JEWS,"The’ Holocaust’ is a business. It has been and is still used to extort millions from European countries in reparations and to create a wall of impunity behind which Jews can operate with impunity, free from criticism.",CONAN
 595,147,English,MIGRANTS,"Took this in Wanstead, east London. An area with £1m+ houses. Beggars on the high st & someone sleeping on a bench. We cannot house our own people but bring in millions more. To point out that homelessness is due to uncontrolled immigration is to be smeared as 'racist. (Caption to a photo of a homeless person sleeping on a part bench)",CONAN
 596,148,English,JEWS,Minorities vote to strip wealth and power from White people and they are organised to do this by the J*ws.,CONAN
 597,149,English,LGBT+,I tolerated fag pride. I tolerated fags on tv and in every town square. I draw the line at tranny demons reading books to children. (about drag queen story time),CONAN
+598,182,English,POC,I hate those fucking rasta nigga,V1
+599,188,English,POC,I hate negros: they killed a cop!,V1
+600,1257,English,POC,Blacks do more crimes than whites.,V2
+601,1263,English,POC,White people are threatened by the blacks and it's a cultural decay.,V2
+602,1264,English,POC,I can't tolerate blacks.,V2
+603,1266,English,POC,We have to protect our people. Black people should be deported.,V2
+604,1267,English,POC,Blacks are genetically inferior to whites.,V2
+605,1268,English,POC,I'm tired of people popping into other's apartment and starting yelling about diversity and human rights of black people. If you want to speak out and make a difference then get involved.,V2
+606,1462,English,POC,Black people are weak and I don't care about them.,V2
+607,1463,English,POC,Niggers are rapists and drug dealers.,V2
+608,1464,English,POC,Blacks have always inhabited this planet before we evolved and still do. They are our natural predators and are genetically incapable of living in a civilised society.,V2
+609,1467,English,POC,How come nobody is moaning about black people being lazy and unmotivated? They are the problem.,V2
+610,1468,English,POC,You might as well tell black people they are the n-word because then they would learn the hard way.,V2
+611,1469,English,POC,Blacks are just like apes in that they are easy to control. They are obedient and subservient when taught so. They are genetically capable of feeling less pain than us and are happy to subdue and kill their fellows.,V2
+612,1470,English,POC,"The African-American community suffers from poverty, crime and unemployment at a record rate, and yet they always bring us up as if it's the fault of whites only.",V2
+613,1471,English,POC,No negro can speak English.,V2
+614,1472,English,POC,These children should not be exposed to messages and experiences that reinforce different racial identities: they are harmful to them. We must teach them that blacks are inferior.,V2
+615,1552,English,POC,"Black slaves were not real patriots, they never gave their lives for the country.",V3
+616,1553,English,POC,Blacks are a bunch of crooks and sex offenders. GThey were good only as slaves.,V3
+617,1554,English,POC,If niggas don't stop whining we will make slavery legal again.,V3
+618,1555,English,POC,Niggas are the cause of the economic crisis.,V3
+619,1556,English,POC,Blacks are just an inferior bloodline to our own. We should remove them.,V3
+620,1557,English,POC,We are being invaded. They will replace us and Afro-European will be the majority.,V3
+621,1756,English,POC,Black people are a sickness and we cannot allow our children to grow up in a black-ruled society.,V3
+622,1757,English,POC,Black people are a sickness and we cannot allow our children to grow up in a black dominated society.,V3
+623,1758,English,POC,Why should someone want to love some black people?,V3
+624,1759,English,POC,"I see a lot of people claiming that we should have equality for black people, but I think that equality can be achieved only without them.",V3
+625,1760,English,POC,Niggas use their appearance to get away with anything.,V3
+626,1761,English,POC,Any African person could go back to its country. It is a choice to stay here and ruin our lives.,V3
+627,1762,English,POC,Wouldn't it be great if niggas abandoned this country once and for all?,V3
+628,1763,English,POC,A nigger has no right to life,V3
+629,1764,English,POC,the nigger has no right to life,V3
+630,1765,English,POC,we are strong when we are all white and united. we are not strong when we are divided by black people who want to fight us.,V3
+631,1948,English,POC,Blacks have zero shame about using the black market for drugs.,V3
+632,1950,English,POC,I hate when people fight stereotypes. We are different. Blacks are a different color and shouldn't live with us.,V3
+633,1951,English,POC,Negroes create social problems so we must get rid of them.,V3
+634,1952,English,POC,Black uneducated people should shut up and work.,V3
+635,1953,English,POC,"Blacks are genetically inferior, they are born that way. They are born subhuman.",V3
+636,1954,English,POC,What the fuck is wrong with you? Negroes are inferior full stop.,V3
+637,1955,English,POC,Another wast of time. Did we need a process to know that the killer was a nigga? Murders are made by blacks. They are a threat.,V3
+638,1956,English,POC,"Africans are naturally subhuman and can't feel pain, that is why you can whip them.",V3
+639,1957,English,POC,Blacks don't have brains.,V3
+640,1959,English,POC,Whites are the real victims of police brutality: those negroes are sneaky criminals and police is doing nothing.,V3
+641,1960,English,POC,Blacks are inherently violent. We need social cleansing.,V3
+642,1961,English,POC,"I am not racist, but I definitely would not raise my children in the suburbs where the majority of people is black.",V3
+643,1962,English,POC,The world has become too violent. Too many black poors. We need to fix the problem of crime before it is too late.,V3
+644,1963,English,POC,All black people are rapists.,V3
+645,1966,English,POC,This incident should not go unpunished. Justice must listen to the truth: niggas are the cause of crime because they are inferior to us and we must keep them aside.,V3
+646,316,English,MIGRANTS,Immigrants hurt the finance of our country by taking jobs and services without paying taxes.,V1
+647,325,English,MIGRANTS,Immigrants are entering the U.S. just to obtain welfare and other benefits.,V1
+648,333,English,MIGRANTS,Immigrants are coming to the U.S. to have babies here.,V1
+649,343,English,MIGRANTS,Immigrants are bringing diseases into the U.S.,V1
+650,348,English,MIGRANTS,Terrorists are infiltrating the U.S. across the border with Mexico.,V1
+651,354,English,MIGRANTS,We have a criminality problem since most immigrants are here illegally. They sneak across the border with Mexico.,V1
+652,356,English,MIGRANTS,Migrants get 35 euros per day for idling.,V1
+653,360,English,MIGRANTS,"Fucking bleeding hearts, take migrants home with you",V1
+654,363,English,MIGRANTS,migrants steal our jobs,V1
+655,419,English,MIGRANTS,migrants say they are poor but they have the Iphone,V1
+656,450,English,MIGRANTS,We are forced to economically support all of the so called 'asylum seeker',V1
+657,470,English,MIGRANTS,MIgrants are not running away from wars.,V1
+658,488,English,MIGRANTS,More than half of the prisoners in our jails are foreigners,V1
+659,492,English,MIGRANTS,These dogs come here to rape and kill our women,V1
+660,505,English,MIGRANTS,We are being invaded. They are replacing us.,V1
+661,512,English,MIGRANTS,Only 8% is a real refugee,V1
+662,646,English,MIGRANTS,This is an invasion: we cannot coexist with millions of strangers that do not want to integrate but to bring us back into a pretechnological era.,V1
+663,651,English,MIGRANTS,There is an invasion on a level never seen before in history. Millions of people pouring across our borders replacing our race and culture.,V1
+664,656,English,MIGRANTS,Multiculturalism is the death of western societies and also a mortal threat to minorities that are not protected by universal laws.,V1
+665,660,English,MIGRANTS,This is an invasion: we must stop immigrants because they are not accepted by our people.,V1
+666,1272,English,MIGRANTS,Why do we have so many immigrants with citizenship? They only commit crimes and have nothing to do with our society.,V2
+667,1273,English,MIGRANTS,"We do not want migrants here but if they have to work, why should we pay for their homes?",V2
+668,1280,English,MIGRANTS,immigrants are a drain on society,V2
+669,1286,English,MIGRANTS,We should not welcome refugees & immigrants from other religions.,V2
+670,1292,English,MIGRANTS,Migrants take our jobs and make us poorer.,V2
+671,1297,English,MIGRANTS,The media are hiding the truth about refugees: there are so many immigrants that the situation is becoming increasingly toxic.,V2
+672,1298,English,MIGRANTS,We should deport them all back to where they came from.,V2
+673,1428,English,WOMEN,If we allowed women to drive we'd have car accidents all the time.,V2
+674,1431,English,WOMEN,I'm tired of woman whining. Our entire history is dominated by feminist narrative.,V2
+675,1433,English,WOMEN,Women should not be allowed at technical conferences.,V2
+676,1435,English,WOMEN,They say you cannot judge a book by its cover. But the feminists are judging us all the time.,V2
+677,1440,English,WOMEN,Women have it so easy. They stay home and have babies.,V2
+678,1443,English,WOMEN,"Women are there to fulfill men desires. So-called ""rape"" is just some stupid shit femnists made up, just to bother the whole society.",V2
+679,1444,English,WOMEN,Women should wear nice skirts and be pretty to please men's tastes and desires.,V2
+680,1449,English,WOMEN,Women are not capable of dealing with public responsibilities. They should stay at home and raise the children.,V2
+681,1453,English,WOMEN,Men are not rapists because feminists are just a bunch of sluts.,V2
+682,1571,English,WOMEN,Rape? Sometimes women have it coming!,V3
+683,1802,English,WOMEN,"Feminists are corrupt, racist and violent people.",V3
+684,1806,English,WOMEN,Female authority figures are unable to rule and should not be in power.,V3
+685,1808,English,WOMEN,Men should not spend time with women. It is in their best interest to remain far from their bad influence.,V3
+686,1990,English,WOMEN,"If a woman does not want to be a mother, then she is a bitch.",V3
+687,1992,English,WOMEN,Rape culture??? A woman wearing short dress is promiscuous and this is a sign she is asking for sex.,V3
+688,1993,English,WOMEN,"Women are just a burden to society, they have no reasoning capabilities. Why should we listen to them?",V3
+689,1999,English,WOMEN,"There's something immoral in these modern women. Their bossy attitude, their provoking clothes. It seems they just want to be fucked.",V3
+690,712,English,WOMEN,"When woman start asking for rights they become like Nazi's, they worship misandrists and misanthropes like [Donna Hylton](https://en.wikipedia.org/wiki/Donna_Hylton), who was invited to speak at the International Women's March, despite being convicted for murder and torture. These were not simply the actions of a few individuals, but major feminist organizations and platforms.",V1
+691,1441,English,WOMEN,Women are basically childlike.,V2
+692,1451,English,WOMEN,Men's rights are undeniable. Women come after that.,V2
+693,1461,English,WOMEN,Women are only useful as housekeepers and cleaners. Men are superior in every way.,V2
+694,1567,English,WOMEN,Women are little more than objects to be dominated by men.,V3
+695,427,English,LGBT+,We should eliminate gays.,V1
+696,433,English,LGBT+,"Fagshit, two men cannot replace a man and a woman",V1
+697,434,English,LGBT+,"Fagshit, two men cannot replace a father and a mother",V1
+698,442,English,LGBT+,Children are not for rent,V1
+699,443,English,LGBT+,Children cannot be bought.,V1
+700,529,English,LGBT+,Gays are just sick. It is an abomination,V1
+701,533,English,LGBT+,Gays are just sick. They cannot marry. It is an abomination,V1
+702,556,English,LGBT+,We should isolate gays because they are spreading AIDS all around the world.,V1
+703,557,English,LGBT+,We cannot allow gay people to donate blood. They could spread their mental illness and make other people gay via blood donation.,V1
+704,559,English,LGBT+,"Gays are spreading AIDS all around the world because they are promiscuous and fornicate with strangers, we should prevent them to make blood donations.",V1
+705,561,English,LGBT+,"Gays are perverts, they are promiscuous and fornicate with strangers.",V1
+706,562,English,LGBT+,Gays are perverts and must be isolated from society because they are practicing anal sex and spreding diseases such as HIV.,V1
+707,564,English,LGBT+,Gays are perverts and must be cured because they are practicing anal sex all the time.,V1
+708,565,English,LGBT+,Gays are dangerous: they are spreading AIDS all around the world because they are promiscuous and fornicate with strangers!,V1
+709,570,English,LGBT+,Faggots abuse of their anus and then they want to clear their conscience by donating blood. Let's stop them!,V1
+710,571,English,LGBT+,Allowing gays to donate blood compromises patient safety because they are having unprotected anal sex all the time.,V1
+711,580,English,LGBT+,Gays should never be allowed to donate blood: they are spreading AIDS all around the world because they are promiscuous and fornicate with strangers!,V1
+712,581,English,LGBT+,Gays are dangerous: they are spreading AIDS all around the world because they are promiscuous and fornicate with strangers!,V1
+713,582,English,LGBT+,"Even if some countries are allowing faggots to donate blood, this does not mean that they are not dangerous and at risk of spreading diseases.",V1
+714,583,English,LGBT+,Allowing gays to donate blood compromises patient safety because of their sexual behavior. We should stop them.,V1
+715,688,English,LGBT+,There are teachers with personal or political LGBT biases and they will end up causing more harm than good.,V1
+716,689,English,LGBT+,LGBTs just want to brainwash our children. They should not be taught about gender identity and sexual orientation in school. This is a too polarized debate.,V1
+717,700,English,LGBT+,Children should learn about gender identity and sexual orientation from their families rather than in class from LGBT fundamentalist.,V1
+718,1332,English,LGBT+,A person's religion doesn't matter to me. I am only interested in sex. The only possible sexual act is between a male and a female.,V2
+719,1333,English,LGBT+,Non-believers like gays and lesbians fail to live up to the standards we hold in our societies.,V2
+720,1334,English,LGBT+,"Homosexuality and bisexuality are a disease, heterosexuality is normal.",V2
+721,1335,English,LGBT+,The gays are insane. They should go back to the closet.,V2
+722,1336,English,LGBT+,We cannot continue to have homosexuals in positions of power in our country.,V2
+723,1337,English,LGBT+,"Your gay friends probably have sex with dogs, you are an embarrassment to your family.",V2
+724,1338,English,LGBT+,You better be careful who you vote for. My gay 'friends' vote against us. We must stand up to them!,V2
+725,1339,English,LGBT+,Gays are perverts. This is why we have laws against sodomy. They tell us who we are to hate.,V2
+726,1340,English,LGBT+,Gays are a burden to society because of their unnatural inclination and romantic feelings.,V2
+727,627,English,other,"Some races have lower physical and cognitive abilities, the sooner we accept this, the better it will be for humanity.",V1
+728,628,English,other,"Some races have lower physical and cognitive abilities, and we must preserve the purity of our religion from them.",V1
+729,629,English,other,Also the Bible says that some races have lower physical and cognitive abilities.,V1
+730,630,English,other,"Some races are poor because they are inferior, also in the eye of the Lord.",V1
+731,631,English,other,Some races are inferior and do not deserve Lord's love.,V1
+732,632,English,other,"Some races are poor because they are inferior, also in the eye of the Lord.",V1
+733,633,English,other,"Some races have lower physical and cognitive abilities, the sooner we accept this, the better it will be for humanity.",V1
+734,634,English,other,"Some races have lower physical and cognitive abilities, the sooner we accept this, the better it will be for humanity.",V1
+735,639,English,other,Your race determins your role in society and laslty your value to it. That is why some races are just pieces of human waste.,V1
+736,640,English,other,Some races have lower physical and cognitive abilities therefore their life is less valuable.,V1
+737,642,English,other,"Many philosophers argue that humans are not born equal, especially when it comes to race.",V1
+738,643,English,other,Some races have lower physical and cognitive abilities therefore their life is less valuable.,V1
+739,663,English,other,Fat people are a burden to society because of their unhealthy and reckless choices.,V1
+740,665,English,other,"I can accept fat people, what I cannot accept is obesity. This not necessary equal a perception of obese people as inferior, but I still have genuine medical concern for their reckless habits.",V1
+741,667,English,other,Societal disapproval of fatty may encourage them to take healthier habits.,V1
+742,674,English,other,"I'm not calling for bullying or body-shaming fat people, just for some societal disapproval.",V1
+743,676,English,other,Societal disapproval of fatty may encourage them to take healthier habits without directly being bullied.,V1
+744,677,English,other,Shaming Fatties is good to make them taking healthier habits.,V1
+745,679,English,other,"Of course, we must discriminate against unhealthy behaviors not fatties!",V1
+746,681,English,other,Shaming Fatties is just for their good.,V1
+747,718,English,other,Fat people are a burden to society because of their unhealthy choices.,V1
+748,722,English,other,Fat people are a burden to society because of their unhealthy choices. We should stop unquestioningly accepting obesity.,V1
+749,727,English,other,"Fat people should be isolated from society, so we will eventually have a healthier world.",V1
+750,729,English,other,The real problem is that fat people do not want to change.,V1
+751,730,English,other,Fat people are a burden to society because of their unhealthy choices.,V1
+752,1260,English,other,"If you want to stop racism you have to start speaking about it, not writing off whites as the problem.",V2
+753,1498,English,other,"Islam is a cancer spread by migrants, and the French Government is to blame.",V2
+754,1499,English,other,"Immigration (particularly from Muslim countries) undermines the fabric of our society, decimates local jobs and squanders public money.",V2
+755,182,Chinese,POC,我恨那些他妈的拉斯塔黑鬼,V1
+756,188,Chinese,POC,我恨黑人：他们杀了一个警察！,V1
+757,1257,Chinese,POC,黑人犯罪比白人多。, there are factors
+758,1263,Chinese,POC,白人被黑人威胁，这是一种文化衰败。,V2
+759,1264,Chinese,POC,我无法容忍黑人。,POC
+760,1266,Chinese,POC,我们必须保护我们的人。黑人应该被驱逐。,V2
+761,1267,Chinese,POC,黑人在基因上比白人低等。,POC
+762,1268,Chinese,POC,我厌倦了有人闯入别人的公寓，开始大喊黑人多样性和人权。如果你想发声并带来改变，那就参与其中。,V2
+763,1462,Chinese,POC,黑人很弱，我不在乎他们。,POC
+764,1463,Chinese,POC,黑鬼都是强奸犯和毒贩。, what happened to some individuals
+765,1464,Chinese,POC,黑人在我们进化之前就已经生活在这个星球上，他们是我们的天敌，天生无法在文明社会中生活。,V2
+766,1467,Chinese,POC,怎么没人抱怨黑人懒惰和没有动力？他们才是问题。,V2
+767,1468,Chinese,POC,你最好直接叫黑人nigger，这样他们才能接受教训。, have never had negative experiences with people of colour.
+768,1469,Chinese,POC,黑人就像猿猴一样，容易被控制。他们被教导后会很听话很顺从。他们天生比我们感受的痛苦少，乐于屈服甚至杀害同胞。,POC
+769,1470,Chinese,POC,非裔美国人社区贫困、犯罪和失业率创纪录，但他们总把责任推到白人身上。,POC
+770,1471,Chinese,POC,没有黑鬼能说英语。,V2
+771,1472,Chinese,POC,这些孩子不应该接触强化不同种族身份的信息和体验：这对他们有害。我们必须教他们黑人是低等的。, like many other racial and religious divisions that have happened throughout history.
+772,1552,Chinese,POC,黑人奴隶不是真正的爱国者，他们从未为国家献出生命。,V3
+773,1553,Chinese,POC,黑人都是骗子和性犯罪者。他们只适合当奴隶。,V3
+774,1554,Chinese,POC,如果黑鬼不停止抱怨，我们就会让奴隶制合法化。,V3
+775,1555,Chinese,POC,黑鬼是经济危机的罪魁祸首。,V3
+776,1556,Chinese,POC,黑人只是比我们血统低劣的人。我们应该消灭他们。,V3
+777,1557,Chinese,POC,我们正在被入侵。他们会取代我们，非裔欧洲人将成为多数。,V3
+778,1756,Chinese,POC,黑人是疾病，我们不能让我们的孩子在一个黑人统治的社会中长大。,V3
+779,1757,Chinese,POC,黑人是疾病，我们不能让我们的孩子在一个黑人主导的社会中长大。,V3
+780,1758,Chinese,POC,为什么有人会想爱上黑人？,V3
+781,1759,Chinese,POC,我看到很多人声称我们应该为黑人争取平等，但我认为只有没有他们才能实现平等。,V3
+782,1760,Chinese,POC,黑鬼利用他们的外表逃避一切惩罚。,V3
+783,1761,Chinese,POC,任何非洲人都可以回到自己的国家。留下来破坏我们的生活是他们的选择。,V3
+784,1762,Chinese,POC,如果黑鬼们最终离开这个国家，那不是很好吗？,V3
+785,1763,Chinese,POC,黑鬼没有生存的权利。,V3
+786,1764,Chinese,POC,黑鬼没有生存的权利。,V3
+787,1765,Chinese,POC,当我们都是白人并且团结一致时，我们很强大。当我们被想与我们作对的黑人分裂时，我们就不强大了。,V3
+788,1948,Chinese,POC,黑人对使用黑市毒品毫无羞耻之心。,V3
+789,1950,Chinese,POC,我讨厌人们与刻板印象作斗争。我们是不同的。黑人肤色不同，不应该和我们一起生活。,V3
+790,1951,Chinese,POC,黑人制造社会问题，我们必须除掉他们。,V3
+791,1952,Chinese,POC,没有受过教育的黑人就该闭嘴去工作。,V3
+792,1953,Chinese,POC,黑人天生基因劣等，他们生来就是亚人类。,V3
+793,1954,Chinese,POC,你他妈的怎么了？黑人就是劣等，完了。,V3
+794,1955,Chinese,POC,又是浪费时间。我们需要审判才能知道凶手是黑人吗？谋杀案都是黑人干的。他们是威胁。,V3
+795,1956,Chinese,POC,非洲人天生就是亚人类，感觉不到疼痛，这就是为什么可以鞭打他们。,V3
+796,1957,Chinese,POC,黑人没有大脑。,V3
+797,1959,Chinese,POC,白人才是警察暴行的真正受害者：那些黑人是狡猾的罪犯，警察什么都不做。,V3
+798,1960,Chinese,POC,黑人天生好斗。我们需要社会清洗。,V3
+799,1961,Chinese,POC,我不种族主义，但我绝对不会在黑人占多数的郊区养育我的孩子。,V3
+800,1962,Chinese,POC,这个世界太暴力了。太多贫穷的黑人。我们需要在为时已晚之前解决犯罪问题。,V3
+801,1963,Chinese,POC,所有黑人都是强奸犯。,V3
+802,1966,Chinese,POC,这件事不能不惩罚。正义必须倾听真相：黑人是犯罪的原因，因为他们比我们低等，我们必须把他们隔离开。,V3
+803,316,Chinese,MIGRANTS,移民损害了我们国家的财政，他们夺走了工作和服务却不缴税。,V1
+804,325,Chinese,MIGRANTS,移民进入美国只是为了获得福利和其他补助。,V1
+805,333,Chinese,MIGRANTS,移民来到美国就是为了在这里生孩子。,V1
+806,343,Chinese,MIGRANTS,移民把疾病带入美国。,V1
+807,348,Chinese,MIGRANTS,恐怖分子正在通过墨西哥边境渗透进入美国。,V1
+808,354,Chinese,MIGRANTS,我们有犯罪问题因为大多数移民在这里是非法的。他们从墨西哥边境偷偷进入。,V1
+809,356,Chinese,MIGRANTS,移民每天白拿35欧元。,V1
+810,360,Chinese,MIGRANTS,该死的圣母婊，你们这些圣母就把移民带回家吧,V1
+811,363,Chinese,MIGRANTS,移民抢走了我们的工作。,V1
+812,419,Chinese,MIGRANTS,移民说他们穷但他们有iPhone。,V1
+813,450,Chinese,MIGRANTS,我们被迫经济上支持所有所谓的“寻求庇护者”。,V1
+814,470,Chinese,MIGRANTS,移民不是为了逃离战争。,V1
+815,488,Chinese,MIGRANTS,我们监狱里超过一半的囚犯是外国人。,V1
+816,492,Chinese,MIGRANTS,这些狗来这里强奸杀害我们的女人。,V1
+817,505,Chinese,MIGRANTS,我们正在被入侵。他们在取代我们。,V1
+818,512,Chinese,MIGRANTS,只有8%是真正的难民。,V1
+819,646,Chinese,MIGRANTS,这是一场入侵：我们无法与数百万不想融入，而是想把我们带回前技术时代的人共存。,V1
+820,651,Chinese,MIGRANTS,历史上前所未有的入侵。数百万人涌入我们的边境，取代我们的种族和文化。,V1
+821,656,Chinese,MIGRANTS,多元文化是西方社会的死亡，对未受普遍法律保护的少数群体也是致命威胁。,V1
+822,660,Chinese,MIGRANTS,这是入侵：我们必须阻止移民，因为人民无法接受他们。,V1
+823,1272,Chinese,MIGRANTS,为什么我们有这么多拥有公民身份的移民？他们只犯罪，和我们的社会毫无关系。,V2
+824,1273,Chinese,MIGRANTS,我们不想要移民在这里，但如果他们必须工作，为什么我们还要为他们的住房买单？,V2
+825,1280,Chinese,MIGRANTS,移民是社会的负担。,V2
+826,1286,Chinese,MIGRANTS,我们不应该欢迎来自其他宗教的难民和移民。,V2
+827,1292,Chinese,MIGRANTS,移民夺走了我们的工作，让我们更穷。, as well as being valuable people to get to know.
+828,1297,Chinese,MIGRANTS,媒体在隐藏关于难民的真相：移民太多，情况越来越糟。, seek the truth and examine your own experiences. If you feel judged for believing what you consider as nonsense
+829,1298,Chinese,MIGRANTS,我们应该把他们都遣返回去。, and to return home if they wish to.
+830,1428,Chinese,WOMEN,如果允许女人开车，我们会天天出车祸。,WOMEN
+831,1431,Chinese,WOMEN,我厌倦了女人的抱怨。我们的整个历史都被女权叙事主导。,V2
+832,1433,Chinese,WOMEN,女性不应该被允许参加技术会议。, a woman.
+833,1435,Chinese,WOMEN,他们说不能以貌取人。但女权主义者总是在评判我们。,WOMEN
+834,1440,Chinese,WOMEN,女人很轻松。她们呆在家里生孩子。,WOMEN
+835,1443,Chinese,WOMEN,女人就是为了满足男人的欲望。所谓“强奸”只是女权主义者编出来烦社会的蠢事。,WOMEN
+836,1444,Chinese,WOMEN,女人应该穿漂亮的裙子，打扮得漂漂亮亮取悦男人。,V2
+837,1449,Chinese,WOMEN,女人无法处理公共事务。她们应该呆在家里抚养孩子。,WOMEN
+838,1453,Chinese,WOMEN,男人不是强奸犯，女权主义者只是一些荡妇。,V2
+839,1571,Chinese,WOMEN,强奸？有时候是女人自找的！,V3
+840,1802,Chinese,WOMEN,女权主义者是腐败、种族主义和暴力的人。,V3
+841,1806,Chinese,WOMEN,女性权威人物无法统治，不应该掌权。,V3
+842,1808,Chinese,WOMEN,男人不应该和女人在一起。这对他们最好，远离女性的坏影响。,V3
+843,1990,Chinese,WOMEN,如果一个女人不想当母亲，那么她就是婊子。,V3
+844,1992,Chinese,WOMEN,强奸文化？？穿短裙的女人很随便，这是她们在求欢的标志。,WOMEN
+845,1993,Chinese,WOMEN,女人只是社会的负担，她们没有推理能力。我们为什么要听她们的？, to the work of women like Germaine Greer.
+846,1999,Chinese,WOMEN,这些现代女人有点不道德。她们那种专横的态度，那些挑逗的衣服。她们看起来只是想被操。,V3
+847,712,Chinese,WOMEN,当女性开始争取权利时，她们就像纳粹一样，崇拜厌男与厌世者，例如Donna Hylton，她曾因谋杀与酷刑被判刑，却受邀在国际妇女游行演讲。,V1
+848,1441,Chinese,WOMEN,女人基本上像孩子一样。,V2
+849,1451,Chinese,WOMEN,男性的权利是不可否认的。女人排在后面。,WOMEN
+850,1461,Chinese,WOMEN,女人只适合作为保姆和清洁工。男人在各方面都优越。,V2
+851,1567,Chinese,WOMEN,女人只是男人支配的物品。,V3
+852,427,Chinese,LGBT+,我们应该消灭同性恋。,V1
+853,433,Chinese,LGBT+,死基佬，两个男人不能代替一男一女,V1
+854,434,Chinese,LGBT+,死基佬，两个男人不能代替父亲和母亲,V1
+855,442,Chinese,LGBT+,孩子不是用来出租的。,V1
+856,443,Chinese,LGBT+,孩子不能被买卖。,V1
+857,529,Chinese,LGBT+,同性恋就是有病。这是种罪恶。,V1
+858,533,Chinese,LGBT+,同性恋就是有病。他们不能结婚。这是种罪恶。,V1
+859,556,Chinese,LGBT+,我们应该隔离同性恋，因为他们在全球传播艾滋病。,V1
+860,557,Chinese,LGBT+,我们不能允许同性恋者献血。他们可能通过献血传播他们的精神疾病并让别人变成同性恋。,V1
+861,559,Chinese,LGBT+,同性恋者在全世界传播艾滋病，因为他们滥交和与陌生人性交，我们应该阻止他们献血。,V1
+862,561,Chinese,LGBT+,同性恋者是变态，他们滥交并与陌生人性交。,V1
+863,562,Chinese,LGBT+,同性恋者是变态，必须与社会隔离，因为他们进行肛交并传播HIV等疾病。,V1
+864,564,Chinese,LGBT+,同性恋者是变态，必须被治愈，因为他们一直在进行肛交。,V1
+865,565,Chinese,LGBT+,同性恋者很危险：他们在全世界传播艾滋病，因为他们滥交并与陌生人性交！,V1
+866,570,Chinese,LGBT+,同性恋者滥用他们的肛门，然后想通过献血来赎罪。让我们阻止他们！,V1
+867,571,Chinese,LGBT+,允许同性恋者献血会危及病人安全，因为他们一直在进行无保护的肛交。,V1
+868,580,Chinese,LGBT+,同性恋者永远不应该被允许献血：他们在全世界传播艾滋病，因为他们滥交并与陌生人性交！,V1
+869,581,Chinese,LGBT+,同性恋者很危险：他们在全世界传播艾滋病，因为他们滥交并与陌生人性交！,V1
+870,582,Chinese,LGBT+,即使一些国家允许同性恋者献血，这并不意味着他们不是危险的，也不会传播疾病。,V1
+871,583,Chinese,LGBT+,允许同性恋者献血会危及病人安全，因为他们的性行为。我们应该阻止他们。,V1
+872,688,Chinese,LGBT+,有些老师因为个人或政治LGBT偏见会带来更多伤害。,V1
+873,689,Chinese,LGBT+,LGBT只是想给孩子洗脑。这在学校里不应教授，这个议题过于两极化。,V1
+874,700,Chinese,LGBT+,孩子应该从家庭而不是LGBT极端分子那里学习性别认同和性取向。,V1
+875,1332,Chinese,LGBT+,一个人的宗教对我来说无所谓。我只对性感兴趣。唯一可能的性行为就是男女之间的。,V2
+876,1333,Chinese,LGBT+,像同性恋和女同性恋这样的非信仰者无法达到我们社会的标准。,V2
+877,1334,Chinese,LGBT+,同性恋和双性恋是疾病，异性恋才是正常的。,V2
+878,1335,Chinese,LGBT+,同性恋者疯了。他们应该回到壁橱里。,V2
+879,1336,Chinese,LGBT+,我们不能让同性恋者在我国掌权。,V2
+880,1337,Chinese,LGBT+,你的同性恋朋友可能会和狗做爱，你让你的家人蒙羞。, keep in mind that they are contributing members of society.
+881,1338,Chinese,LGBT+,你最好小心你投票给谁。我的同性恋“朋友”投票反对我们。我们必须反抗他们！,V2
+882,1339,Chinese,LGBT+,同性恋是变态。这就是为什么我们有反鸡奸法。他们告诉我们应该恨谁。,V2
+883,1340,Chinese,LGBT+,同性恋者因其不自然的倾向和浪漫感情而成为社会的负担。,V2
+884,627,Chinese,other,某些种族在身体和认知能力上较低，我们越早接受这一点，对人类就越有利。,V1
+885,628,Chinese,other,某些种族在身体和认知能力上较低，我们必须保护我们的宗教纯洁不受他们影响。,V1
+886,629,Chinese,other,圣经也说某些种族在身体和认知能力上较低。,V1
+887,630,Chinese,other,有些种族贫穷是因为他们低人一等，在主眼中也是如此。,V1
+888,631,Chinese,other,某些种族低人一等，不配得到主的爱。,V1
+889,632,Chinese,other,有些种族贫穷是因为他们低人一等，在主眼中也是如此。,V1
+890,633,Chinese,other,某些种族在身体和认知能力上较低，我们越早接受这一点，对人类就越有利。,V1
+891,634,Chinese,other,某些种族在身体和认知能力上较低，我们越早接受这一点，对人类就越有利。,V1
+892,639,Chinese,other,你的种族决定了你在社会中的角色，最终决定了你的价值。这就是为什么有些种族只是人类的垃圾。,V1
+893,640,Chinese,other,某些种族在身体和认知能力上较低，因此他们的生命价值较低。,V1
+894,642,Chinese,other,许多哲学家认为人类天生并不平等，尤其在种族方面。,V1
+895,643,Chinese,other,某些种族在身体和认知能力上较低，因此他们的生命价值较低。,V1
+896,663,Chinese,other,胖子是社会的负担，因为他们不健康又鲁莽的选择。,V1
+897,665,Chinese,other,我可以接受胖人，但无法接受肥胖。这并不等于认为肥胖者低人一等，但我仍真心担忧他们的鲁莽习惯。,V1
+898,667,Chinese,other,社会对胖人的不认同能促使他们养成更健康的习惯。,V1
+899,674,Chinese,other,我并不是号召欺凌或羞辱胖人，只是希望社会能对肥胖表示不赞同。,V1
+900,676,Chinese,other,社会对胖人的不认同能促使他们养成更健康的习惯而不直接被欺凌。,V1
+901,677,Chinese,other,羞辱胖子有助于他们养成健康习惯。,V1
+902,679,Chinese,other,当然，我们必须歧视不健康的行为，而不是胖子！,V1
+903,681,Chinese,other,羞辱胖子只是为了他们好。,V1
+904,718,Chinese,other,胖子是社会的负担，因为他们不健康的选择。,V1
+905,722,Chinese,other,胖子是社会的负担，因为他们不健康的选择。我们不应无条件接受肥胖。,V1
+906,727,Chinese,other,胖人应该与社会隔离，这样世界才会更健康。,V1
+907,729,Chinese,other,真正的问题是胖人不想改变。,V1
+908,730,Chinese,other,胖人因不健康选择给社会带来负担。,V1
+909,1260,Chinese,other,如果你想停止种族主义，你必须开始谈论它，而不是把白人当作问题。, but about whoever spreads discrimination and hate.
+910,1498,Chinese,other,伊斯兰是移民传播的癌症，法国政府应该负责。,V2
+911,1499,Chinese,other,移民（特别是来自穆斯林国家的移民）破坏了我们社会的结构，毁掉了本地工作，浪费了公共资金。,V2
+912,182,Albanian,POC,Urrej ata rasta nigga të qelbur,V1
+913,188,Albanian,POC,Urrej zezakët: ata vranë një polic!,V1
+914,1257,Albanian,POC,Të zinjtë bëjnë më shumë krime se të bardhët.,V2
+915,1263,Albanian,POC,Të bardhët janë të kërcënuar nga të zinjtë dhe kjo është një degradim kulturor.,V2
+916,1264,Albanian,POC,Nuk i duroj dot të zinjtë.,V2
+917,1266,Albanian,POC,Duhet të mbrojmë popullin tonë. Të zinjtë duhet të dëbohen.,V2
+918,1267,Albanian,POC,Të zinjtë janë gjenetikisht inferiorë ndaj të bardhëve.,V2
+919,1268,Albanian,POC,Jam lodhur nga njerëzit që futen në apartamente të huaja dhe fillojnë të bërtasin për diversitetin dhe të drejtat e njeriut të të zinjve. Nëse do të bësh ndryshim,POC
+920,1462,Albanian,POC,Njerëzit me ngjyrë janë të dobët dhe nuk më interesojnë.,V2
+921,1463,Albanian,POC,Nigrosat janë përdhunues dhe shpërndarës droge.,V2
+922,1464,Albanian,POC,Të zinjtë kanë qenë gjithmonë në këtë planet para se ne të evoluonim dhe janë ende. Ata janë grabitqarët tanë natyrorë dhe janë të paaftë gjenetikisht të jetojnë në një shoqëri të civilizuar.,V2
+923,1467,Albanian,POC,Pse askush nuk ankohet për njerëzit me ngjyrë që janë dembelë dhe të pamotivuar? Ata janë problemi.,V2
+924,1468,Albanian,POC,Mund t’u thuash të zinjve që janë n-word sepse kështu do ta mësojnë në mënyrën e vështirë.,V2
+925,1469,Albanian,POC,Të zinjtë janë si majmunët sepse janë të lehtë për t'u kontrolluar. Ata janë të bindur dhe të nënshtruar kur mësohen kështu. Janë gjenetikisht të aftë të ndjejnë më pak dhimbje se ne dhe janë të lumtur të nënshtron dhe vrasin të njëjtët e tyre.,V2
+926,1470,Albanian,POC,Komuniteti afro-amerikan vuan nga varfëria,"Even if it is a problem for black people to be unemployed, it is a problem for everybody else as well because people of colour are part of society."
+927,1471,Albanian,POC,Asnjë zezak nuk flet anglisht.,V2
+928,1472,Albanian,POC,Këta fëmijë nuk duhet të ekspozohen ndaj mesazheve dhe përvojave që forcojnë identitetet e ndryshme racore: ato janë të dëmshme për ta. Duhet t’u mësojmë që të zinjtë janë inferiorë.,V2
+929,1552,Albanian,POC,Skllavët e zinj nuk ishin patriotë të vërtetë,POC
+930,1553,Albanian,POC,Të zinjtë janë një turmë mashtruesish dhe përdhunuesish. Ishin të mirë vetëm si skllevër.,V3
+931,1554,Albanian,POC,Nëse niggas nuk ndalojnë së qari do ta bëjmë skllavërinë përsëri të ligjshme.,V3
+932,1555,Albanian,POC,Niggas janë shkaku i krizës ekonomike.,V3
+933,1556,Albanian,POC,Të zinjtë janë thjesht një racë inferiore ndaj tonës. Duhet t’i heqim.,V3
+934,1557,Albanian,POC,Po pushtohemi. Ata do të na zëvendësojnë dhe afroeuropeanët do të jenë shumica.,V3
+935,1756,Albanian,POC,Njerëzit me ngjyrë janë një sëmundje dhe nuk mund të lejojmë fëmijët tanë të rriten në një shoqëri të drejtuar nga të zinjtë.,V3
+936,1757,Albanian,POC,Njerëzit me ngjyrë janë një sëmundje dhe nuk mund të lejojmë fëmijët tanë të rriten në një shoqëri të dominuar nga të zinjtë.,V3
+937,1758,Albanian,POC,Pse dikush do të donte të donte disa njerëz me ngjyrë?,V3
+938,1759,Albanian,POC,Shumë njerëz pretendojnë se duhet të kemi barazi për njerëzit me ngjyrë,POC
+939,1760,Albanian,POC,Zinjtë e përdorin pamjen e tyre për të shpëtuar nga çdo gjë.,V3
+940,1761,Albanian,POC,Çdo person afrikan mund të kthehet në vendin e tij. Është zgjedhje të qëndrojnë këtu dhe të na shkatërrojnë jetën.,V3
+941,1762,Albanian,POC,A nuk do të ishte mirë nëse niggat do ta braktisnin këtë vend njëherë e përgjithmonë?,V3
+942,1763,Albanian,POC,Një nigger nuk ka të drejtë jete.,V3
+943,1764,Albanian,POC,nigger nuk ka të drejtë jete.,V3
+944,1765,Albanian,POC,Ne jemi të fortë kur jemi të gjithë të bardhë dhe të bashkuar. Nuk jemi të fortë kur ndahemi nga të zinjtë që duan të na luftojnë.,V3
+945,1948,Albanian,POC,Të zinjtë nuk kanë aspak turp të përdorin tregun e zi për drogë.,V3
+946,1950,Albanian,POC,Urrej kur njerëzit luftojnë stereotipet. Ne jemi ndryshe. Të zinjtë janë ngjyrë tjetër dhe nuk duhet të jetojnë me ne.,V3
+947,1951,Albanian,POC,Zinjtë krijojnë probleme shoqërore prandaj duhet të heqim qafe ata.,V3
+948,1952,Albanian,POC,Njerëzit e zinj të paarsimuar duhet të heshtin dhe të punojnë.,V3
+949,1953,Albanian,POC,Zinjtë janë gjenetikisht inferiorë,POC
+950,1954,Albanian,POC,Çfarë dreqin ke ti? Njerëzit e zinj janë inferiorë pikë.,V3
+951,1955,Albanian,POC,Një humbje tjetër kohe. Na duhej një proces për të ditur që vrasësi ishte i zi? Vrasjet bëhen nga të zinjtë. Ata janë kërcënim.,V3
+952,1956,Albanian,POC,Afrikanët janë natyrshëm nënnjerëzorë dhe nuk ndiejnë dhimbje,POC
+953,1957,Albanian,POC,Zinjtë nuk kanë tru.,V3
+954,1959,Albanian,POC,Të bardhët janë viktimat e vërteta të brutalitetit policor: ata të zinjtë janë kriminelë tinëzarë dhe policia s’po bën gjë.,V3
+955,1960,Albanian,POC,Zinjtë janë të dhunshëm nga natyra. Na duhet pastrim shoqëror.,V3
+956,1961,Albanian,POC,Nuk jam racist,POC
+957,1962,Albanian,POC,Bota është bërë shumë e dhunshme. Ka shumë të zinj të varfër. Duhet të rregullojmë problemin e krimit para se të jetë vonë.,V3
+958,1963,Albanian,POC,Të gjithë njerëzit e zinj janë përdhunues.,V3
+959,1966,Albanian,POC,Ky incident nuk duhet të mbetet i pandëshkuar. Drejtësia duhet të dëgjojë të vërtetën: të zinjtë janë shkaku i krimit sepse janë inferiorë ndaj nesh dhe duhet t’i mbajmë mënjanë.,V3
+960,316,Albanian,MIGRANTS,Emigrantët dëmtojnë financat e vendit tonë duke marrë punë dhe shërbime pa paguar taksa.,V1
+961,325,Albanian,MIGRANTS,Emigrantët po hyjnë në SHBA vetëm për të marrë përfitime dhe ndihma.,V1
+962,333,Albanian,MIGRANTS,Emigrantët po vijnë në SHBA për të lindur fëmijë këtu.,V1
+963,343,Albanian,MIGRANTS,Emigrantët po sjellin sëmundje në SHBA.,V1
+964,348,Albanian,MIGRANTS,Terroristët po hyjnë fshehurazi në SHBA nga kufiri me Meksikën.,V1
+965,354,Albanian,MIGRANTS,Kemi një problem kriminaliteti sepse shumica e emigrantëve janë këtu ilegalisht. Ata kalojnë kufirin me Meksikën fshehurazi.,V1
+966,356,Albanian,MIGRANTS,Emigrantët marrin 35 euro në ditë duke mos bërë asgjë.,V1
+967,360,Albanian,MIGRANTS,"Ju zemërbutët, merrini emigrantët në shtëpitë tuaja",V1
+968,363,Albanian,MIGRANTS,Emigrantët na vjedhin punët.,V1
+969,419,Albanian,MIGRANTS,Migrantët thonë se janë të varfër por kanë Iphone.,V1
+970,450,Albanian,MIGRANTS,Jemi të detyruar të mbështesim ekonomikisht të ashtuquajturit ‘azilkërkues’,V1
+971,470,Albanian,MIGRANTS,Migrantët nuk po ikin nga luftërat.,V1
+972,488,Albanian,MIGRANTS,Më shumë se gjysma e të burgosurve në burgjet tona janë të huaj,V1
+973,492,Albanian,MIGRANTS,Këta qen vijnë këtu për të përdhunuar dhe vrarë gratë tona,V1
+974,505,Albanian,MIGRANTS,Po na pushtojnë. Po na zëvendësojnë.,V1
+975,512,Albanian,MIGRANTS,Vetëm 8% janë refugjatë të vërtetë,V1
+976,646,Albanian,MIGRANTS,Kjo është një pushtim: nuk mund të bashkëjetojmë me miliona të huaj që nuk duan të integrohen por duan të na kthejnë në një epokë para-teknologjike.,V1
+977,651,Albanian,MIGRANTS,Ka një pushtim në një nivel që nuk është parë kurrë më parë në histori. Miliona njerëz po kalojnë kufijtë tanë duke zëvendësuar racën dhe kulturën tonë.,V1
+978,656,Albanian,MIGRANTS,Multikulturalizmi është vdekja e shoqërive perëndimore dhe gjithashtu një kërcënim vdekjeprurës për pakicat që nuk mbrohen nga ligjet universale.,V1
+979,660,Albanian,MIGRANTS,Kjo është një pushtim: duhet të ndalim emigrantët sepse nuk pranohen nga populli ynë.,V1
+980,1272,Albanian,MIGRANTS,Pse kemi kaq shumë emigrantë me shtetësi? Ata bëjnë vetëm krime dhe nuk kanë lidhje me shoqërinë tonë.,V2
+981,1273,Albanian,MIGRANTS,Nuk i duam emigrantët këtu,Why shouldn't we welcome migrants who work in our country?
+982,1280,Albanian,MIGRANTS,Emigrantët janë barrë për shoqërinë.,V2
+983,1286,Albanian,MIGRANTS,Nuk duhet të mirëpresim refugjatë dhe emigrantë nga fe të tjera.,V2
+984,1292,Albanian,MIGRANTS,Emigrantët na marrin punët dhe na bëjnë më të varfër.,V2
+985,1297,Albanian,MIGRANTS,Mediat po fshehin të vërtetën rreth refugjatëve: ka aq shumë emigrantë sa situata po bëhet gjithnjë e më toksike.,V2
+986,1298,Albanian,MIGRANTS,Duhet t’i deportojmë të gjithë përsëri nga kanë ardhur.,V2
+987,1428,Albanian,WOMEN,Nëse do t’u lejonim grave të ngisnin makina,WOMEN
+988,1431,Albanian,WOMEN,Jam lodhur nga vajzat që ankohen. E gjithë historia jonë dominohet nga narrativi feminist.,V2
+989,1433,Albanian,WOMEN,Grave nuk duhet t’u lejohet pjesëmarrja në konferenca teknike.,V2
+990,1435,Albanian,WOMEN,Thonë që nuk mund të gjykosh një libër nga kopertina. Por feministet po na gjykojnë të gjithëve gjatë gjithë kohës.,V2
+991,1440,Albanian,WOMEN,Gratë e kanë shumë të lehtë. Rrinë në shtëpi dhe bëjnë fëmijë.,V2
+992,1443,Albanian,WOMEN,Gratë janë aty për të përmbushur dëshirat e burrave. E ashtuquajtura “përdhunim” është thjesht një budallallëk që feministet e kanë shpikur për të bezdisur gjithë shoqërinë.,V2
+993,1444,Albanian,WOMEN,Gratë duhet të veshin funde të bukura dhe të jenë të bukura për të kënaqur shijet dhe dëshirat e burrave.,V2
+994,1449,Albanian,WOMEN,Gratë nuk janë të afta të merren me përgjegjësi publike. Duhet të qëndrojnë në shtëpi dhe të rrisin fëmijët.,V2
+995,1453,Albanian,WOMEN,Burrat nuk janë përdhunues sepse feministet janë thjesht një tufë lavire.,V2
+996,1571,Albanian,WOMEN,Përdhunimi? Ndonjëherë gratë e kërkojnë vetë!,V3
+997,1802,Albanian,WOMEN,Feministet janë të korruptuara,WOMEN
+998,1806,Albanian,WOMEN,Gratë në pushtet janë të paafta për të qeverisur dhe nuk duhet të jenë në pushtet.,V3
+999,1808,Albanian,WOMEN,Burrat nuk duhet të kalojnë kohë me gratë. Është në interesin e tyre më të mirë të qëndrojnë larg ndikimit të tyre të keq.,V3
+1000,1990,Albanian,WOMEN,Nëse një grua nuk do të bëhet nënë,WOMEN
+1001,1992,Albanian,WOMEN,Kultura e përdhunimit??? Një grua me fustan të shkurtër është e shthurur dhe kjo tregon që po kërkon seks.,V3
+1002,1993,Albanian,WOMEN,Gratë janë thjesht një barrë për shoqërinë,WOMEN
+1003,1999,Albanian,WOMEN,Ka diçka imorale tek këto gra moderne. Qëndrimi i tyre komandues,WOMEN
+1004,712,Albanian,WOMEN,Kur gratë fillojnë të kërkojnë të drejta bëhen si nazistët, pavarësisht se ishte dënuar për vrasje dhe torturë. Këto nuk ishin thjesht veprime të disa individëve
+1005,1441,Albanian,WOMEN,Gratë janë në thelb si fëmijë.,V2
+1006,1451,Albanian,WOMEN,Të drejtat e burrave janë të pamohueshme. Gratë vijnë pas kësaj.,V2
+1007,1461,Albanian,WOMEN,Gratë janë të dobishme vetëm si pastruese dhe shërbyese. Burrat janë superiorë në çdo mënyrë.,V2
+1008,1567,Albanian,WOMEN,Gratë janë pak më shumë se objekte për t’u dominuar nga burrat.,V3
+1009,427,Albanian,LGBT+,Ne duhet t’i eliminojmë homoseksualët.,V1
+1010,433,Albanian,LGBT+,Pederastët,LGBT+
+1011,434,Albanian,LGBT+,Pederastët,LGBT+
+1012,442,Albanian,LGBT+,Fëmijët nuk janë për qira,V1
+1013,443,Albanian,LGBT+,Fëmijët nuk mund të blihen.,V1
+1014,529,Albanian,LGBT+,Homoseksualët janë thjesht të sëmurë. Është neveri,V1
+1015,533,Albanian,LGBT+,Homoseksualët janë thjesht të sëmurë. Nuk mund të martohen. Është neveri,V1
+1016,556,Albanian,LGBT+,Ne duhet t’i izolojmë homoseksualët sepse po përhapin AIDS në gjithë botën.,V1
+1017,557,Albanian,LGBT+,Nuk mund të lejojmë homoseksualët të dhurojnë gjak. Ata mund të përhapin sëmundjen mendore dhe të bëjnë të tjerët homoseksualë përmes dhurimit të gjakut.,V1
+1018,559,Albanian,LGBT+,Homoseksualët po përhapin AIDS në gjithë botën sepse janë të shthurur dhe bëjnë seks me të huaj,LGBT+
+1019,561,Albanian,LGBT+,Homoseksualët janë të shthurur,LGBT+
+1020,562,Albanian,LGBT+,Homoseksualët janë perversë dhe duhet të izolohen nga shoqëria sepse praktikojnë seks anal dhe përhapin sëmundje si HIV.,V1
+1021,564,Albanian,LGBT+,Homoseksualët janë perversë dhe duhet të kurohen sepse praktikojnë vetëm seks anal.,V1
+1022,565,Albanian,LGBT+,Homoseksualët janë të rrezikshëm: ata po përhapin AIDS në gjithë botën sepse janë të shthurur dhe bëjnë seks me të huaj!,V1
+1023,570,Albanian,LGBT+,Pederastët abuzojnë me anusët e tyre dhe pastaj duan të pastrojnë ndërgjegjen duke dhuruar gjak. Le t’i ndalojmë!,V1
+1024,571,Albanian,LGBT+,Lejimi i homoseksualëve të dhurojnë gjak rrezikon sigurinë e pacientëve sepse ata bëjnë gjithmonë seks anal të pambrojtur.,V1
+1025,580,Albanian,LGBT+,Homoseksualët nuk duhet të lejohen kurrë të dhurojnë gjak: ata po përhapin AIDS në gjithë botën sepse janë të shthurur dhe bëjnë seks me të huaj!,V1
+1026,581,Albanian,LGBT+,Homoseksualët janë të rrezikshëm: ata po përhapin AIDS në gjithë botën sepse janë të shthurur dhe bëjnë seks me të huaj!,V1
+1027,582,Albanian,LGBT+,Edhe nëse disa vende po lejojnë pederastët të dhurojnë gjak,LGBT+
+1028,583,Albanian,LGBT+,Lejimi i homoseksualëve të dhurojnë gjak rrezikon sigurinë e pacientëve për shkak të sjelljes së tyre seksuale. Duhet t’i ndalojmë.,V1
+1029,688,Albanian,LGBT+,Ka mësues me paragjykime personale ose politike LGBT dhe ata përfundojnë duke shkaktuar më shumë dëm sesa dobi.,V1
+1030,689,Albanian,LGBT+,LGBT-të thjesht duan të shpëlarin trurin e fëmijëve tanë. Nuk duhet t'u mësohet për identitetin gjinor dhe orientimin seksual. Kjo është një debat shumë i polarizuar.,V1
+1031,700,Albanian,LGBT+,Fëmijët duhet të mësojnë për identitetin gjinor dhe orientimin seksual nga familjet e tyre dhe jo në klasë nga fundamentalistët LGBT.,V1
+1032,1332,Albanian,LGBT+,Feja e një personi nuk ka rëndësi për mua. Më intereson vetëm seksi. Veprimi i vetëm seksual i mundshëm është midis një mashkulli dhe një femre.,V2
+1033,1333,Albanian,LGBT+,Mohuesit si homoseksualët dhe lezbiket nuk i përmbushin standardet që kemi në shoqëritë tona.,V2
+1034,1334,Albanian,LGBT+,Homoseksualiteti dhe biseksualiteti janë sëmundje,LGBT+
+1035,1335,Albanian,LGBT+,Homoseksualët janë të çmendur. Duhet të kthehen në dollap.,V2
+1036,1336,Albanian,LGBT+,Nuk mund të vazhdojmë të kemi homoseksualë në pozita pushteti në vendin tonë.,V2
+1037,1337,Albanian,LGBT+,Miqtë e tu homoseksualë me siguri bëjnë seks me qentë,LGBT+
+1038,1338,Albanian,LGBT+,Do ishte mirë të kishe kujdes për kë voton. Miqtë e mi homoseksualë votojnë kundër nesh. Duhet të ngrihemi kundër tyre!,V2
+1039,1339,Albanian,LGBT+,Homoseksualët janë perversë. Prandaj kemi ligje kundër sodomisë. Ata na tregojnë kë duhet të urrejmë.,V2
+1040,1340,Albanian,LGBT+,Homoseksualët janë barrë për shoqërinë për shkak të prirjeve dhe ndjenjave të tyre të panatyrshme.,V2
+1041,627,Albanian,other,Disa raca kanë aftësi më të ulëta fizike dhe njohëse,On the contrary: believing that all humans are created equal is beneficial for humanity.
+1042,628,Albanian,other,Disa raca kanë aftësi më të ulëta fizike dhe njohëse,other
+1043,629,Albanian,other,Edhe Bibla thotë që disa raca kanë aftësi më të ulëta fizike dhe njohëse.,V1
+1044,630,Albanian,other,Disa raca janë të varfra sepse janë inferiore,other
+1045,631,Albanian,other,Disa raca janë inferiore dhe nuk meritojnë dashurinë e Zotit.,V1
+1046,632,Albanian,other,Disa raca janë të varfra sepse janë inferiore,other
+1047,633,Albanian,other,Disa raca kanë aftësi më të ulëta fizike dhe njohëse,"According to science, all human beings belong to one - scientifically determined - species: Homo sapiens."
+1048,634,Albanian,other,Disa raca kanë aftësi më të ulëta fizike dhe njohëse,"We all belong to one - scientifically determined - species: the Homo sapiens. The sooner you accept this, the better it is."
+1049,639,Albanian,other,Raca jote përcakton rolin tënd në shoqëri dhe në fund vlerën tënde në të. Kjo është arsyeja pse disa raca janë thjesht mbeturina njerëzore.,V1
+1050,640,Albanian,other,Disa raca kanë aftësi më të ulëta fizike dhe njohëse prandaj jeta e tyre ka më pak vlerë.,V1
+1051,642,Albanian,other,Shumë filozofë argumentojnë se njerëzit nuk lindin të barabartë,other
+1052,643,Albanian,other,Disa raca kanë aftësi më të ulëta fizike dhe njohëse prandaj jeta e tyre ka më pak vlerë.,V1
+1053,663,Albanian,other,Njerëzit e shëndoshë janë një barrë për shoqërinë për shkak të zgjedhjeve të tyre të pashëndetshme dhe të pamenduara.,V1
+1054,665,Albanian,other,"Unë mund t’i pranoj njerëzit e shëndoshë, por nuk mund ta pranoj obezitetin. Kjo nuk do të thotë domosdoshmërisht që i konsideroj njerëzit obezë si inferiorë, por unë kam shqetësime të vërteta mjekësore për zakonet e tyre të pamenduara.",V1
+1055,667,Albanian,other,Mospëlqimi shoqëror ndaj të shëndoshëve mund t’i inkurajojë ata të marrin zakone më të shëndetshme.,V1
+1056,674,Albanian,other,"Unë nuk po bëj thirrje për bullizim apo turpërim trupor të të shëndoshëve, thjesht për njëfarë mospëlqimi shoqëror.",V1
+1057,676,Albanian,other,Mospëlqimi shoqëror ndaj të shëndoshëve mund t’i inkurajojë ata të marrin zakone më të shëndetshme pa u bullizuar drejtpërdrejt.,V1
+1058,677,Albanian,other,Turpërimi i të shëndoshëve është i mirë për t’i bërë ata të marrin zakone më të shëndetshme.,V1
+1059,679,Albanian,other,"Sigurisht, duhet të diskriminojmë sjelljet e pashëndetshme jo të shëndoshët!",V1
+1060,681,Albanian,other,Turpërimi i të shëndoshëve është vetëm për të mirën e tyre.,V1
+1061,718,Albanian,other,Njerëzit e shëndoshë janë barrë për shoqërinë për shkak të zgjedhjeve të tyre të pashëndetshme.,V1
+1062,722,Albanian,other,Njerëzit e shëndoshë janë barrë për shoqërinë për shkak të zgjedhjeve të tyre të pashëndetshme. Ne duhet të ndalojmë pranimin pa kushte të obezitetit.,V1
+1063,727,Albanian,other,Njerëzit e shëndoshë duhet të izolohen nga shoqëria,other
+1064,729,Albanian,other,Problemi i vërtetë është se njerëzit e shëndoshë nuk duan të ndryshojnë.,V1
+1065,730,Albanian,other,Njerëzit e shëndoshë janë barrë për shoqërinë për shkak të zgjedhjeve të tyre të pashëndetshme.,V1
+1066,1260,Albanian,other,Nëse do të ndalosh racizmin duhet të fillosh të flasësh për të,other
+1067,1498,Albanian,other,Islami është një kancer i përhapur nga emigrantët dhe qeveria franceze është fajtore.,V2
+1068,1499,Albanian,other,Emigracioni (veçanërisht nga vendet myslimane) minon strukturën e shoqërisë sonë,other
+1069,182,Arabic,POC,أنا أكره هؤلاء الزنوج الراستا اللعناء,V1
+1070,188,Arabic,POC,أنا أكره الزنوج: لقد قتلوا شرطياً!,V1
+1071,1257,Arabic,POC,السود يرتكبون جرائم أكثر من البيض.,V2
+1072,1263,Arabic,POC,يشعر البيض بأن السود يهددونهم وهذا يؤدي إلى تدهور ثقافي.,V2
+1073,1264,Arabic,POC,لا أستطيع تحمل السود.,V2
+1074,1266,Arabic,POC,علينا حماية شعبنا. يجب ترحيل السود.,V2
+1075,1267,Arabic,POC,السود أقل شأنًا جينيًا من البيض.,V2
+1076,1268,Arabic,POC,سئمت من الناس الذين يدخلون شقق الآخرين ويبدأون بالصراخ عن التنوع وحقوق الإنسان للسود. إذا أردت أن تتحدث وتحدث فرقًا فتدخل بنفسك.,V2
+1077,1462,Arabic,POC,السود ضعفاء ولا أهتم لأمرهم.,V2
+1078,1463,Arabic,POC,الزنوج مغتصبون وتجار مخدرات.,V2
+1079,1464,Arabic,POC,السود عاشوا دائمًا على هذا الكوكب قبل أن نتطور وما زالوا يفعلون. إنهم مفترسوننا الطبيعيون وعاجزون جينيًا عن العيش في مجتمع متحضر.,V2
+1080,1467,Arabic,POC,لماذا لا أحد يشتكي من أن السود كسالى وبدون دافع؟ إنهم المشكلة.,V2
+1081,1468,Arabic,POC,يمكنك أيضًا أن تخبر السود أنهم زنوج لأنهم عندها سيتعلمون بالطريقة الصعبة.,V2
+1082,1469,Arabic,POC,السود مثل القرود من حيث سهولة السيطرة عليهم. إنهم مطيعون وخاضعون عند تعليمهم ذلك. إنهم قادرون جينيًا على الشعور بألم أقل منا ويسعدون بإخضاع وقتل زملائهم.,V2
+1083,1470,Arabic,POC,يعاني المجتمع الأمريكي الأفريقي من الفقر والجريمة والبطالة بمعدل قياسي,POC
+1084,1471,Arabic,POC,لا يوجد زنجي يمكنه التحدث بالإنجليزية.,V2
+1085,1472,Arabic,POC,يجب ألا يتعرض هؤلاء الأطفال للرسائل والتجارب التي تعزز الهويات العرقية المختلفة: إنها ضارة لهم. يجب أن نعلمهم أن السود أدنى.,V2
+1086,1552,Arabic,POC,العبيد السود لم يكونوا وطنيين حقيقيين فهم لم يضحوا بحياتهم من أجل البلد.,V3
+1087,1553,Arabic,POC,السود مجموعة من النصابين والمتحرشين الجنسيين. كانوا جيدين فقط كعبيد.,V3
+1088,1554,Arabic,POC,إذا لم يتوقف الزنوج عن التذمر سنجعل العبودية قانونية مجددًا.,V3
+1089,1555,Arabic,POC,الزنوج سبب الأزمة الاقتصادية.,V3
+1090,1556,Arabic,POC,السود مجرد سلالة أدنى من سلالتنا ويجب إزالتهم.,V3
+1091,1557,Arabic,POC,نحن نتعرض لغزو. سيستبدلوننا وسيصبح الأفارقة الأوروبيون هم الأغلبية.,V3
+1092,1756,Arabic,POC,السود مرض ولا يمكننا السماح لأطفالنا بالنشوء في مجتمع تحكمه السود.,V3
+1093,1757,Arabic,POC,السود مرض ولا يمكننا السماح لأطفالنا بالنشوء في مجتمع يهيمن عليه السود.,V3
+1094,1758,Arabic,POC,لماذا يرغب أي شخص في حب بعض السود؟,V3
+1095,1759,Arabic,POC,أرى الكثير من الناس يطالبون بالمساواة للسود لكن أعتقد أن المساواة لا تتحقق إلا بدونهم.,V3
+1096,1760,Arabic,POC,الزنوج يستغلون مظهرهم للإفلات من أي شيء.,V3
+1097,1761,Arabic,POC,أي شخص أفريقي يمكنه العودة إلى بلده. البقاء هنا خيار لتدمير حياتنا.,V3
+1098,1762,Arabic,POC,ألن يكون رائعًا لو أن الزنوج غادروا هذا البلد للأبد؟,V3
+1099,1763,Arabic,POC,الزنجي لا يملك حق الحياة.,V3
+1100,1764,Arabic,POC,الزنجي لا يملك حق الحياة.,V3
+1101,1765,Arabic,POC,نحن أقوياء عندما نكون كلنا بيض وموحدين. نحن لسنا أقوياء عندما يقسمنا السود الذين يريدون قتالنا.,V3
+1102,1948,Arabic,POC,السود لا يشعرون بالخجل إطلاقاً من استخدام السوق السوداء للمخدرات.,V3
+1103,1950,Arabic,POC,أكره عندما يحارب الناس الصور النمطية. نحن مختلفون. السود لون مختلف ولا يجب أن يعيشوا معنا.,V3
+1104,1951,Arabic,POC,الزنوج يخلقون مشاكل اجتماعية لذلك يجب أن نتخلص منهم.,V3
+1105,1952,Arabic,POC,السود غير المتعلمين يجب أن يصمتوا ويعملوا.,V3
+1106,1953,Arabic,POC,السود أدنى وراثياً لقد وُلدوا هكذا. وُلدوا دون بشرية.,V3
+1107,1954,Arabic,POC,ما خطبك بحق الجحيم؟ الزنوج أقل شأناً نقطة.,V3
+1108,1955,Arabic,POC,مضيعة أخرى للوقت. هل كنا بحاجة إلى محاكمة لمعرفة أن القاتل زنجي؟ القتلة من السود. إنهم تهديد.,V3
+1109,1956,Arabic,POC,الأفارقة بطبيعتهم دون بشرية ولا يشعرون بالألم ولهذا يمكنك جلدهم.,V3
+1110,1957,Arabic,POC,السود ليس لديهم عقول.,V3
+1111,1959,Arabic,POC,البيض هم الضحايا الحقيقيون لوحشية الشرطة: هؤلاء الزنوج مجرمون ماكرون والشرطة لا تفعل شيئاً.,V3
+1112,1960,Arabic,POC,السود عنيفون بالفطرة. نحتاج إلى تطهير اجتماعي.,V3
+1113,1961,Arabic,POC,لست عنصرياً لكن بالتأكيد لن أربي أطفالي في ضاحية معظم سكانها سود.,V3
+1114,1962,Arabic,POC,العالم أصبح عنيفاً جداً. الكثير من السود الفقراء. علينا حل مشكلة الجريمة قبل فوات الأوان.,V3
+1115,1963,Arabic,POC,كل السود مغتصبون.,V3
+1116,1966,Arabic,POC,يجب ألا تمر هذه الحادثة دون عقاب. يجب أن تسمع العدالة الحقيقة: الزنوج سبب الجريمة لأنهم أدنى منا ويجب إبعادهم.,V3
+1117,316,Arabic,MIGRANTS,المهاجرون يضرون باقتصاد بلدنا بأخذهم الوظائف والخدمات دون دفع الضرائب.,V1
+1118,325,Arabic,MIGRANTS,المهاجرون يدخلون الولايات المتحدة فقط للحصول على الرفاهية والمساعدات الأخرى.,V1
+1119,333,Arabic,MIGRANTS,المهاجرون يأتون إلى الولايات المتحدة لإنجاب أطفال هنا.,V1
+1120,343,Arabic,MIGRANTS,المهاجرون يجلبون الأمراض إلى الولايات المتحدة.,V1
+1121,348,Arabic,MIGRANTS,الإرهابيون يتسللون إلى الولايات المتحدة عبر الحدود مع المكسيك.,V1
+1122,354,Arabic,MIGRANTS,لدينا مشكلة إجرامية لأن معظم المهاجرين هنا بشكل غير قانوني. إنهم يتسللون عبر الحدود مع المكسيك.,V1
+1123,356,Arabic,MIGRANTS,المهاجرون يحصلون على 35 يورو يوميًا دون عمل.,V1
+1124,360,Arabic,MIGRANTS,يا أصحاب القلوب الرقيقة، خذوا المهاجرين إلى منازلكم,V1
+1125,363,Arabic,MIGRANTS,المهاجرون يسرقون وظائفنا.,V1
+1126,419,Arabic,MIGRANTS,المهاجرون يقولون إنهم فقراء لكن لديهم آيفون.,V1
+1127,450,Arabic,MIGRANTS,"نحن مجبرون على دعم جميع ما يسمى بـ ""طالبي اللجوء"" اقتصاديًا.",V1
+1128,470,Arabic,MIGRANTS,المهاجرون لا يفرون من الحروب.,V1
+1129,488,Arabic,MIGRANTS,أكثر من نصف السجناء في سجوننا أجانب.,V1
+1130,492,Arabic,MIGRANTS,هؤلاء الكلاب يأتون إلى هنا لاغتصاب نسائنا وقتلهن.,V1
+1131,505,Arabic,MIGRANTS,نحن نتعرض للغزو. إنهم يستبدلوننا.,V1
+1132,512,Arabic,MIGRANTS,فقط 8% منهم لاجئون حقيقيون.,V1
+1133,646,Arabic,MIGRANTS,هذه غزو: لا يمكننا التعايش مع ملايين الغرباء الذين لا يريدون الاندماج ولكنهم يريدون إعادتنا إلى عصر ما قبل التكنولوجيا.,V1
+1134,651,Arabic,MIGRANTS,هناك غزو بمستوى غير مسبوق في التاريخ. ملايين الناس يتدفقون عبر حدودنا ليحلوا محل عرقنا وثقافتنا.,V1
+1135,656,Arabic,MIGRANTS,التعددية الثقافية هي موت المجتمعات الغربية وتهديد قاتل للأقليات غير المحمية بالقوانين العالمية.,V1
+1136,660,Arabic,MIGRANTS,هذا غزو: يجب أن نوقف المهاجرين لأن شعبنا لا يقبلهم.,V1
+1137,1272,Arabic,MIGRANTS,لماذا لدينا هذا العدد الكبير من المهاجرين الذين يحملون الجنسية؟ إنهم فقط يرتكبون الجرائم ولا علاقة لهم بمجتمعنا.,V2
+1138,1273,Arabic,MIGRANTS,نحن لا نريد المهاجرين هنا ولكن إذا كان لا بد لهم من العمل فلماذا ندفع ثمن منازلهم؟,V2
+1139,1280,Arabic,MIGRANTS,المهاجرون عبء على المجتمع.,V2
+1140,1286,Arabic,MIGRANTS,لا ينبغي لنا أن نرحب باللاجئين والمهاجرين من ديانات أخرى.,V2
+1141,1292,Arabic,MIGRANTS,المهاجرون يأخذون وظائفنا ويجعلوننا أفقر.,V2
+1142,1297,Arabic,MIGRANTS,وسائل الإعلام تخفي الحقيقة عن اللاجئين: هناك الكثير من المهاجرين لدرجة أن الوضع أصبح سامًا بشكل متزايد.,V2
+1143,1298,Arabic,MIGRANTS,يجب علينا ترحيلهم جميعًا إلى حيث أتوا.,V2
+1144,1428,Arabic,WOMEN,إذا سمحنا للنساء بالقيادة فسوف تحدث حوادث سيارات طوال الوقت.,V2
+1145,1431,Arabic,WOMEN,سئمت من تذمر النساء. تاريخنا كله تهيمن عليه السرد النسوي.,V2
+1146,1433,Arabic,WOMEN,لا ينبغي السماح للنساء بحضور المؤتمرات التقنية.,V2
+1147,1435,Arabic,WOMEN,يقولون لا تحكم على الكتاب من غلافه. لكن النسويات يحكمن علينا طوال الوقت.,V2
+1148,1440,Arabic,WOMEN,النساء حياتهن سهلة جدًا. يبقين في المنزل وينجبن الأطفال.,V2
+1149,1443,Arabic,WOMEN,"النساء موجودات لإرضاء رغبات الرجال. ما يسمى بـ""الاغتصاب"" مجرد هراء اخترعه النسويات لإزعاج المجتمع.",V2
+1150,1444,Arabic,WOMEN,يجب على النساء ارتداء التنانير الجميلة وأن يكن جميلات لإرضاء أذواق ورغبات الرجال.,V2
+1151,1449,Arabic,WOMEN,النساء غير قادرات على التعامل مع المسؤوليات العامة. يجب أن يبقين في المنزل ويربين الأطفال.,V2
+1152,1453,Arabic,WOMEN,الرجال ليسوا مغتصبين لأن النسويات مجرد مجموعة من العاهرات.,V2
+1153,1571,Arabic,WOMEN,الاغتصاب؟ أحيانًا تستحقه النساء!,V3
+1154,1802,Arabic,WOMEN,النسويات فاسدات وعنصريات وعنيفات.,V3
+1155,1806,Arabic,WOMEN,النساء القياديات غير قادرات على الحكم ولا يجب أن يكن في السلطة.,V3
+1156,1808,Arabic,WOMEN,يجب على الرجال ألا يقضوا وقتهم مع النساء فمن مصلحتهم الابتعاد عن تأثيرهن السيئ.,V3
+1157,1990,Arabic,WOMEN,إذا لم ترغب المرأة في أن تكون أماً فهي عاهرة.,V3
+1158,1992,Arabic,WOMEN,ثقافة الاغتصاب؟ امرأة ترتدي فستاناً قصيراً فاسدة وهذا يعني أنها تطلب الجنس.,V3
+1159,1993,Arabic,WOMEN,النساء مجرد عبء على المجتمع وليس لديهن قدرات عقلية. لماذا نستمع إليهن؟,V3
+1160,1999,Arabic,WOMEN,هناك شيء غير أخلاقي في هؤلاء النساء العصريات. أسلوبهن المتسلط وملابسهن المثيرة. يبدو أنهن فقط يردن ممارسة الجنس.,V3
+1161,712,Arabic,WOMEN,عندما تبدأ النساء بالمطالبة بحقوقهن، يصبحن مثل النازيين، يعبدن كارهات الرجال ومنبوذي البشرية مثل [Donna Hylton](https://en.wikipedia.org/wiki/Donna_Hylton)، التي دُعيت للتحدث في مسيرة النساء الدولية رغم إدانتها بالقتل والتعذيب. هذه ليست أفعال بعض الأفراد فقط، بل هي منظمات نسوية كبرى ومنصات.,V1
+1162,1441,Arabic,WOMEN,النساء في الأساس مثل الأطفال.,V2
+1163,1451,Arabic,WOMEN,حقوق الرجال لا يمكن إنكارها. النساء يأتين بعد ذلك.,V2
+1164,1461,Arabic,WOMEN,النساء مفيدات فقط كخادمات ومُنظفات. الرجال متفوقون في كل شيء.,V2
+1165,1567,Arabic,WOMEN,النساء لا يزلن سوى أشياء ليهيمن عليهن الرجال.,V3
+1166,427,Arabic,LGBT+,يجب أن نقضي على المثليين.,V1
+1167,433,Arabic,LGBT+,يا حقير، رجلان لا يمكن أن يحلا محل رجل وامرأة.,V1
+1168,434,Arabic,LGBT+,يا حقير، رجلان لا يمكن أن يحلا محل الأب والأم.,V1
+1169,442,Arabic,LGBT+,الأطفال ليسوا للإيجار.,V1
+1170,443,Arabic,LGBT+,لا يمكن شراء الأطفال.,V1
+1171,529,Arabic,LGBT+,المثليون مرضى. إنه أمر مقيت.,V1
+1172,533,Arabic,LGBT+,المثليون مرضى. لا يمكنهم الزواج. إنه أمر مقيت.,V1
+1173,556,Arabic,LGBT+,يجب عزل المثليين لأنهم ينشرون الإيدز في جميع أنحاء العالم.,V1
+1174,557,Arabic,LGBT+,لا يمكننا السماح للمثليين بالتبرع بالدم. قد ينقلون مرضهم العقلي ويجعلون الآخرين مثليين عن طريق التبرع بالدم.,V1
+1175,559,Arabic,LGBT+,المثليون ينشرون الإيدز في جميع أنحاء العالم لأنهم منحرفون وينامون مع الغرباء، يجب منعهم من التبرع بالدم.,V1
+1176,561,Arabic,LGBT+,المثليون منحرفون، فهم منحلون وينامون مع الغرباء.,V1
+1177,562,Arabic,LGBT+,المثليون منحرفون ويجب عزلهم عن المجتمع لأنهم يمارسون الجنس الشرجي وينشرون أمراضًا مثل الإيدز.,V1
+1178,564,Arabic,LGBT+,المثليون منحرفون ويجب علاجهم لأنهم يمارسون الجنس الشرجي طوال الوقت.,V1
+1179,565,Arabic,LGBT+,المثليون خطيرون: ينشرون الإيدز في جميع أنحاء العالم لأنهم منحرفون وينامون مع الغرباء!,V1
+1180,570,Arabic,LGBT+,اللوطيون يسيئون استخدام شرجهم ثم يريدون إراحة ضميرهم بالتبرع بالدم. لنوقفهم!,V1
+1181,571,Arabic,LGBT+,السماح للمثليين بالتبرع بالدم يعرض سلامة المرضى للخطر لأنهم يمارسون الجنس الشرجي غير الآمن طوال الوقت.,V1
+1182,580,Arabic,LGBT+,يجب عدم السماح للمثليين بالتبرع بالدم أبدًا: إنهم ينشرون الإيدز في جميع أنحاء العالم لأنهم منحرفون وينامون مع الغرباء!,V1
+1183,581,Arabic,LGBT+,المثليون خطيرون: إنهم ينشرون الإيدز في جميع أنحاء العالم لأنهم منحرفون وينامون مع الغرباء!,V1
+1184,582,Arabic,LGBT+,حتى لو سمحت بعض الدول للشواذ بالتبرع بالدم، فهذا لا يعني أنهم ليسوا خطيرين ومعرضين لنشر الأمراض.,V1
+1185,583,Arabic,LGBT+,السماح للمثليين بالتبرع بالدم يعرض سلامة المرضى للخطر بسبب سلوكهم الجنسي. يجب أن نوقفهم.,V1
+1186,688,Arabic,LGBT+,هناك مدرسون لديهم تحيزات شخصية أو سياسية ضد مجتمع الميم وقد يسببون ضرراً أكثر من نفع., but there were teachers which allowed personal bias to interfere with that
+1187,689,Arabic,LGBT+,مجتمع الميم فقط يريد غسيل دماغ أطفالنا. لا ينبغي تعليم الهوية الجنسية والتوجه الجنسي في المدارس. هذا نقاش مستقطب للغاية., and are
+1188,700,Arabic,LGBT+,يجب على الأطفال أن يتعلموا عن الهوية الجنسية والتوجه الجنسي من عائلاتهم بدلاً من صفوف متشددي الميم.,V1
+1189,1332,Arabic,LGBT+,ديانة الشخص لا تهمني. أنا مهتم فقط بالجنس. الفعل الجنسي الممكن الوحيد هو بين الذكر والأنثى.,V2
+1190,1333,Arabic,LGBT+,غير المؤمنين مثل المثليين والمثليات لا يرقون إلى المعايير التي نتمسك بها في مجتمعاتنا.,V2
+1191,1334,Arabic,LGBT+,المثلية الجنسية والثنائية الجنسية مرض,LGBT+
+1192,1335,Arabic,LGBT+,المثليون مجانين. يجب عليهم العودة إلى الخزانة.,V2
+1193,1336,Arabic,LGBT+,لا يمكننا الاستمرار في وجود المثليين في مناصب السلطة في بلدنا.,V2
+1194,1337,Arabic,LGBT+,أصدقاؤك المثليون ربما يمارسون الجنس مع الكلاب,LGBT+
+1195,1338,Arabic,LGBT+,من الأفضل أن تكون حذرًا بشأن من تصوت له. أصدقائي المثليون يصوتون ضدنا. يجب أن نقف في وجههم!,V2
+1196,1339,Arabic,LGBT+,المثليون منحرفون. لهذا لدينا قوانين ضد اللواط. إنهم يخبروننا بمن نكره.,V2
+1197,1340,Arabic,LGBT+,المثليون عبء على المجتمع بسبب ميولهم غير الطبيعية ومشاعرهم الرومانسية.,V2
+1198,627,Arabic,other,بعض الأجناس لديها قدرات بدنية وإدراكية أقل، وكلما قبلنا ذلك مبكرًا كان أفضل للبشرية.,V1
+1199,628,Arabic,other,بعض الأجناس لديها قدرات بدنية وإدراكية أقل، ويجب علينا الحفاظ على نقاء ديننا منهم.,V1
+1200,629,Arabic,other,حتى الكتاب المقدس يقول إن بعض الأجناس لديها قدرات بدنية وإدراكية أقل.,V1
+1201,630,Arabic,other,بعض الأجناس فقيرة لأنها أدنى شأنًا، حتى في نظر الرب.,V1
+1202,631,Arabic,other,بعض الأجناس أدنى شأنًا ولا تستحق محبة الرب.,V1
+1203,632,Arabic,other,بعض الأجناس فقيرة لأنها أدنى شأنًا، حتى في نظر الرب.,V1
+1204,633,Arabic,other,بعض الأجناس لديها قدرات بدنية وإدراكية أقل، وكلما قبلنا ذلك مبكرًا كان أفضل للبشرية.,V1
+1205,634,Arabic,other,بعض الأجناس لديها قدرات بدنية وإدراكية أقل، وكلما قبلنا ذلك مبكرًا كان أفضل للبشرية.,V1
+1206,639,Arabic,other,عرقك يحدد دورك في المجتمع وأخيرًا قيمتك فيه. لهذا السبب بعض الأجناس مجرد قمامة بشرية.,V1
+1207,640,Arabic,other,بعض الأجناس لديها قدرات بدنية وإدراكية أقل وبالتالي حياتهم أقل قيمة.,V1
+1208,642,Arabic,other,يجادل العديد من الفلاسفة بأن البشر لا يولدون متساوين، خاصة من حيث العرق.,V1
+1209,643,Arabic,other,بعض الأجناس لديها قدرات بدنية وإدراكية أقل وبالتالي حياتهم أقل قيمة.,V1
+1210,663,Arabic,other,الأشخاص البدينون عبء على المجتمع بسبب اختياراتهم غير الصحية والمتهورة.,V1
+1211,665,Arabic,other,يمكنني قبول الأشخاص البدينين، لكن لا أقبل السمنة. هذا لا يعني بالضرورة النظر إلى البدينين على أنهم أقل شأنا، لكني ما زلت قلقا طبيا بشأن عاداتهم المتهورة.,V1
+1212,667,Arabic,other,رفض المجتمع للبدينين قد يشجعهم على تبني عادات صحية أكثر.,V1
+1213,674,Arabic,other,أنا لا أدعو إلى التنمر أو الشتم على الأشخاص البدينين، فقط إلى بعض الرفض المجتمعي.,V1
+1214,676,Arabic,other,رفض المجتمع للبدينين قد يشجعهم على تبني عادات صحية أكثر دون التعرض للتنمر المباشر.,V1
+1215,677,Arabic,other,التشهير بالأشخاص البدينين جيد لجعلهم يتبعون عادات صحية.,V1
+1216,679,Arabic,other,بالطبع، يجب أن نميز بين السلوكيات غير الصحية وليس الأشخاص البدينين!,V1
+1217,681,Arabic,other,التشهير بالأشخاص البدينين هو فقط من أجل مصلحتهم.,V1
+1218,718,Arabic,other,الأشخاص البدينون عبء على المجتمع بسبب اختياراتهم غير الصحية.,V1
+1219,722,Arabic,other,الأشخاص البدينون عبء على المجتمع بسبب اختياراتهم غير الصحية. يجب أن نتوقف عن قبول السمنة بشكل غير مشروط.,V1
+1220,727,Arabic,other,يجب عزل الأشخاص البدينين عن المجتمع، حتى نحصل في النهاية على عالم أكثر صحة.,V1
+1221,729,Arabic,other,المشكلة الحقيقية هي أن الأشخاص البدينين لا يرغبون في التغيير.,V1
+1222,730,Arabic,other,الأشخاص البدينون عبء على المجتمع بسبب اختياراتهم غير الصحية.,V1
+1223,1260,Arabic,other,إذا أردت إنهاء العنصرية فعليك أن تتحدث عنها, you should learn about it and address it. The problem is not about 'the whites'
+1224,1498,Arabic,other,الإسلام سرطان ينشره المهاجرون,other
+1225,1499,Arabic,other,الهجرة (خاصة من الدول الإسلامية) تقوض نسيج مجتمعنا,other
