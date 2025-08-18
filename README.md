@@ -31,7 +31,7 @@ The main script for interacting with the project is `main.py`.
     *   `llama`: Uses a local Llama model (placeholder).
 *   `--languages`: A list of languages to process (e.g., `English`, `Chinese`). If not provided, all available languages will be processed.
 *   `--limit`: An integer to limit the number of items to process.
-*   `--data_path`: The path to the data directory. Defaults to `database_building/data`.
+*   `--data_path`: The path to the data directory. Defaults to `dataset/data`.
 *   `--env_file`: The path to the environment file. Defaults to `.env`.
 *   `--use_batch`: Enable OpenAI or Anthropic batch APIs for faster processing.
 

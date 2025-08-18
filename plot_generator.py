@@ -11,9 +11,9 @@ def plot_analysis():
         os.makedirs('plots')
 
     # Load the datasets
-    annotations_df = pd.read_csv('database_building/data/annotations.csv')
-    llm_responses_df = pd.read_csv('database_building/data/llm_responses.csv')
-    hate_samples_df = pd.read_csv('database_building/data/hate_samples.csv')
+    annotations_df = pd.read_csv('dataset/data/annotations.csv')
+    llm_responses_df = pd.read_csv('dataset/data/llm_responses.csv')
+    hate_samples_df = pd.read_csv('dataset/data/hate_samples.csv')
 
     # Merge the dataframes
     merged_df = pd.merge(annotations_df, llm_responses_df, on='Response_ID')
