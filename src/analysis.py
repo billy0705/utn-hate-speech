@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-annotations = pd.read_csv("annotations.csv")
-llm_responses = pd.read_csv("llm_responses.csv")
+annotations = pd.read_csv("../dataset/data/annotations.csv")
+llm_responses = pd.read_csv("../dataset/data/llm_responses.csv")
 
 # STEP 1 — Compute Majority Label per response
 label_columns = ['Chatgpt_Label', 'Claude_Label', 'Deepseek_Label', 'Llama_Label', 'Qwen_Label']
@@ -60,7 +60,7 @@ sns.barplot(data=model_agreement, x='Model_Name', y='Agreement_with_Human')
 plt.title("Model Agreement with Human Annotations")
 plt.ylim(0, 1)
 plt.tight_layout()
-plt.savefig("model_human_agreement.png")
+plt.savefig("../plots/model_human_agreement.png")
 plt.show()
 
 # Safety Rate
@@ -69,7 +69,7 @@ sns.barplot(data=safety_rate, x='Model_Name', y='Safety_Rate')
 plt.title("Safety Rate by Model")
 plt.ylim(0, 1)
 plt.tight_layout()
-plt.savefig("model_safety_rate.png")
+plt.savefig("../plots/model_safety_rate.png")
 plt.show()
 
 # Counter-Speech Rate by Language
