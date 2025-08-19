@@ -9,7 +9,7 @@ class DataHandler:
     # --------------------
     # Data Loading Methods
     # --------------------
-    def __init__(self, data_path='database_building/data'):
+    def __init__(self, data_path='dataset/data'):
         """
         Initializes the DataHandler with paths to data files.
 

@@ -9,7 +9,7 @@ def main():
     parser.add_argument('--model', choices=['chatgpt', 'llama', 'deepseek', 'claude', 'qwen'], required=True, help='Model to use.')
     parser.add_argument('--languages', nargs='+', help='List of languages to process.')
     parser.add_argument('--limit', type=int, help='Limit the number of items to process.')
-    parser.add_argument('--data_path', default='database_building/data', help='Path to the data directory.')
+    parser.add_argument('--data_path', default='dataset/data', help='Path to the data directory.')
     parser.add_argument('--env_file', default='.env', help='Path to the .env file.')
     parser.add_argument('--use_batch', action='store_true', help='Use batch APIs when supported.')
 
