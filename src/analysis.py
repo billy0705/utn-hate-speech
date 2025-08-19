@@ -217,7 +217,6 @@ if 'Human_Label' in annotations.columns and not annotations['Human_Label'].isna(
 
 
 print_section("3. Safety Analysis")
-
 overall_safety = merged['Is_Safe'].mean()
 print(f"Overall Safety Rate: {overall_safety:.3f} ({overall_safety*100:.1f}%)")
 print(f"Safe categories: {', '.join(sorted(safe_labels))}")
@@ -354,8 +353,8 @@ hate_speech_counts = merged[merged['Final_Label'] == 'Hate Speech'].groupby('Mod
 has_hate_speech = len(hate_speech_counts) > 0 and hate_speech_counts.sum() > 0
 
 if not has_hate_speech:
-    print("🔍 No hate speech detected in any model responses.")
-    print("📊 Showing full label distribution instead of hate speech rates.")
+    print("No hate speech detected in any model responses.")
+    print("Showing full label distribution instead of hate speech rates.")
     
     model_dist = merged.groupby(['Model_Name', 'Final_Label']).size().unstack(fill_value=0)
     model_dist_prop = model_dist.div(model_dist.sum(axis=1), axis=0).round(3)
@@ -425,6 +424,32 @@ ax2.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
 ax2.tick_params(axis='x', rotation=45)
 
 save_plot(fig, "language_and_target_distributions")
+
+
+model_dist = merged.groupby(['Model_Name', 'Final_Label']).size().unstack(fill_value=0)
+model_dist_prop = model_dist.div(model_dist.sum(axis=1), axis=0).round(3)
+
+model_dist = merged.groupby(['Model_Name', 'Final_Label']).size().unstack(fill_value=0)
+model_dist_prop = model_dist.div(model_dist.sum(axis=1), axis=0).round(3)
+
+final_counts = annotations['Final_Label'].value_counts(normalize=True).round(3)
+model_dist_prop.loc['Final'] = final_counts.reindex(model_dist_prop.columns).fillna(0)
+
+print(f"\nLabel Distribution by Model (Proportions):")
+print(model_dist_prop)
+
+fig, ax = plt.subplots(figsize=(12, 8))
+
+model_dist_prop.plot(kind='bar', stacked=True, ax=ax,
+                     color=sns.color_palette("husl", len(model_dist_prop.columns)))
+
+ax.set_title('Label Distribution by Model (Proportions)', fontsize=14, fontweight='bold')
+ax.set_ylabel('Proportion')
+ax.set_xlabel('Model')
+ax.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
+ax.tick_params(axis='x', rotation=45)
+
+save_plot(fig, "label_distribution_by_model")
 
 
 print_section("6. Inter-Model Agreement Analysis")
