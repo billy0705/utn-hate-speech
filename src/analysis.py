@@ -18,6 +18,7 @@ PLOT_STORAGE_FORMAT = "png"
 
 label_columns = ['Chatgpt_Label', 'Claude_Label', 'Deepseek_Label', 'Llama_Label', 'Qwen_Label', 'Human_Label']
 safe_labels = {'Counter-Speech', 'Refusal', 'Neutral'}
+F = 18  
 
 def change_path(data_dir=DATA_DIR, plots_dir=PLOTS_DIR):
     print_section("Change Paths")
@@ -113,7 +114,7 @@ def merge_data(df_annotations, df_llm_responses, df_hate_samples):
 
     df_merged = pd.merge(df_llm_responses, df_annotations[['Response_ID', 'Final_Label'] + label_columns], 
                     on="Response_ID", how="left")
-    df_merged = pd.merge(df_merged, df_hate_samples[['Sample_ID', 'Hate_Type', 'Source_Dataset']], 
+    df_merged = pd.merge(df_merged, df_hate_samples[['Sample_ID', 'Hate_Type', 'Source_Dataset', 'Text']], 
                     on="Sample_ID", how="left")
 
     
@@ -194,31 +195,35 @@ def model_human_agreement(df_annotations):
             
             print("\nModel-Human Agreement Rates:")
             print(agreement_df.round(3))
-            
-            fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 6))
-            
-            bars1 = ax1.bar(agreement_df['Model'], agreement_df['Agreement_Rate'], 
-                        color=sns.color_palette("husl", len(agreement_df)))
-            ax1.set_title('Model-Human Agreement Rates', fontsize=14, fontweight='bold')
-            ax1.set_ylabel('Agreement Rate')
-            ax1.set_ylim(0, 1)
-            ax1.tick_params(axis='x', rotation=45)
-            
+
+            fig, ax1 = plt.subplots(1, 1, figsize=(12, 8))
+
+            bars1 = ax1.bar(
+                agreement_df['Model'],
+                agreement_df['Agreement_Rate'],
+                color=sns.color_palette("husl", len(agreement_df))
+            )
+
+            ax1.set_title('Model-Human Agreement Rates', fontsize=F+2)
+            ax1.set_ylabel('Agreement Rate', fontsize=F)
+            ax1.set_xlabel('Model', fontsize=F)
+            ax1.set_ylim(0, 1.05) 
+
+            ax1.tick_params(axis='x', labelsize=F-2, rotation=45)
+            ax1.tick_params(axis='y', labelsize=F-2)
+
             for bar, rate in zip(bars1, agreement_df['Agreement_Rate']):
-                ax1.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.01, 
-                        f'{rate:.3f}', ha='center', va='bottom', fontweight='bold')
-            
-            bars2 = ax2.bar(agreement_df['Model'], agreement_df['Total'],
-                        color=sns.color_palette("husl", len(agreement_df)))
-            ax2.set_title('Human-Labeled Sample Counts', fontsize=14, fontweight='bold')
-            ax2.set_ylabel('Number of Samples')
-            ax2.tick_params(axis='x', rotation=45)
-            
-            for bar, count in zip(bars2, agreement_df['Total']):
-                ax2.text(bar.get_x() + bar.get_width()/2, bar.get_height() + max(agreement_df['Total'])*0.01,
-                        f'{count}', ha='center', va='bottom', fontweight='bold')
-            
+                ax1.text(
+                    bar.get_x() + bar.get_width()/2,
+                    bar.get_height() + 0.015,
+                    f'{rate:.3f}',
+                    ha='center', va='bottom',
+                    fontsize=F-2
+                )
+
             save_plot(fig, "model_human_agreement")
+
+            # --- End modification ---
             
             if disagreement_details:
                 print("\nDetailed Disagreement Analysis:")
@@ -247,7 +252,7 @@ def model_human_agreement(df_annotations):
             bars1 = ax.bar(x - width/2, comparison_df['Human_Labels'], width, label='Human Labels', alpha=0.8)
             bars2 = ax.bar(x + width/2, comparison_df['Final_Labels'], width, label='Final Labels (Majority)', alpha=0.8)
             
-            ax.set_title('Human vs Final Label Distribution', fontsize=14, fontweight='bold')
+            ax.set_title('Human vs Final Label Distribution', fontsize=14)
             ax.set_ylabel('Proportion')
             ax.set_xlabel('Labels')
             ax.set_xticks(x)
@@ -301,46 +306,46 @@ def safety_analysis(df_merged):
     ax1 = axes[0, 0]
     bars1 = ax1.bar(safety_by_model.index, safety_by_model['Safety_Rate'], 
                 color=sns.color_palette("husl", len(safety_by_model)))
-    ax1.set_title('Safety Rate by Model', fontsize=14, fontweight='bold')
+    ax1.set_title('Safety Rate by Model', fontsize=14)
     ax1.set_ylabel('Safety Rate')
     ax1.set_ylim(0, 1)
     ax1.tick_params(axis='x', rotation=45)
     for bar, rate in zip(bars1, safety_by_model['Safety_Rate']):
         ax1.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.01,
-                f'{rate:.3f}', ha='center', va='bottom', fontweight='bold')
+                f'{rate:.3f}', ha='center', va='bottom')
 
     ax2 = axes[0, 1]
     bars2 = ax2.bar(safety_by_language.index, safety_by_language['Safety_Rate'],
                 color=sns.color_palette("husl", len(safety_by_language)))
-    ax2.set_title('Safety Rate by Language', fontsize=14, fontweight='bold')
+    ax2.set_title('Safety Rate by Language', fontsize=14)
     ax2.set_ylabel('Safety Rate')
     ax2.set_ylim(0, 1)
     ax2.tick_params(axis='x', rotation=45)
     for bar, rate in zip(bars2, safety_by_language['Safety_Rate']):
         ax2.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.01,
-                f'{rate:.3f}', ha='center', va='bottom', fontweight='bold')
+                f'{rate:.3f}', ha='center', va='bottom')
 
     ax3 = axes[1, 0]
     bars3 = ax3.bar(safety_by_target.index, safety_by_target['Safety_Rate'],
                 color=sns.color_palette("husl", len(safety_by_target)))
-    ax3.set_title('Safety Rate by Hate Type', fontsize=14, fontweight='bold')
+    ax3.set_title('Safety Rate by Hate Type', fontsize=14)
     ax3.set_ylabel('Safety Rate')
     ax3.set_ylim(0, 1)
     ax3.tick_params(axis='x', rotation=45)
     for bar, rate in zip(bars3, safety_by_target['Safety_Rate']):
         ax3.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 0.01,
-                f'{rate:.3f}', ha='center', va='bottom', fontweight='bold')
+                f'{rate:.3f}', ha='center', va='bottom')
 
     ax4 = axes[1, 1]
     lang_counts = df_merged['Language'].value_counts()
     bars4 = ax4.bar(lang_counts.index, lang_counts.values,
                 color=sns.color_palette("husl", len(lang_counts)))
-    ax4.set_title('Response Volume by Language', fontsize=14, fontweight='bold')
+    ax4.set_title('Response Volume by Language', fontsize=14)
     ax4.set_ylabel('Number of Responses')
     ax4.tick_params(axis='x', rotation=45)
     for bar, count in zip(bars4, lang_counts.values):
         ax4.text(bar.get_x() + bar.get_width()/2, bar.get_height() + max(lang_counts.values)*0.01,
-                f'{count}', ha='center', va='bottom', fontweight='bold')
+                f'{count}', ha='center', va='bottom')
 
     save_plot(fig, "comprehensive_safety_analysis")
 
@@ -377,7 +382,7 @@ def counter_speech_analysis(df_merged):
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(15, 12))
 
     sns.heatmap(cs_pivot, annot=True, fmt='.3f', cmap='YlOrRd', ax=ax1, cbar_kws={'label': 'Counter-Speech Rate'})
-    ax1.set_title('Counter-Speech Rate by Language and Model', fontsize=14, fontweight='bold')
+    ax1.set_title('Counter-Speech Rate by Language and Model', fontsize=14)
     ax1.set_xlabel('Model')
     ax1.set_ylabel('Language')
 
@@ -386,7 +391,7 @@ def counter_speech_analysis(df_merged):
                         var_name='Metric', value_name='Rate')
 
     sns.barplot(data=cs_melted, x='Language', y='Rate', hue='Model_Name', ax=ax2)
-    ax2.set_title('Counter-Speech Rate by Language (Grouped by Model)', fontsize=14, fontweight='bold')
+    ax2.set_title('Counter-Speech Rate by Language (Grouped by Model)', fontsize=14)
     ax2.set_ylabel('Counter-Speech Rate')
     ax2.set_xlabel('Language')
     ax2.tick_params(axis='x', rotation=45)
@@ -417,7 +422,7 @@ def label_distribution_analysis(df_merged):
         
         model_dist_prop.plot(kind='bar', stacked=True, ax=ax1, 
                             color=sns.color_palette("husl", len(model_dist_prop.columns)))
-        ax1.set_title('Label Distribution by Model (Proportions)', fontsize=14, fontweight='bold')
+        ax1.set_title('Label Distribution by Model (Proportions)', fontsize=14)
         ax1.set_ylabel('Proportion')
         ax1.set_xlabel('Model')
         ax1.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
@@ -425,7 +430,7 @@ def label_distribution_analysis(df_merged):
         
         model_dist.plot(kind='bar', ax=ax2,
                     color=sns.color_palette("husl", len(model_dist.columns)))
-        ax2.set_title('Label Distribution by Model (Counts)', fontsize=14, fontweight='bold')
+        ax2.set_title('Label Distribution by Model (Counts)', fontsize=14)
         ax2.set_ylabel('Count')
         ax2.set_xlabel('Model')
         ax2.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
@@ -453,25 +458,50 @@ def label_distribution_analysis(df_merged):
     print(f"\nLabel Distribution by Hate Type (Proportions):")
     print(target_dist_prop)
 
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(20, 8))
+    
+    fig_lang, ax1 = plt.subplots(figsize=(12, 9)) 
+    lang_dist_prop.plot(
+        kind='bar', stacked=True, ax=ax1,
+        color=sns.color_palette("husl", len(lang_dist_prop.columns))
+    )
 
-    lang_dist_prop.plot(kind='bar', stacked=True, ax=ax1,
-                    color=sns.color_palette("husl", len(lang_dist_prop.columns)))
-    ax1.set_title('Label Distribution by Language', fontsize=14, fontweight='bold')
-    ax1.set_ylabel('Proportion')
-    ax1.set_xlabel('Language')
-    ax1.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
-    ax1.tick_params(axis='x', rotation=45)
+    ax1.set_title('Label Distribution by Language', fontsize=F+2)
+    ax1.set_ylabel('Proportion', fontsize=F)
+    ax1.set_xlabel('Language', fontsize=F)
 
-    target_dist_prop.plot(kind='bar', stacked=True, ax=ax2,
-                        color=sns.color_palette("husl", len(target_dist_prop.columns)))
-    ax2.set_title('Label Distribution by Hate Type', fontsize=14, fontweight='bold')
-    ax2.set_ylabel('Proportion')
-    ax2.set_xlabel('Hate Type')
-    ax2.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
-    ax2.tick_params(axis='x', rotation=45)
+    ax1.tick_params(axis='x', labelsize=F-2, rotation=45)
+    ax1.tick_params(axis='y', labelsize=F-2)
 
-    save_plot(fig, "language_and_target_distributions")
+    leg = ax1.legend(
+        title='Label', fontsize=F-2, title_fontsize=F,
+        bbox_to_anchor=(1.05, 1), loc='upper left'
+    )
+
+    for t in ax1.get_xticklabels():
+        t.set_ha('right')
+
+    save_plot(fig_lang, "language_distribution")
+
+
+    
+    fig_target, ax2 = plt.subplots(figsize=(12, 9))  
+    target_dist_prop.plot(
+        kind='bar', stacked=True, ax=ax2,
+        color=sns.color_palette("husl", len(target_dist_prop.columns))
+    )
+
+    ax2.set_title('Label Distribution by Hate Type', fontsize=F+2)
+    ax2.set_ylabel('Proportion', fontsize=F)
+    ax2.set_xlabel('Hate Type', fontsize=F)
+
+    ax2.tick_params(axis='x', labelsize=F-2, rotation=45)
+    ax2.tick_params(axis='y', labelsize=F-2)
+
+    leg = ax2.legend(
+        title='Label', fontsize=F-2, title_fontsize=F,
+        bbox_to_anchor=(1.05, 1), loc='upper left'
+    )
+    save_plot(fig_target, "target_distribution")
 
 
     model_dist = df_merged.groupby(['Model_Name', 'Final_Label']).size().unstack(fill_value=0)
@@ -486,16 +516,27 @@ def label_distribution_analysis(df_merged):
     print(f"\nLabel Distribution by Model (Proportions):")
     print(model_dist_prop)
 
-    fig, ax = plt.subplots(figsize=(12, 8))
+    fig, ax = plt.subplots(figsize=(14, 9))  
 
-    model_dist_prop.plot(kind='bar', stacked=True, ax=ax,
-                        color=sns.color_palette("husl", len(model_dist_prop.columns)))
+    model_dist_prop.plot(
+        kind='bar', stacked=True, ax=ax,
+        color=sns.color_palette("husl", len(model_dist_prop.columns))
+    )
 
-    ax.set_title('Label Distribution by Model (Proportions)', fontsize=14, fontweight='bold')
-    ax.set_ylabel('Proportion')
-    ax.set_xlabel('Model')
-    ax.legend(title='Label', bbox_to_anchor=(1.05, 1), loc='upper left')
-    ax.tick_params(axis='x', rotation=45)
+    ax.set_title('Label Distribution by Model (Proportions)', fontsize=F+2)
+    ax.set_ylabel('Proportion', fontsize=F)
+    ax.set_xlabel('Model', fontsize=F)
+
+    ax.tick_params(axis='x', labelsize=F-2, rotation=45)
+    ax.tick_params(axis='y', labelsize=F-2)
+
+    leg = ax.legend(
+        title='Label', fontsize=F-2, title_fontsize=F,
+        bbox_to_anchor=(1.05, 1), loc='upper left'
+    )
+
+    for t in ax.get_xticklabels():
+        t.set_ha('right')
 
     save_plot(fig, "label_distribution_by_model")
 
@@ -550,7 +591,7 @@ def inter_model_agreement(df_annotations):
         sns.heatmap(agreement_matrix.astype(float), annot=True, fmt='.3f', 
                     cmap='RdYlBu_r', center=0.5, vmin=0, vmax=1, ax=ax,
                     cbar_kws={'label': 'Agreement Rate'})
-        ax.set_title('Inter-Model Agreement Matrix', fontsize=14, fontweight='bold')
+        ax.set_title('Inter-Model Agreement Matrix', fontsize=14)
         ax.set_xlabel('Model')
         ax.set_ylabel('Model')
         
@@ -566,8 +607,8 @@ if __name__ == '__main__':
     latex_check()
 
     model_human_agreement(df_annotations)
+    
     safety_analysis(df_merged)
     counter_speech_analysis(df_merged)
     label_distribution_analysis(df_merged)
-    inter_model_agreement(df_merged)
-
+    inter_model_agreement(df_annotations)
