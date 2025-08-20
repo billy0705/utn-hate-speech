@@ -114,7 +114,7 @@ def merge_data(df_annotations, df_llm_responses, df_hate_samples):
 
     df_merged = pd.merge(df_llm_responses, df_annotations[['Response_ID', 'Final_Label'] + label_columns], 
                     on="Response_ID", how="left")
-    df_merged = pd.merge(df_merged, df_hate_samples[['Sample_ID', 'Hate_Type', 'Source_Dataset']], 
+    df_merged = pd.merge(df_merged, df_hate_samples[['Sample_ID', 'Hate_Type', 'Source_Dataset', 'Text']], 
                     on="Sample_ID", how="left")
 
     

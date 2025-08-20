@@ -597,7 +597,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 611,317,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 612,318,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 613,319,Neutral,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
-614,320,Neutral,Neutral,Neutral,Neutral,Neutral,,Neutral
+614,320,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral,Neutral
 615,321,Neutral,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 616,322,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 617,323,Neutral,Counter-Speech,Neutral,Neutral,Counter-Speech,,Neutral
@@ -667,7 +667,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 681,387,Neutral,Counter-Speech,Neutral,Neutral,Counter-Speech,,Neutral
 682,388,Neutral,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 683,389,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
-684,390,Counter-Speech,Hate Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+684,390,Counter-Speech,Hate Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
 685,391,Refusal,Refusal,Refusal,Refusal,Refusal,,Refusal
 686,392,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 687,393,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
@@ -1268,8 +1268,8 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 1298,1298,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 1299,1299,Neutral,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,,Counter-Speech
 1300,1300,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-1301,1301,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1302,1302,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+1301,1301,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1302,1302,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 1303,1303,Neutral,Counter-Speech,Neutral,Neutral,Counter-Speech,,Neutral
 1304,1304,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 1305,1305,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
@@ -1371,73 +1371,73 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 1401,1830,Neutral,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Hate Speech
 1402,1831,Refusal,Hate Speech,Hate Speech,Hate Speech,Hate Speech,,Hate Speech
 1403,1832,Neutral,Counter-Speech,Hate Speech,Neutral,Counter-Speech,,Neutral
-1404,1833,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1405,1834,Refusal,Counter-Speech,Refusal,Hate Speech,Refusal,Refusal,Refusal
-1406,1835,Neutral,Neutral,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1407,1836,Refusal,Hate Speech,Refusal,Neutral,Counter-Speech,Refusal,Refusal
-1408,1837,Refusal,Refusal,Refusal,Refusal,Refusal,Refusal,Refusal
-1409,1838,Refusal,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1410,1839,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1411,1840,Neutral,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1412,1841,Neutral,Hate Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1413,1842,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1414,1843,Counter-Speech,Hate Speech,Counter-Speech,Refusal,Counter-Speech,Counter-Speech,Counter-Speech
-1415,1844,Neutral,Counter-Speech,Neutral,Neutral,Counter-Speech,Neutral,Neutral
-1416,1845,Refusal,Counter-Speech,Refusal,Neutral,Refusal,Refusal,Refusal
-1417,1846,Refusal,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1418,1847,Refusal,Refusal,Refusal,Neutral,Refusal,Refusal,Refusal
-1419,1848,Refusal,Neutral,Refusal,Neutral,Refusal,Refusal,Refusal
-1420,1849,Hate Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Hate Speech,Hate Speech
-1421,1850,Neutral,Hate Speech,Neutral,Neutral,Counter-Speech,Neutral,Neutral
-1422,1851,Refusal,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1423,1852,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1424,1853,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1425,1854,Neutral,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1426,1855,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1427,1856,Neutral,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1428,1857,Refusal,Hate Speech,Refusal,Counter-Speech,Refusal,Refusal,Refusal
-1429,1858,Neutral,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1430,1859,Refusal,Hate Speech,Counter-Speech,Hate Speech,Refusal,Refusal,Refusal
-1431,1860,Counter-Speech,Hate Speech,Hate Speech,Hate Speech,Counter-Speech,Hate Speech,Hate Speech
-1432,1861,Neutral,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1433,1862,Refusal,Counter-Speech,Refusal,Neutral,Refusal,Refusal,Refusal
-1434,1863,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1435,1864,Hate Speech,Hate Speech,Hate Speech,Neutral,Counter-Speech,Hate Speech,Hate Speech
-1436,1865,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1437,1866,Refusal,Hate Speech,Refusal,Neutral,Counter-Speech,Refusal,Refusal
-1438,1867,Refusal,Counter-Speech,Refusal,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1439,1868,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1440,1869,Neutral,Hate Speech,Hate Speech,Neutral,Neutral,Neutral,Neutral
-1441,1870,Counter-Speech,Hate Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1442,1871,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1443,1872,Refusal,Refusal,Refusal,Neutral,Refusal,Refusal,Refusal
-1444,1873,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1445,1874,Neutral,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1446,1875,Neutral,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1447,1876,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1448,1877,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1449,1878,Neutral,Hate Speech,Refusal,Refusal,Refusal,Refusal,Refusal
-1450,1879,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1451,1880,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1452,1881,Counter-Speech,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1453,1882,Counter-Speech,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1454,1883,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1455,1884,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1456,1885,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1457,1886,Counter-Speech,Counter-Speech,Hate Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1458,1887,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1459,1888,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1460,1889,Refusal,Counter-Speech,Refusal,Refusal,Refusal,Refusal,Refusal
-1461,1890,Counter-Speech,Hate Speech,Hate Speech,Refusal,Counter-Speech,Counter-Speech,Counter-Speech
-1462,2320,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1463,2321,Counter-Speech,Counter-Speech,Hate Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1464,2322,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1465,2323,Counter-Speech,Hate Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1466,2324,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1467,2325,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1468,2326,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
-1469,2327,Counter-Speech,Counter-Speech,Neutral,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
-1470,2328,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+1404,1833,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1405,1834,Refusal,Counter-Speech,Refusal,Hate Speech,Refusal,,Refusal
+1406,1835,Neutral,Neutral,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1407,1836,Refusal,Hate Speech,Refusal,Neutral,Counter-Speech,,Refusal
+1408,1837,Refusal,Refusal,Refusal,Refusal,Refusal,,Refusal
+1409,1838,Refusal,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1410,1839,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1411,1840,Neutral,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1412,1841,Neutral,Hate Speech,Neutral,Counter-Speech,Counter-Speech,,Counter-Speech
+1413,1842,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1414,1843,Counter-Speech,Hate Speech,Counter-Speech,Refusal,Counter-Speech,,Counter-Speech
+1415,1844,Neutral,Counter-Speech,Neutral,Neutral,Counter-Speech,,Neutral
+1416,1845,Refusal,Counter-Speech,Refusal,Neutral,Refusal,,Refusal
+1417,1846,Refusal,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1418,1847,Refusal,Refusal,Refusal,Neutral,Refusal,,Refusal
+1419,1848,Refusal,Neutral,Refusal,Neutral,Refusal,,Refusal
+1420,1849,Hate Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Hate Speech
+1421,1850,Neutral,Hate Speech,Neutral,Neutral,Counter-Speech,,Neutral
+1422,1851,Refusal,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1423,1852,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1424,1853,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1425,1854,Neutral,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,,Counter-Speech
+1426,1855,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1427,1856,Neutral,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1428,1857,Refusal,Hate Speech,Refusal,Counter-Speech,Refusal,,Refusal
+1429,1858,Neutral,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,,Counter-Speech
+1430,1859,Refusal,Hate Speech,Counter-Speech,Hate Speech,Refusal,,Refusal
+1431,1860,Counter-Speech,Hate Speech,Hate Speech,Hate Speech,Counter-Speech,,Hate Speech
+1432,1861,Neutral,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,,Counter-Speech
+1433,1862,Refusal,Counter-Speech,Refusal,Neutral,Refusal,,Refusal
+1434,1863,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1435,1864,Hate Speech,Hate Speech,Hate Speech,Neutral,Counter-Speech,,Hate Speech
+1436,1865,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1437,1866,Refusal,Hate Speech,Refusal,Neutral,Counter-Speech,,Refusal
+1438,1867,Refusal,Counter-Speech,Refusal,Counter-Speech,Counter-Speech,,Counter-Speech
+1439,1868,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1440,1869,Neutral,Hate Speech,Hate Speech,Neutral,Neutral,,Neutral
+1441,1870,Counter-Speech,Hate Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1442,1871,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1443,1872,Refusal,Refusal,Refusal,Neutral,Refusal,,Refusal
+1444,1873,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1445,1874,Neutral,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1446,1875,Neutral,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1447,1876,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1448,1877,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1449,1878,Neutral,Hate Speech,Refusal,Refusal,Refusal,,Refusal
+1450,1879,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1451,1880,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1452,1881,Counter-Speech,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,,Counter-Speech
+1453,1882,Counter-Speech,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1454,1883,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1455,1884,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1456,1885,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1457,1886,Counter-Speech,Counter-Speech,Hate Speech,Neutral,Counter-Speech,,Counter-Speech
+1458,1887,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1459,1888,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1460,1889,Refusal,Counter-Speech,Refusal,Refusal,Refusal,,Refusal
+1461,1890,Counter-Speech,Hate Speech,Hate Speech,Refusal,Counter-Speech,,Counter-Speech
+1462,2320,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1463,2321,Counter-Speech,Counter-Speech,Hate Speech,Neutral,Counter-Speech,,Counter-Speech
+1464,2322,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1465,2323,Counter-Speech,Hate Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+1466,2324,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1467,2325,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1468,2326,Counter-Speech,Hate Speech,Hate Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+1469,2327,Counter-Speech,Counter-Speech,Neutral,Neutral,Counter-Speech,,Counter-Speech
+1470,2328,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 1471,2329,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 1472,2330,Refusal,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 1473,2331,Counter-Speech,Hate Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
@@ -2439,16 +2439,16 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 2469,1398,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 2470,1399,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 2471,1400,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2472,1401,Refusal,Counter-Speech,Refusal,Counter-Speech,Refusal,,Refusal
-2473,1402,Refusal,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2474,1403,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
-2475,1404,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2476,1405,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2477,1406,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2478,1407,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2479,1408,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2480,1409,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2481,1410,Refusal,Hate Speech,Refusal,Counter-Speech,Counter-Speech,,Refusal
+2472,1401,Refusal,Counter-Speech,Refusal,Counter-Speech,Refusal,Refusal,Refusal
+2473,1402,Refusal,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2474,1403,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Neutral,Counter-Speech
+2475,1404,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2476,1405,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2477,1406,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2478,1407,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2479,1408,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2480,1409,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2481,1410,Refusal,Hate Speech,Refusal,Counter-Speech,Counter-Speech,Counter-Speech,Refusal
 2482,1411,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 2483,1412,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 2484,1413,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
@@ -2463,13 +2463,13 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 2493,1422,Neutral,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 2494,1423,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 2495,1424,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2496,1425,Neutral,Counter-Speech,Refusal,Neutral,Refusal,,Neutral
-2497,1426,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2498,1427,Refusal,Counter-Speech,Refusal,Refusal,Refusal,,Refusal
-2499,1428,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2500,1429,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
-2501,1430,Refusal,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-2502,1431,Neutral,Neutral,Neutral,Neutral,Refusal,,Neutral
+2496,1425,Neutral,Counter-Speech,Refusal,Neutral,Refusal,Neutral,Neutral
+2497,1426,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2498,1427,Refusal,Counter-Speech,Refusal,Refusal,Refusal,Refusal,Refusal
+2499,1428,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2500,1429,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
+2501,1430,Refusal,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+2502,1431,Neutral,Neutral,Neutral,Neutral,Refusal,Neutral,Neutral
 2503,1432,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 2504,1433,Refusal,Refusal,Refusal,Refusal,Refusal,,Refusal
 2505,1434,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
@@ -3121,11 +3121,11 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 3151,4323,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 3152,4324,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 3153,4325,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-3154,4326,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-3155,4327,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-3156,4328,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-3157,4329,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-3158,4330,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+3154,4326,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+3155,4327,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+3156,4328,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+3157,4329,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
+3158,4330,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
 3159,4331,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 3160,4332,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 3161,4333,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
@@ -3668,7 +3668,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 3698,1556,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 3699,1557,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 3700,1558,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-3701,1559,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+3701,1559,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
 3702,1560,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 3703,1561,Counter-Speech,Hate Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 3704,1562,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
@@ -4263,7 +4263,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 4293,3937,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4294,3938,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4295,3939,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-4296,3940,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+4296,3940,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
 4297,3941,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4298,3942,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4299,3943,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
@@ -4432,7 +4432,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 4462,4577,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4463,4578,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4464,4579,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
-4465,4580,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+4465,4580,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
 4466,4581,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4467,4582,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4468,4583,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
@@ -4444,7 +4444,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 4474,4589,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4475,4590,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4476,4591,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
-4477,4592,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+4477,4592,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
 4478,4593,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4479,4594,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4480,4595,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
@@ -4469,7 +4469,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 4499,4614,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4500,4615,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4501,4616,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
-4502,4617,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
+4502,4617,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,Counter-Speech,Counter-Speech
 4503,4618,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4504,5090,Refusal,Counter-Speech,Refusal,Neutral,Counter-Speech,,Refusal
 4505,5091,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
@@ -4490,7 +4490,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 4520,5106,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4521,5107,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4522,5108,Refusal,Refusal,Refusal,Refusal,Refusal,,Refusal
-4523,5109,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+4523,5109,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
 4524,5110,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4525,5111,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4526,5112,Neutral,Counter-Speech,Neutral,Neutral,Counter-Speech,,Neutral
@@ -4602,7 +4602,7 @@ Annotation_ID,Response_ID,Chatgpt_Label,Claude_Label,Deepseek_Label,Llama_Label,
 4632,5218,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4633,5219,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4634,5220,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
-4635,5221,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
+4635,5221,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech
 4636,5222,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
 4637,5223,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,Counter-Speech,,Counter-Speech
 4638,5224,Counter-Speech,Counter-Speech,Counter-Speech,Neutral,Counter-Speech,,Counter-Speech
