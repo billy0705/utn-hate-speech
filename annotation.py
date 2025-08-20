@@ -48,7 +48,6 @@ if __name__ == '__main__':
                 "\t8: Exit & save\n"
                 "Your input: "
             )
-            shows_status = False
         else:
             response_id = df_random.iloc[i]['Response_ID']
             print(f"\n\nAnnotating response ID: {response_id}\n")
@@ -68,27 +67,29 @@ if __name__ == '__main__':
                 "Your input: "
             )
 
-        if user_input == '1':
+        if user_input == '1' and shows_status is False:
             df_annotations.loc[df_annotations['Response_ID'] == response_id, 'Human_Label'] = 'Hate speech'
             df_merged.loc[df_merged['Response_ID'] == response_id, 'Human_Label'] = 'Hate speech'
             i += 1
-        elif user_input == '2':
+        elif user_input == '2' and shows_status is False:
             df_annotations.loc[df_annotations['Response_ID'] == response_id, 'Human_Label'] = 'Neutral'
             df_merged.loc[df_merged['Response_ID'] == response_id, 'Human_Label'] = 'Neutral'
             i += 1
-        elif user_input == '3':
+        elif user_input == '3' and shows_status is False:
             df_annotations.loc[df_annotations['Response_ID'] == response_id, 'Human_Label'] = 'Refusal'
             df_merged.loc[df_merged['Response_ID'] == response_id, 'Human_Label'] = 'Refusal'
             i += 1
-        elif user_input == '5':
-            continue
-        elif user_input == '4':
+        elif user_input == '4' and shows_status is False:
             df_annotations.loc[df_annotations['Response_ID'] == response_id, 'Human_Label'] = 'Counter-Speech'
             df_merged.loc[df_merged['Response_ID'] == response_id, 'Human_Label'] = 'Counter-Speech'
             i += 1
+        elif user_input == '5':
+            shows_status = False
+            continue
         elif user_input == '6':
             df_annotations.to_csv("dataset/data/annotations.csv", index=False)
             print("Annotations saved.")
+            shows_status = False
         elif user_input == '7':
             shows_status = True
         elif user_input == '8':
