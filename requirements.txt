@@ -6,3 +6,4 @@ seaborn
 transformers
 torch
 accelerate
+scikit-learn

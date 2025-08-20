@@ -8,6 +8,7 @@ import shutil
 import matplotlib
 from collections import Counter
 import warnings
+from sklearn.metrics import accuracy_score, f1_score, cohen_kappa_score
 warnings.filterwarnings('ignore')
 plt.style.use('default')
 sns.set_palette("husl")
@@ -596,6 +597,21 @@ def inter_model_agreement(df_annotations):
         ax.set_ylabel('Model')
         
         save_plot(fig, "inter_model_agreement_heatmap")
+
+def models_final_sim(df):
+    print_section("7. Models Final Similarity Analysis")
+
+    models_label = ["Chatgpt_Label", "Claude_Label", "Deepseek_Label", "Llama_Label", "Qwen_Label"]
+    results = []
+    for m in models_label:
+        acc = round(accuracy_score(df["Final_Label"], df[m]), 2)
+        f1 = round(f1_score(df["Final_Label"], df[m], average="macro"), 2)
+        kappa = round(cohen_kappa_score(df["Final_Label"], df[m]), 2)
+        results.append((m, acc, f1, kappa))
+
+    print("Model\t\tAccuracy\tF1-macro\tKappa")
+    for m, acc, f1, kappa in results:
+        print(f"{m}\t{acc}\t\t{f1}\t\t{kappa}")
 
 
 if __name__ == '__main__':
