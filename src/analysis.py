@@ -614,6 +614,53 @@ def inter_model_agreement(df_annotations):
         
         save_plot(fig, "inter_model_agreement_heatmap")
 
+def per_model_label_by_language_tables(df_merged):
+    print_section("4b. Per-Model Label × Language Tables")
+
+    # consistent label ordering
+    label_order = ["Counter-Speech", "Neutral", "Refusal", "Hate Speech"]
+
+    for model, g in df_merged.groupby('Model_Name'):
+        # counts table
+        tbl_counts = g.pivot_table(
+            index='Final_Label', columns='Language',
+            values='Response_ID', aggfunc='count', fill_value=0
+        )
+
+        # enforce consistent row order (keep only labels that exist in data)
+        existing_labels = [lab for lab in label_order if lab in tbl_counts.index]
+        tbl_counts = tbl_counts.reindex(existing_labels)
+
+        # proportions by column (within each language)
+        col_sums = tbl_counts.sum(axis=0).replace(0, np.nan)
+        tbl_props = (tbl_counts / col_sums).round(3).fillna(0)
+
+        print(f"\nModel: {model} — Label × Language (Counts):")
+        print(tbl_counts.astype(int))
+
+        print(f"\nModel: {model} — Label × Language (Proportions):")
+        print(tbl_props)
+
+        # Optional: save CSVs
+        out_counts = os.path.join(PLOTS_DIR, f"{model}_label_by_language_counts.csv")
+        out_props  = os.path.join(PLOTS_DIR, f"{model}_label_by_language_props.csv")
+        try:
+            tbl_counts.to_csv(out_counts)
+            tbl_props.to_csv(out_props)
+            print(f"Saved: {out_counts}")
+            print(f"Saved: {out_props}")
+        except Exception as e:
+            print(f"Could not save CSVs for {model}: {e}")
+
+        # Optional: heatmap of proportions for each model
+        fig, ax = plt.subplots(figsize=(10, 6))
+        sns.heatmap(tbl_props, annot=True, fmt='.3f', cmap='YlOrRd', ax=ax,
+                    cbar_kws={'label': 'Proportion'})
+        ax.set_title(f'Label Proportions by Language — {model}', fontsize=14)
+        ax.set_xlabel('Language')
+        ax.set_ylabel('Label')
+        save_plot(fig, f"label_by_language_{model.lower()}_heatmap")
+
 def models_final_sim(df):
     print_section("7. Models Final Similarity Analysis")
 
@@ -644,3 +691,4 @@ if __name__ == '__main__':
     counter_speech_analysis(df_merged)
     label_distribution_analysis(df_merged)
     inter_model_agreement(df_annotations)
+    per_model_label_by_language_tables(df_merged)
