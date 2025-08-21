@@ -269,6 +269,22 @@ def model_human_agreement(df_annotations):
             
             save_plot(fig, "human_vs_final_distribution")
 
+            # disagreement_details plot
+            print(f"{disagreement_details['Final']=}")
+
+            labels = ["Counter-Speech","Neutral","Refusal","Hate Speech"]
+
+            df = pd.DataFrame(0, index=labels, columns=labels)
+
+            for (true, pred), val in disagreement_details['Final'].items():
+                df.loc[true, pred] = val
+            fig, ax = plt.subplots(figsize=(10, 8))
+            sns.heatmap(df, annot=True, fmt="d", cmap="Blues", ax=ax)
+            ax.set_xlabel("Model Prediction")
+            ax.set_ylabel("Human Label")
+            # plt.show()
+            save_plot(fig, "human_llm_error_heatmap")
+
 def safety_analysis(df_merged):
     print_section("3. Safety Analysis")
     overall_safety = df_merged['Is_Safe'].mean()
