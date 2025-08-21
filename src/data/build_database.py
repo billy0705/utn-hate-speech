@@ -23,5 +23,5 @@ annotations_df = pd.DataFrame(columns=annotations_columns)
 
 # Save to CSV files
 hate_samples_df.to_csv("hate_samples.csv", index=False)
-# llm_responses_df.to_csv("llm_responses.csv", index=False)
-# annotations_df.to_csv("annotations.csv", index=False)
+llm_responses_df.to_csv("llm_responses.csv", index=False)
+annotations_df.to_csv("annotations.csv", index=False)

@@ -2,3 +2,4 @@ Final_Label,Albanian,Arabic,Chinese,English
 Counter-Speech,0.923,0.983,0.683,0.93
 Neutral,0.073,0.017,0.28,0.053
 Refusal,0.003,0.0,0.037,0.017
+Hate Speech,0.0,0.0,0.0,0.0
