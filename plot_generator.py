@@ -26,7 +26,6 @@ if __name__ == '__main__':
     counter_speech_analysis(df_merged)
     label_distribution_analysis(df_merged)
     inter_model_agreement(df_merged)
-
-    plots_utils.plot_dataset_target_distribution(df_hate_samples, output_root='plots/pdf')
-    # plots_utils.plot_language_annotation(df_annotations, df_llm_responses, df_hate_samples, output_root='plots/pdf')
+    models_final_sim(df_merged)
+    per_model_label_by_language_tables(df_merged)
 

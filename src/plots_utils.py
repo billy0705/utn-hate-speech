@@ -4,6 +4,7 @@ import matplotlib
 import numpy as np
 import os
 import seaborn as sns
+import matplotlib.cm as cm
 
 from collections import Counter
 
@@ -60,9 +61,13 @@ def plot_dataset_target_distribution(df, output_root="../plots/pdf"):
         absolute = int(np.round(pct/100.*np.sum(allvals)))
         return f"{pct:.1f}%\n({absolute:d})"
 
+    N = len(hate_type_counts)
+    cmap = cm.get_cmap("Blues")
+    colors = [cmap(x) for x in np.linspace(0.3, 1, N)]
+
     fig, ax = plt.subplots(figsize=(6, 3), subplot_kw=dict(aspect="equal"))
     wedges, texts, autotexts = ax.pie(hate_type_counts, autopct=lambda pct: func(pct, hate_type_counts),
-                                    textprops=dict(color="w"))
+                                    textprops=dict(color="w"), colors=colors)
 
     ax.legend(wedges, Type,
             title="Hate Target",
