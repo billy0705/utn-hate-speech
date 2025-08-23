@@ -640,15 +640,15 @@ def per_model_label_by_language_tables(df_merged):
         print(f"\nModel: {model} — Label × Language (Proportions):")
         print(tbl_props)
 
-        out_counts = os.path.join(PLOTS_DIR, f"{model}_label_by_language_counts.csv")
-        out_props  = os.path.join(PLOTS_DIR, f"{model}_label_by_language_props.csv")
-        try:
-            tbl_counts.to_csv(out_counts)
-            tbl_props.to_csv(out_props)
-            print(f"Saved: {out_counts}")
-            print(f"Saved: {out_props}")
-        except Exception as e:
-            print(f"Could not save CSVs for {model}: {e}")
+        # out_counts = os.path.join(PLOTS_DIR, f"{model}_label_by_language_counts.csv")
+        # out_props  = os.path.join(PLOTS_DIR, f"{model}_label_by_language_props.csv")
+        # try:
+        #     tbl_counts.to_csv(out_counts)
+        #     tbl_props.to_csv(out_props)
+        #     print(f"Saved: {out_counts}")
+        #     print(f"Saved: {out_props}")
+        # except Exception as e:
+        #     print(f"Could not save CSVs for {model}: {e}")
 
         fig, ax = plt.subplots(figsize=(10, 6))
         sns.heatmap(tbl_props, annot=True, fmt='.3f', cmap='Blues', ax=ax,
@@ -706,15 +706,15 @@ def per_model_label_by_language_tables(df_merged):
         print(f"\nModel: {model} — Label × Language (Proportions):")
         print(tbl_props)
 
-        out_counts = os.path.join(PLOTS_DIR, f"{model}_label_by_language_counts.csv")
-        out_props  = os.path.join(PLOTS_DIR, f"{model}_label_by_language_props.csv")
-        try:
-            tbl_counts.to_csv(out_counts)
-            tbl_props.to_csv(out_props)
-            print(f"Saved: {out_counts}")
-            print(f"Saved: {out_props}")
-        except Exception as e:
-            print(f"Could not save CSVs for {model}: {e}")
+        # out_counts = os.path.join(PLOTS_DIR, f"{model}_label_by_language_counts.csv")
+        # out_props  = os.path.join(PLOTS_DIR, f"{model}_label_by_language_props.csv")
+        # try:
+        #     tbl_counts.to_csv(out_counts)
+        #     tbl_props.to_csv(out_props)
+        #     print(f"Saved: {out_counts}")
+        #     print(f"Saved: {out_props}")
+        # except Exception as e:
+        #     print(f"Could not save CSVs for {model}: {e}")
 
         fig, ax = plt.subplots(figsize=(10, 6))
         sns.heatmap(tbl_props, annot=True, fmt='.3f', cmap='Blues', ax=ax,
