@@ -2,6 +2,7 @@
 # UTN DLINT Hate-Speech Project: Lost in Translation? Hate Speech Evaluation across Languages, Models and Targets
 
 <div style="font-family: charter;">
+    Authors:
     <a href="https://github.com/billy0705" target="_blank">Ping-Lin Kuo</a>,
     <a href="https://github.com/dhsinjari" target="_blank">Dhimitri Sinjari</a>,
     <a href="https://github.com/OmarNabail" target="_blank">Omar Nabail</a>
