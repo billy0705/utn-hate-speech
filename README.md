@@ -16,11 +16,22 @@ This project is designed to process hate speech data by generating responses fro
 </div>
 
 ## 📖 Outline
+- [📂 Repository Structure](#repository-structure)
 - [⚙️ Environment Setup](#environment-setup)
 - [🗂️ Datasets](#datasets)
 - [🤖 Models We Evaluated](#model-we-evaluated)
 - [🎮 Evaluation](#evaluation)
 - [📊 Evaluation Result](#evaluation-result)
+
+## Repository Structure
+
+*   `main.py`: The main script for running experiments (gathering responses and annotating).
+*   `annotation.py`: Script for human annotation of the data.
+*   `plot_generator.py`: Generates all the plots from the analysis.
+*   `src/`: Contains the source code for data handling, models, and analysis.
+*   `dataset/`: Contains the datasets used in the project.
+*   `plots/`: Contains the generated plots and figures.
+*   `requirements.txt`: Lists the Python dependencies.
 
 ## Environment Setup
 
