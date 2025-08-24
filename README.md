@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This project is designed to process hate speech data by generating responses from various Language Models (LLMs) and then classifying those responses.
+This project studies how multilingual LLMs respond to hate speech prompts across four languages and six target groups. Using five different LLMs and 300 English samples translated into Arabic, Albanian, and Chinese from the CONAN dataset, we analyze safety performance, language effects, and target-specific behavior with validation from human annotators.
 
 <div align="center">
   <img src="assets/pipeline.png" alt="starvector" style="width: 700px; display: block; margin-left: auto; margin-right: auto;" />
@@ -56,7 +56,9 @@ This project is designed to process hate speech data by generating responses fro
 
 ## Datasets
 
-In this work we are using the [CONAN Dataset](https://github.com/marcoguerini/CONAN), we sample 300 English data from them.
+In this work we are using the [CONAN Dataset](https://github.com/marcoguerini/CONAN), sampling 300 English instances and translating them into Albanian, Arabic, and Chinese. The data is evenly distributed across six target groups: Jews, LGBT+, Migrants, People of Colour (POC), Women, and Other. This setup ensures balanced coverage across both languages and hate categories.
+The full dataset and the translated samples can be found in the repository under dataset/conan.
+
 ### Sample Translation
 We translated the 300 sample in to four languages. Our translated dataset can be find in `./dataset/data/hate_sample.csv`.
 
